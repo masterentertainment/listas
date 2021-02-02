@@ -22,7 +22,7 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Noticias", RT en Español
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/457px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nacionales", America
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/small.Logo-TVP-2021.png.d89d1857e32a8e75c4773770439faa7b.png" group-title="Nacionales", TV Pública
 https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFsYmF2aXNpb24uYXIuZWxudWV2ZV9pY29uXzE1MDk3NjQxOTNfMDQ5/icon.png?w=170&fakeurl=1" group-title="Nacionales", Elnueve
