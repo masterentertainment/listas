@@ -28,5 +28,8 @@ https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFsYmF2aXNpb24uYXIuZWxudWV2ZV9pY29uXzE1MDk3NjQxOTNfMDQ5/icon.png?w=170&fakeurl=1" group-title="Nacionales", Elnueve
 https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyMTMzOTExLCJzZXNzaW9uIjoiMTg2LjYwLjc4LjEwOSIsIndoaXRlbGlzdCI6WyIxODYuNjAuNzguMTA5Il19LCJzaWduYXR1cmUiOiI3NzZiYWRlYTBlZjNhYWI4ZDllYTBjOWFiYTg4OTFjZjViN2EwMzAzIn0%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales", Telefe
-https://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales", Eltrece
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/302-3021351_logo-net-tv-png-png-net-tv-logo.png" group-title="Nacionales", NET TV
+http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
