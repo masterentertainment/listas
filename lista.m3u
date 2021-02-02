@@ -56,13 +56,13 @@ https://1111296894.rsc.cdn77.org/ls-54548-1/playlist.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Mundo", Euronews En Español
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="Mundo", Euronews En Español
 https://euronews-es-p13-cdn.hexaglobe.net/9fb3b88328e506947f97d69598ad14ef/60197aa8/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_canal_vasco.png" group-title="Mundo", Canal Vasco
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_01/large.5a4f14f0b4b2d_ZeeMundo2017.png.bd4e0ed14cf05cc16ae4299d177e4deb.png" group-title="Mundo", Canal Vasco
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Brasil_square.svg" group-title="Mundo", CNN Brasil
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Mundo", CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 
@@ -78,3 +78,10 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Atrescine_alternative_logo.svg" group-title="Variedades", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.encuentro2020.png.08a695d5c856fec8bdb15c31b4187d0b.png" group-title="Culturales", Encuentro
+https://www.youtube.com/watch?v=I5Sinb-YA6I
