@@ -30,8 +30,7 @@ http://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales", Telefe
 https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1612278266~exp=1612454666~acl=/i/evento6hls_1@48399/*~hmac=510957bdbefdfcb7d49d774f64fb4aac21ad32d5fde784c7e2ca00db3691fbdc
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eltrece_%28Sol%29.png" group-title="Nacionales", Eltrece
-#EXTVLCOPT:http-user-agent=ArtearPlayer/3.2.42(Linux;Android4.4.2)ExoPlayerLib/1.5.9
-http://stream.eltrecetv.com.ar/live13/13tv/13tv1/playlist.m3u8
+https://live.televisiongratishd.com/tvplus2022/46_.m3u8?token=8vyZXEFdZ0pSbKIoc3Fzzg&expires=1612314943
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/302-3021351_logo-net-tv-png-png-net-tv-logo.png" group-title="Nacionales", NET TV
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fAQshbdsRDs/T3jJm7t2mnI/AAAAAAAAEvo/QcH-ssSP0-E/s1600/RTP+Internacional+logo+2004.png" group-title="Mundo", RTP Internacional
@@ -64,6 +63,9 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Mundo", CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Mundo", CNN En Español
+https://live.televisiongratishd.com/tvplus2022/66_.m3u8?token=G6_-gQ-tl1dfzMbq_8vPTQ&expires=1612315125&ip=168.232.88.253
+
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-3.png" group-title="Deportes", TNT Sports
@@ -82,8 +84,8 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Atrescine_alternative_logo.svg" group-title="Variedades", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="Variedades", FOX Channel
+https://live.televisiongratishd.com/tvplus2022/42_.m3u8?token=B6JDxN19_GWq6ea-SbImhw&expires=1612314534
 
 
 
