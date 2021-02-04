@@ -73,7 +73,8 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/verimatrix_rotating/TNT_
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.1.png.41ff69b82fc7067da290546741b0fe0f.png" group-title="Deportes", FOX Sports Premium
 https://live.televisiongratishd.com/tvplus2022/10_.m3u8?token=hpGlodCf_85crzoP0fZLNA&expires=1612314006
 
-
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.1.png.41ff69b82fc7067da290546741b0fe0f.png" group-title="Deportes", Ciudad Magazine
+http://prepublish.f.qaotic.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Variedades", Canal de la Ciudad
 https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="Variedades", Telemax
