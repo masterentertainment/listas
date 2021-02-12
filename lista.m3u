@@ -28,7 +28,7 @@ https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFsYmF2aXNpb24uYXIuZWxudWV2ZV9pY29uXzE1MDk3NjQxOTNfMDQ5/icon.png?w=170&fakeurl=1" group-title="Nacionales", Elnueve
 http://172.93.101.135:14365/live/cyx_d21drJLV5fRaFkg.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=QlvB0htjNBoz_YwNs49rO8wwa&dead_time=1612805841&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=8084fd8ac1e4b80832f58686c6170b48
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales", Telefe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eltrece_%28Sol%29.png" group-title="Nacionales", Eltrece
 http://172.93.101.135:14365/live/cyx_qCWv6bOlQ4Xce5Wu.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=GwpWaewMA9Uo_iTcXR03Hy3si&dead_time=1612803861&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=ffa200459182c0293a72835690ecf456#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/302-3021351_logo-net-tv-png-png-net-tv-logo.png" group-title="Nacionales", NET TV
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
