@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=Ri26JRy2yzw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias", La Nación +
 https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Noticias", IP Información Periodística
-https://d1nmqgphjn0y4.cloudfront./live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 Español
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 English
@@ -43,7 +43,7 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=1
 https://live1.presstv.com/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png" group-title="Mundo", Voice of America
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/SChPV5TpX1Rzyb-SHjGiVn1KybujQyik1zVEfutWYb9RM5V0tH0w8LQLrP6eTLPXuGFPu-MnuwSvtzCrzfgSbtk7BGf9yvdkGXqu7TCLDn57g190VmGH4imPjRYFiA" group-title="Mundo", Al Jazeera English
+#EXTINF:-1 tvg-logo="https://logocharts.com/wp-content/uploads/2020/07/al-jazeera-app-iphone-logo-2.png" group-title="Mundo", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Mundo", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
