@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" group-title="Noticias", A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" group-title="Noticias", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="Noticias", TN Todo Noticias
 https://youtube.com/c/todonoticias/live
