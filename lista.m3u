@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=9DXGrOU5wKQ
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
 https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFsYmF2aXNpb24uYXIuZWxudWV2ZV9pY29uXzE1MDk3NjQxOTNfMDQ5/icon.png?w=170&fakeurl=1" group-title="Nacionales", Elnueve
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/elnueve.png" group-title="Nacionales", Elnueve
 http://172.93.101.135:14365/live/cyx_d21drJLV5fRaFkg.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=QlvB0htjNBoz_YwNs49rO8wwa&dead_time=1612805841&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=8084fd8ac1e4b80832f58686c6170b48
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/telefe.png" group-title="Nacionales", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
