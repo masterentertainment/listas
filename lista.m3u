@@ -79,11 +79,11 @@ http://172.93.101.135:14365/live/cyx_dmoHwb0jRYaZG.ts?user_id=35655586&dev_id=35
 http://172.93.101.135:14365/live/cyx-0FD6D80345A3a34aF3EBECFE33CF.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=QlvB0htjNBoz_kYu0tJYsdW7h&dead_time=1612805841&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=a4ca62a2de497bad5582b744452517c9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="Deportes", DeporTV
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/deportv.png" group-title="Deportes", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/694-ciudad-magazine-agosto-logo/?do=download" group-title="Variedades", Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/magazine.png" group-title="Variedades", Ciudad Magazine
 http://prepublish.f.qaotic.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Variedades", Canal de la Ciudad
 https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
