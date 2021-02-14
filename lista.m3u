@@ -130,8 +130,8 @@ https://edge3-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Qui
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png" group-title="Culturales", Discovery Channel
 https://edge3-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="Culturales", History
+https://edge3-sl.cvattv.com.ar/live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD.m3u8
 
 
 
