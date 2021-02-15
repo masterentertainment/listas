@@ -121,7 +121,8 @@ https://edge3-sl.cvattv.com.ar/live/c2live/Much_Music/verimatrix_rotating_FTA/Mu
 https://edge3-sl.cvattv.com.ar/live/c2live/CM/verimatrix_rotating_FTA/CM.m3u8
 #EXTINF:-1 tvg-logo="http://qmusica.tv/qmusica_logo_1.png" group-title="Música", Quiero
 https://edge3-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Quiero_HD.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/8572-musictop-logo-2020-blanco/?do=download" group-title="Música", Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
 
 
 
@@ -131,8 +132,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png" group-title="Culturales", Discovery Channel
 https://edge3-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="Culturales", History
-https://edge3-sl.cvattv.com.ar/live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD.m3u8
-
+https://chromecast.cvattv.com.ar/live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD.m3u8
 
 
 
