@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" group-title="Noticias", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="Noticias", TN Todo Noticias
-https://youtube.com/c/todonoticias/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613449046/ei/9vIqYIW9NruQobIPqJ-QyA4/ip/186.60.74.77/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALSbmcniw2JXbn4O6CLgOX6H8G-nfV4H9Pfn4y3D5ov8AiAI4USrdGbqPZQ4fC5ZanXUB15IPwQnYD5yYiDIvlR-Ag%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Noticias", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.2980387507709.png.846d347227aabac21b5fe905bdf3fe6c.png" group-title="Noticias", C5N
-https://www.youtube.com/watch?v=Ri26JRy2yzw
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613448925/ei/ffIqYODSLaCA1sQPq8-S6Ao/ip/186.60.74.77/id/wNWQtUv99TE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJsOdIGx1yrpOOEm6e9yGjeJn3irMVby1RCYuqC83yhMAiEAjfUd5NtN-Nw2bAPQxIc3Eh55xdcGdX_OONX_DwmIP8A%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias", La Nación +
-https://www.youtube.com/watch?v=Lnsp9CFTIh4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613448274/ei/8u8qYMvaMvaOobIPrMGt0A0/ip/186.60.74.77/id/Lnsp9CFTIh4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYHV53O9D1658qg45eTFuE7w9wyffhqvdPnN0BfaIHXgCIQCYOJw6c11oNP5R7RC1Y92boe-H_HqShvdb70x69_HAqg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Noticias", IP Información Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 Español
@@ -16,12 +16,11 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="Noticias", Crónica HD
-https://www.youtube.com/watch?v=GiiyZRjXIMg
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613448806/ei/BvIqYO2zCN2j1sQPgZq9qA4/ip/186.60.74.77/id/iRq3FozeoeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBD9l60bw4262vcoDRtPKQK8moTd62XyooVrGVhQse0ACIDBK5nlhgcOkjBupYaSffvm1GzOgAUKiMOwmuBfgipZ1/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Noticias", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Noticias", RT en Español
-https://www.youtube.com/watch?v=9DXGrOU5wKQ
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" group-title="Nacionales", America
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613449107/ei/M_MqYJfCCY7yxwT5tI7IAg/ip/186.60.74.77/id/9DXGrOU5wKQ.43/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGmMRTWcsQy6leCAvfPrFiJzm5DiL3Ul07g6da_7je3cCIC42TRYTIjJUhtkXIluIKxshEOW26nFU4vdxRx5fEn13/file/index.m3u8#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" group-title="Nacionales", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
 https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
