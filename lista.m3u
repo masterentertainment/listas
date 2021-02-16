@@ -1,32 +1,66 @@
 #EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" group-title="Noticias", A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+https://edge-vod04-sl.cvattv.com.ar//live/live/America24/SA_Live_dash_enc_2A/America24.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="Noticias", TN Todo Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613449046/ei/9vIqYIW9NruQobIPqJ-QyA4/ip/186.60.74.77/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALSbmcniw2JXbn4O6CLgOX6H8G-nfV4H9Pfn4y3D5ov8AiAI4USrdGbqPZQ4fC5ZanXUB15IPwQnYD5yYiDIvlR-Ag%3D%3D/file/index.m3u8
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Noticias", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.2980387507709.png.846d347227aabac21b5fe905bdf3fe6c.png" group-title="Noticias", C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613448925/ei/ffIqYODSLaCA1sQPq8-S6Ao/ip/186.60.74.77/id/wNWQtUv99TE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJsOdIGx1yrpOOEm6e9yGjeJn3irMVby1RCYuqC83yhMAiEAjfUd5NtN-Nw2bAPQxIc3Eh55xdcGdX_OONX_DwmIP8A%3D/file/index.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/live/C5N/SA_Live_dash_enc_2A/C5N.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias", La Nación +
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613448274/ei/8u8qYMvaMvaOobIPrMGt0A0/ip/186.60.74.77/id/Lnsp9CFTIh4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYHV53O9D1658qg45eTFuE7w9wyffhqvdPnN0BfaIHXgCIQCYOJw6c11oNP5R7RC1Y92boe-H_HqShvdb70x69_HAqg%3D%3D/file/index.m3u8
+https://edge-live13-sl.cvattv.com.ar/live/live/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
+
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Noticias", IP Información Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 Español
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="Noticias", Crónica HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613448806/ei/BvIqYO2zCN2j1sQPgZq9qA4/ip/186.60.74.77/id/iRq3FozeoeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBD9l60bw4262vcoDRtPKQK8moTd62XyooVrGVhQse0ACIDBK5nlhgcOkjBupYaSffvm1GzOgAUKiMOwmuBfgipZ1/file/index.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/live/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Noticias", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Noticias", RT en Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613449107/ei/M_MqYJfCCY7yxwT5tI7IAg/ip/186.60.74.77/id/9DXGrOU5wKQ.43/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGmMRTWcsQy6leCAvfPrFiJzm5DiL3Ul07g6da_7je3cCIC42TRYTIjJUhtkXIluIKxshEOW26nFU4vdxRx5fEn13/file/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Noticias", CNN En Español
+https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" group-title="Nacionales", America
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
-https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/elnueve.png" group-title="Nacionales", Elnueve
-https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzNDI4MDkwLCJzZXNzaW9uIjoiMTg2LjYwLjc0Ljc3Iiwid2hpdGVsaXN0IjpbIjE4Ni42MC43NC43NyJdfSwic2lnbmF0dXJlIjoiMmQyZDc0OWUwMTlkZmIzNzdhMGYwZGMzYzJjNjcxODA2MWI3ODExMCJ9
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
@@ -72,8 +106,6 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Mundo", CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Mundo", CNN En Español
-http://172.93.101.135:14365/live/cyx-7293873B4A0Bae12D156DEE481CE.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=GwpWaewMA9Uo_LKK6fKXUHik&dead_time=1612803861&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=a662f3034743aebddbd5a027b8f83b30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Mundo", CNN Chile
 http://172.93.101.135:14365/live/cyx-7D8ECCA24B809980796A31B4EF6A.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=GwpWaewMA9Uo_RiuBOYzXmX9R&dead_time=1612803861&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=8152af767bbfd8952643ea70e54215cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="Mundo", Canal 24 Horas
@@ -130,19 +162,26 @@ https://edge3-sl.cvattv.com.ar/live/c2live/Much_Music/verimatrix_rotating_FTA/Mu
 https://edge3-sl.cvattv.com.ar/live/c2live/CM/verimatrix_rotating_FTA/CM.m3u8
 #EXTINF:-1 tvg-logo="http://qmusica.tv/qmusica_logo_1.png" group-title="Música", Quiero
 https://edge3-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Quiero_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/8572-musictop-logo-2020-blanco/?do=download" group-title="Música", Music TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
 
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.encuentro2020.png.08a695d5c856fec8bdb15c31b4187d0b.png" group-title="Culturales", Encuentro
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png" group-title="Culturales", Discovery Channel
-https://edge3-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="Culturales", History
-https://chromecast.cvattv.com.ar/live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c2live/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png" group-title="Culturales", Discovery Channel
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="Culturales", History
+https://chromecast.cvattv.com.ar/live/live/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
 
 
