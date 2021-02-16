@@ -29,10 +29,12 @@ https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzNDI4MDkwLCJzZXNzaW9uIjoiMTg2LjYwLjc0Ljc3Iiwid2hpdGVsaXN0IjpbIjE4Ni42MC43NC43NyJdfSwic2lnbmF0dXJlIjoiMmQyZDc0OWUwMTlkZmIzNzdhMGYwZGMzYzJjNjcxODA2MWI3ODExMCJ9
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/telefe.png" group-title="Nacionales", Telefe
 https://edge3-sl.cvattv.com.ar/live/c3eds/TelefeHD/verimatrix_rotating_FTA/TelefeHD.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eltrece_%28Sol%29.png" group-title="Nacionales", Eltrece
 https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
+
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/302-3021351_logo-net-tv-png-png-net-tv-logo.png" group-title="Nacionales", NET TV
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fAQshbdsRDs/T3jJm7t2mnI/AAAAAAAAEvo/QcH-ssSP0-E/s1600/RTP+Internacional+logo+2004.png" group-title="Mundo", RTP Internacional
