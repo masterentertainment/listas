@@ -31,7 +31,7 @@ https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjox
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/telefe.png" group-title="Nacionales", Telefe
-https://edge3-sl.cvattv.com.ar/live/c3eds/TelefeHD/verimatrix_rotating_FTA/TelefeHD.m3u8
+https://chromecast.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
