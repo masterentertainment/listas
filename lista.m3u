@@ -20,7 +20,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613448806/ei/B
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Noticias", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Noticias", RT en Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613449107/ei/M_MqYJfCCY7yxwT5tI7IAg/ip/186.60.74.77/id/9DXGrOU5wKQ.43/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGmMRTWcsQy6leCAvfPrFiJzm5DiL3Ul07g6da_7je3cCIC42TRYTIjJUhtkXIluIKxshEOW26nFU4vdxRx5fEn13/file/index.m3u8#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" group-title="Nacionales", America
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613449107/ei/M_MqYJfCCY7yxwT5tI7IAg/ip/186.60.74.77/id/9DXGrOU5wKQ.43/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGmMRTWcsQy6leCAvfPrFiJzm5DiL3Ul07g6da_7je3cCIC42TRYTIjJUhtkXIluIKxshEOW26nFU4vdxRx5fEn13/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" group-title="Nacionales", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
 https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
@@ -29,7 +30,7 @@ https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjox
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/telefe.png" group-title="Nacionales", Telefe
 https://edge3-sl.cvattv.com.ar/live/c3eds/TelefeHD/verimatrix_rotating_FTA/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eltrece_%28Sol%29.png" group-title="Nacionales", Eltrece
-https://edge3-sl.cvattv.com.ar/live/c3eds/ArtearHD/verimatrix_rotating_FTA/ArtearHD.m3u8
+https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/302-3021351_logo-net-tv-png-png-net-tv-logo.png" group-title="Nacionales", NET TV
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fAQshbdsRDs/T3jJm7t2mnI/AAAAAAAAEvo/QcH-ssSP0-E/s1600/RTP+Internacional+logo+2004.png" group-title="Mundo", RTP Internacional
@@ -44,6 +45,8 @@ https://live1.presstv.com/live/hispan_720p/index.m3u8
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 #EXTINF:-1 tvg-logo="https://logocharts.com/wp-content/uploads/2020/07/al-jazeera-app-iphone-logo-2.png" group-title="Mundo", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1200px-Arirang-TV-Logo.svg.png" group-title="Mundo", Airiang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Mundo", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Mundo", NHK World
