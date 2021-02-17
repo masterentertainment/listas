@@ -137,8 +137,12 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Atrescine_alternative_logo.svg" group-title="Cine y Variedades", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="Cine y Variedades", FOX Channel
 https://edge3-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="Cine y Variedades", Cine.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.583f2b1cadb6a_LogoTNTSeries(Blanco).png.cbc4b4b5fc68ea9d5fb139c19debbbcf.png" group-title="Cine y Variedades", TNT
