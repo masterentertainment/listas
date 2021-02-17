@@ -42,7 +42,7 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Noticias", CNN En Español
+#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=NWOD&providerId=CNN_ESP&sourceType=colorHybrid" group-title="Noticias", CNN En Español
 https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Noticias", RT En Español
