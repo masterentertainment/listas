@@ -141,7 +141,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="Cine y Variedades", FOX Channel
-https://edge3-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
+https://chromecast.cvattv.com.ar//live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="Cine y Variedades", Cine.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
