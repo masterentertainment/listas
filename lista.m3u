@@ -2,66 +2,52 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" group-title="Noticias", A24
-https://edge-vod04-sl.cvattv.com.ar//live/live/America24/SA_Live_dash_enc_2A/America24.mpd
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Noticias", A24
+https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="Noticias", TN Todo Noticias
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
+https://chromecast.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Noticias", Canal 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" tvg-group="Noticias", Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.2980387507709.png.846d347227aabac21b5fe905bdf3fe6c.png" group-title="Noticias", C5N
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.2980387507709.png.846d347227aabac21b5fe905bdf3fe6c.png" tvg-group="Noticias", C5N
 https://edge-live11-hr.cvattv.com.ar/live/live/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias", La Nación +
-https://edge-live13-sl.cvattv.com.ar/live/live/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" tvg-group="Noticias", LN+
+https://edge-live34-hr.cvattv.com.ar/live/live/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
-#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Noticias", IP Información Periodística
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large_IP.png.86547431b4427ace68d3b742b704119f.png" tvg-group="Noticias", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 Español
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="Noticias", Crónica HD
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_11/large.logo_cronicaTV_2_2018.png.e0493d2f28c67d050f50e53ab7aba2db.png" tvg-group="Noticias", Cronica
 https://edge-live13-hr.cvattv.com.ar/live/live/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Noticias", Telesur
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Chubut-en-vivo-Online.png" tvg-group="Locales", Canal 7 Chubut
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=NWOD&providerId=CNN_ESP&sourceType=colorHybrid" group-title="Noticias", CNN En Español
-https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Noticias", RT En Español
-https://rt-esp.secure.footprint.net/1102.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" group-title="Nacionales", America
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" tvg-group="Nacionales", America
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
-https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/elnueve.png" group-title="Nacionales", Elnueve
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/elnueve.png" tvg-group="Nacionales", Elnueve
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
+
+#EXTINF:-1 tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="Nacionales", Net TV
+http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
@@ -70,132 +56,197 @@ https://chromecast.cvattv.com.ar////live/c3eds/TelefeHD/SA_Live_dash_enc_2A/Tele
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
+https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eltrece_%28Sol%29.png" group-title="Nacionales", Eltrece
 https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/302-3021351_logo-net-tv-png-png-net-tv-logo.png" group-title="Nacionales", NET TV
-http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-bev.telecentro.net.ar/?deviceId=MzVlNmUwNTgtZDMzMC0zYTBjLTk4ZmUtYzEyMjY0MjkyZDM3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/900px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
-https://edge8113.telecentro.net.ar/ka2vrbui5qaaaaaaaeooecdaaaaaaaaaaaaie1iiekoie0ei/0004001/GlobalManifest.mpd
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fAQshbdsRDs/T3jJm7t2mnI/AAAAAAAAEvo/QcH-ssSP0-E/s1600/RTP+Internacional+logo+2004.png" group-title="Mundo", RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN En Español
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Mundo", Deutsche Welle En Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/1200px-Hispan_Tv_logo.svg.png" group-title="Mundo", HispanTV
-https://live1.presstv.com/live/hispan_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png" group-title="Mundo", Voice of America
-https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
-#EXTINF:-1 tvg-logo="https://logocharts.com/wp-content/uploads/2020/07/al-jazeera-app-iphone-logo-2.png" group-title="Mundo", Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1200px-Arirang-TV-Logo.svg.png" group-title="Mundo", Airiang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Mundo", FOX News
-https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Mundo", NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="Mundo", CNN
-https://1111296894.rsc.cdn77.org/ls-54548-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1045.1565613151.png" group-title="Mundo", BBC World News
-https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="Mundo", Euronews En Español
-https://euronews-es-p13-cdn.hexaglobe.net/9fb3b88328e506947f97d69598ad14ef/60197aa8/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.442919042_eitbbasque.png.a01de3eaf3f55155e8a74e89fd918bcb.png" group-title="Mundo", Canal Vasco
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_01/large.5a4f14f0b4b2d_ZeeMundo2017.png.bd4e0ed14cf05cc16ae4299d177e4deb.png" group-title="Mundo", ZEE Mundo
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGbwPEAcH8mPWxR_tIBAlI_spuTUjclytWg&usqp=CAU" group-title="Mundo", CNN Brasil
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Mundo", CNN Chile
-http://172.93.101.135:14365/live/cyx-7D8ECCA24B809980796A31B4EF6A.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=GwpWaewMA9Uo_RiuBOYzXmX9R&dead_time=1612803861&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=8152af767bbfd8952643ea70e54215cf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="Mundo", Canal 24 Horas
-http://172.93.101.135:14365/live/cyx-qXPF8b9pBwl0V6WSluki2.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=GwpWaewMA9Uo_kKtKttV97ydG&dead_time=1612803861&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=05cf12e839a8d02c8b257925d1bcb7d2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="Mundo", RAI Italia
-http://172.93.101.135:14365/live/cyx-f3105f4cdc2d4ea0b88f-ddf61fa.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=QlvB0htjNBoz_LaeuSEHyUh7&dead_time=1612805841&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=a17bda4fad32c29bcd7caa913470430e
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/small.2030734119_LogoTVChile2021(Blanco).png.a6aabc67e16a0269c8d220d5123c129f.png" group-title="Mundo", TV Chile
-http://172.93.101.135:14365/live/cyx_3e0m9XODHFUCm6LB.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=QlvB0htjNBoz_WwAgfD29nDvL&dead_time=1612805841&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=15182ff54d692e7647a32b0cc126c74a
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-3.png" group-title="Deportes", TNT Sports
-http://172.93.101.135:14365/live/cyx_dmoHwb0jRYaZG.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=QlvB0htjNBoz_n2flbqFrdzTU&dead_time=1612805841&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=a78ec7292fd51a673de142f35cfefaf2
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.1.png.41ff69b82fc7067da290546741b0fe0f.png" group-title="Deportes", FOX Sports Premium
-http://172.93.101.135:14365/live/cyx-0FD6D80345A3a34aF3EBECFE33CF.ts?user_id=35655586&dev_id=357891d137ab6f10bdb436ba9f97338c&trans_id=QlvB0htjNBoz_kYu0tJYsdW7h&dead_time=1612805841&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30601&client_ip=186.60.100.164&auth_id=35655586_com.mobile.telelatinomobile&token=a4ca62a2de497bad5582b744452517c9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", FOX Sports
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/931.png" group-title="Deportes", FOX Sports 2
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/4175-fox-sports-3-hd/?do=download" group-title="Deportes", FOX Sports 3
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Deportes", ESPN
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/1280px-ESPN2_logo.svg-1280x243-763178714.png" group-title="Deportes", ESPN 2
+https://chromecast.cvattv.com.ar/live/c2live/ESPN_HD/SA_Live_dash_enc_2A/ESPN_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN 3
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN 3
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
+https://edge-live34-hr.cvattv.com.ar/live/c2live/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_04/large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png" group-title="Deportes", El Garage TV
+https://edge-live34-sl.cvattv.com.ar/live/c2live/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Deportes", Discovery Turbo
+https://edge-live11-hr.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/deportv.png" group-title="Deportes", DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="Deportes", NBA TV
+https://edge-live34-hr.cvattv.com.ar/live/c2live/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd
 
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/magazine.png" group-title="Cine y Variedades", Ciudad Magazine
-http://prepublish.f.qaotic.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Cine y Variedades", Canal de la Ciudad
-https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="Cine y Variedades", Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/nGOysOWP1jMpf-9Xjg3VYjAZwgNMInQcR6SqpSWcCR7_ofH6C0UM-b_EkVtu0AOxTTKBYKRbmc2-CIB7I14nNsxtO18XmzbpEgGvp2uEZA1AMvdpFHKl4z4" group-title="Cine y Variedades", Argentinísima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Cine y Variedades", Hola TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Atrescine_alternative_logo.svg" group-title="Cine y Variedades", Atrescine
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/golf_channel.png" group-title="Deportes", Golf TV Latin America
+https://chromecast.cvattv.com.ar/live/c2live/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.pakapaka2020.png.c80ed972777c486ece0cd66045bd0b90.png" group-title="Infantiles", Paka Paka
+https://edge-live34-sl.cvattv.com.ar/live/c2live/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles", Disney Channel
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/backyardigans/images/6/62/Discovery_kids_logo.png/revision/latest?cb=20170210205019&path-prefix=es" group-title="Infantiles", Discovery Kids
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles", Nickelodeon
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png/revision/latest?cb=20191111001338" group-title="Infantiles", Cartoon Network
+https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Infantiles", Disney XD
+https://edge-live11-hr.cvattv.com.ar/live/live/DisneyXD/SA_Live_dash_enc_2A/DisneyXD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.disneylapresspack.com/storage/posts/1556572921_image002.png" group-title="Infantiles", Disney Junior
+https://edge-live13-sl.cvattv.com.ar/live/live/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/5/5e/Natgeokids.png" group-title="Infantiles", Nat Geo Kids
+https://edge-live34-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/SA_Live_dash_enc_2A/NatGeo_Kids.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Infantiles", Boomerang
+https://edge-live13-sl.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/45/Tooncast_Logo_2012.png/revision/latest?cb=20190914101433&path-prefix=es" group-title="Infantiles", Tooncast
+https://edge-live12-sl.cvattv.com.ar/live/c2live/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantiles", Nick JR.
+https://edge-live34-hr.cvattv.com.ar/live/c2live/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="Cine y Series", Cine.AR
+https://edge-live12-sl.cvattv.com.ar/live/c2live/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Cine y Series", Star Channel
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/large.CineCanal.png.2fc4d36f17434244d43316c5186d32f1.png" group-title="Cine y Series", Cinecanal
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Cine y Series", Cinemax
+https://edge-live34-sl.cvattv.com.ar/live/c2live/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.1543352145820.png.bd474f871c396813570583c2980fdc5e.png" group-title="Cine y Series", FX
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png" group-title="Cine y Series", FXM
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2A/TheFilmZoneHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="Cine y Series", Space
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/46-466028_tnt-latin-america-tnt-brasil.png" group-title="Cine y Series", TNT
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Cine y Series", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="Cine y Variedades", FOX Channel
-https://chromecast.cvattv.com.ar//live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="Cine y Variedades", Cine.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.583f2b1cadb6a_LogoTNTSeries(Blanco).png.cbc4b4b5fc68ea9d5fb139c19debbbcf.png" group-title="Cine y Variedades", TNT
-https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/master.m3u8?hdnea=st=1613338268~exp=1613338868~acl=/*~hmac=b0deb88e505966ca3dac89c7d16a03a246892c3a9e631d63d260d20362eb48f1
-#EXTINF:-1 tvg-logo="https://bit.ly/logoTNT" group-title="Cine y Variedades", TNT Series
-https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/master.m3u8?hdnea=st=1613338814~exp=1613339414~acl=/*~hmac=52fb180a825572cefa3a24e1ee711dc34fd37b8d200fe8e1bfb8a50ca5c11a82
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="Cine y Variedades", ISAT
-https://edge3-sl.cvattv.com.ar/live/c2live/ISAT/verimatrix_rotating_FTA/ISAT.m3u8
-#EXTINF:-1 tvg-logo="https://www.artear.com/assets/uploads/canales/7cce6-volver.png" group-title="Cine y Variedades", Volver
-https://edge3-sl.cvattv.com.ar/live/c2live/Volver/verimatrix_rotating_FTA/Volver.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.1974169565_Cinecanal2018.png.c4da6f985ec5a880a40edc9510db3f81.png" group-title="Cine y Variedades", Cinecanal
-https://edge3-sl.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating_FTA/CinecanalHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Cine y Variedades", Comedy Central
-https://edge3-sl.cvattv.com.ar/live/live/ComedyCentral/verimatrix_rotating_FTA/ComedyCentral.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png" group-title="Música", MTV
-https://edge3-sl.cvattv.com.ar/live/c2live/MTV_HD/verimatrix_rotating_FTA/MTV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://muchla.com/images/logo.png" group-title="Música", Much Music
-https://edge3-sl.cvattv.com.ar/live/c2live/Much_Music/verimatrix_rotating_FTA/Much_Music.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Música", CM
-https://edge3-sl.cvattv.com.ar/live/c2live/CM/verimatrix_rotating_FTA/CM.m3u8
-#EXTINF:-1 tvg-logo="http://qmusica.tv/qmusica_logo_1.png" group-title="Música", Quiero
-https://edge3-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Quiero_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/8572-musictop-logo-2020-blanco/?do=download" group-title="Música", Music TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Cine y Series", AMC
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.encuentro2020.png.08a695d5c856fec8bdb15c31b4187d0b.png" group-title="Culturales", Encuentro
-https://edge-live31-hr.cvattv.com.ar/live/c2live/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1636-paramount-network/?do=download" group-title="Cine y Series", Paramount Network
+https://edge-live32-sl.cvattv.com.ar/live/live/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png" group-title="Culturales", Discovery Channel
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine y Series", TCM
+https://edge-live31-sl.cvattv.com.ar/live/c2live/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="Culturales", History
-https://chromecast.cvattv.com.ar/live/live/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.pakapaka2020.png.c80ed972777c486ece0cd66045bd0b90.png" group-title="Infantiles", Paka Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.Studio-Universal-2016.png.3ab79835c4893c9dbcee443ad433dc39.png" group-title="Cine y Series", Studio Universal
