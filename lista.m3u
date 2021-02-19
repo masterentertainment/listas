@@ -462,7 +462,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/bloomberg.png" group-title="Mundo", Bloomberg
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1279008.png" group-title="Mundo", Bloomberg
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
@@ -582,5 +582,46 @@ https://edge-live31-hr.cvattv.com.ar/live/c2live/Canal_21/SA_Live_dash_enc_2A/Ca
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Mh2-ei2dzWJqMJBRMXqs9w/featured_channel.jpg?v=5d6e901d" group-title="Religión", Nueva Imágen
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/712/CH_LOGO/1920/1080/0/0/6514958607308.png" group-title="Religión", Nueva Imágen
 https://edge-live34-sl.cvattv.com.ar/live/c2live/Nueva_Imagen/SA_Live_dash_enc_2A/Nueva_Imagen.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png" group-title="Música", MTV
+https://edge-live34-hr.cvattv.com.ar/live/c2live/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Música", Quiero
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-vh1-white.png" group-title="Música", VH1
+https://edge-live13-hr.cvattv.com.ar/live/live/VH1/SA_Live_dash_enc_2A/VH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://muchla.com/images/logo.png" group-title="Música", Much
+https://edge-live12-sl.cvattv.com.ar/live/c2live/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Música", CM
+https://edge-live12-hr.cvattv.com.ar/live/c2live/CM/SA_Live_dash_enc_2A/CM.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/6404-mtv-hits/?do=download" group-title="Música", MTV Hits
+https://edge-live34-hr.cvattv.com.ar/live/c2live/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="Música", Nick music
+https://edge-live31-sl.cvattv.com.ar/live/c2live/VH1_Megahits/SA_Live_dash_enc_2A/VH1_Megahits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/HTV_2009.png/revision/latest/scale-to-width-down/340?cb=20190125010658&path-prefix=es" group-title="Música", HTV
+https://edge-live31-sl.cvattv.com.ar/live/c2live/HTV/SA_Live_dash_enc_2A/HTV.mpd
+
