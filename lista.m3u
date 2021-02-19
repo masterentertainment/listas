@@ -745,12 +745,12 @@ https://edge-vod01-sl.cvattv.com.ar///live/c2live/HBO_Signature/SA_Live_dash_enc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbopopcolor.png.187d7f94027c73008845963b243409c6.png" group-title="HBO Pack", HBO Signature
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbopopcolor.png.187d7f94027c73008845963b243409c6.png" group-title="HBO Pack", HBO Pop
 https://edge-vod02-sl.cvattv.com.ar///live/live/Max_UP_HD/SA_Live_dash_enc_2A/Max_UP_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png" group-title="HBO Pack", HBO Signature
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png" group-title="HBO Pack", HBO Xtreme
 https://edge-vod02-hr.cvattv.com.ar///live/c2live/Max_Prime_HD/SA_Live_dash_enc_2A/Max_Prime_HD.mpd
 
 _________________________________________________________________________________________________________________________________________________________________
