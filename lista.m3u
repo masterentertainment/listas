@@ -23,8 +23,6 @@ https://edge-live11-hr.cvattv.com.ar/live/live/C5N/SA_Live_dash_enc_2A/C5N.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" tvg-group="Noticias", LN+
 https://edge-live34-hr.cvattv.com.ar/live/live/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large_IP.png.86547431b4427ace68d3b742b704119f.png" tvg-group="Noticias", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
@@ -37,7 +35,7 @@ https://edge-live13-hr.cvattv.com.ar/live/live/CronicaTV/SA_Live_dash_enc_2A/Cro
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12
-https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
