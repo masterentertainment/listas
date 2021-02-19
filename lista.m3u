@@ -36,6 +36,9 @@ https://edge-live13-hr.cvattv.com.ar/live/live/CronicaTV/SA_Live_dash_enc_2A/Cro
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Chubut-en-vivo-Online.png" tvg-group="Locales", Canal 7 Chubut
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/elnueve.png" tvg-group="Nacionales", Elnueve
@@ -254,11 +257,6 @@ https://edge-live12-hr.cvattv.com.ar/live/c2live/Studio_Universal/SA_Live_dash_e
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/718/CH_LOGO/1920/1080/0/0/358638080777.png" group-title="Variedades", Volver
-https://edge-live34-hr.cvattv.com.ar/live/c2live/Volver/SA_Live_dash_enc_2A/Volver.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.artear.com/assets/uploads/canales/7cce6-volver.png" group-title="Variedades", Volver
 https://edge-live34-hr.cvattv.com.ar/live/c2live/Volver/SA_Live_dash_enc_2A/Volver.mpd
 
@@ -352,6 +350,11 @@ https://edge-live32-sl.cvattv.com.ar/live/live/ID/SA_Live_dash_enc_2A/ID.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.encuentro2020.png.08a695d5c856fec8bdb15c31b4187d0b.png" group-title="Culturales", Encuentro
+https://edge-live31-hr.cvattv.com.ar/live/c2live/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="Culturales", History
 https://edge-live31-sl.cvattv.com.ar/live/live/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
@@ -410,9 +413,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c2live/Discovery_Science/SA_Live_dash_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://edge-live31-hr.cvattv.com.ar/live/c2live/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fAQshbdsRDs/T3jJm7t2mnI/AAAAAAAAEvo/QcH-ssSP0-E/s1600/RTP+Internacional+logo+2004.png" group-title="Mundo", RTP
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
@@ -430,6 +430,11 @@ https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_05/large.31322655071667.png.326a542098640ad6d68ccb72705c175a.png" group-title="Mundo", BAND Internacional
+https://edge-live32-hr.cvattv.com.ar/live/live/Bandeirantes/SA_Live_dash_enc_2A/Bandeirantes.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_6423_7_7023.png" group-title="Mundo", CNN En Español
 https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
@@ -439,3 +444,143 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Mundo", RT En Español
 https://rt-esp.secure.footprint.net/1102.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Mundo", France 24 En Español
+https://edge-live34-hr.cvattv.com.ar/live/c2live/France_24/SA_Live_dash_enc_2A/France_24.mpd
+
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Mundo", NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/120px-CNN_International_logo.svg.png" group-title="Mundo", CNN Internacional
+https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1045.1565613151.png" group-title="Mundo", BBC World News
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1279008.png" group-title="Mundo", Bloomberg
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
+https://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.442919042_eitbbasque.png.a01de3eaf3f55155e8a74e89fd918bcb.png" group-title="Mundo", Eitb Basque
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_01/large.5a4f14f0b4b2d_ZeeMundo2017.png.bd4e0ed14cf05cc16ae4299d177e4deb.png" group-title="Mundo", ZEE Mundo
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
+https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_TV_Chile_2020.png" group-title="Mundo", TV Chile
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5aa872ea37634_TV5MondeAmeriqueLatine.png.7cd3479167d25e28cf35b4da42259d4b.png" group-title="Mundo", TV5 Monde Amerique Latine
+https://edge-live34-sl.cvattv.com.ar/live/c2live/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Mundo", Antena 3 Internacional
+https://edge-live34-sl.cvattv.com.ar/live/c2live/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.ucltv.png.d72282618afcb46065c692b61b7802ce.png" group-title="Mundo", UCL
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_2A/Canal_U.mpd
+
+#EXTINF:-1 tvg-logo="https://logocharts.com/wp-content/uploads/2020/07/al-jazeera-app-iphone-logo-2.png" group-title="Mundo", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1661-las-estrellas-2020/?do=download" group-title="Mundo", Las Estrellas
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/7233-nuevo-logo-telemundo-internacional-25102018-presente/?do=download" group-title="Estlos de Vida", Telemundo Internacional
+https://edge-live32-hr.cvattv.com.ar/live/live/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Estlos de Vida", Discovery Home & Health
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1027/CH_LOGO/1920/1080/0/0/49211360074909.png" group-title="Estlos de Vida", TLC
+https://edge-live31-hr.cvattv.com.ar/live/c2live/TLC/SA_Live_dash_enc_2A/TLC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1280px-HGTV_US_Logo_2015.svg.png" group-title="Estlos de Vida", HGTV
+https://edge-live11-sl.cvattv.com.ar/live/live/Home_and_Garden/SA_Live_dash_enc_2A/Home_and_Garden.mpd
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Estlos de Vida", Hola! TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Estlos de Vida", Glitz*
+https://edge-live31-sl.cvattv.com.ar/live/c2live/Glitz/SA_Live_dash_enc_2A/Glitz.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/340?cb=20200114222838&path-prefix=es" group-title="Estlos de Vida", Más Chic
+https://edge-live12-sl.cvattv.com.ar/live/c2live/Mas_Chic/SA_Live_dash_enc_2A/Mas_Chic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="Estlos de Vida", E!
+https://edge-live34-sl.cvattv.com.ar/live/c2live/E_Entertainment_Television/SA_Live_dash_enc_2A/E_Entertainment_Television.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Estlos de Vida", Food Network
+https://edge-live12-sl.cvattv.com.ar/live/c2live/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Estlos de Vida", El Gourmet
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Estlos de Vida", Lifetime
+https://edge-live34-sl.cvattv.com.ar/live/c2live/Lifetime/SA_Live_dash_enc_2A/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Estlos de Vida", Pasiones
+https://edge-live32-hr.cvattv.com.ar/live/live/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/5272-ewtn-2016/?do=download" group-title="Religión", EWTN
+https://edge-live34-hr.cvattv.com.ar/live/c2live/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_canalLUZ2018.png.10890d92d9e4e9eae1904b68d8e33fbb.png" group-title="Religión", Canal LUZ
+https://edge-live11-sl.cvattv.com.ar/live/live/CANAL_LUZ/SA_Live_dash_enc_2A/CANAL_LUZ.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Mh2-ei2dzWJqMJBRMXqs9w/featured_channel.jpg?v=5d6e901d" group-title="Religión", Orbe 21
+https://edge-live31-hr.cvattv.com.ar/live/c2live/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Mh2-ei2dzWJqMJBRMXqs9w/featured_channel.jpg?v=5d6e901d" group-title="Religión", Nueva Imágen
+https://edge-live34-sl.cvattv.com.ar/live/c2live/Nueva_Imagen/SA_Live_dash_enc_2A/Nueva_Imagen.mpd
