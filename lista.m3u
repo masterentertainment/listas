@@ -462,7 +462,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1279008.png" group-title="Mundo", Bloomberg
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/bloomberg.png" group-title="Mundo", Bloomberg
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
