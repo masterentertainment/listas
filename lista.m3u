@@ -1,7 +1,7 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-vod.clarovideo.net/licenser/getlicense
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Noticias", Test
 https://latamliveclarovideo.akamaized.net/Content/dash_fk/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd
 
