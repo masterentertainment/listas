@@ -1,11 +1,6 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://widevine-vod.clarovideo.net/licenser/getcertificate
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png" tvg-group="Noticias", Claro Cinema
-https://latamliveclarovideo.akamaized.net/Content/dash_fk/Live/Channel(CLARO_CINEMA)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Noticias", A24
 https://edge-vod04-sl.cvattv.com.ar//live/live/America24/SA_Live_dash_enc_2A/America24.mpd
@@ -76,7 +71,7 @@ https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Can
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.license.istreamplanet.com/widevine/api/license/41710beb-de7c-4d5d-bf03-2db003b86f11
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/json/dtv.json
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", Directv Sports
 https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
 
