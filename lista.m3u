@@ -102,8 +102,8 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN Extra
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN+/SA_Live_dash_enc_2A/ESPN+.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Deportes", ESPN Extra
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
@@ -222,7 +222,7 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/small.321216179_space-tv(1).png.71e24afb4cd37de0b048d6f686b62950.png" group-title="Variedades", Space
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Space.png" group-title="Variedades", Space
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -725,7 +725,7 @@ https://edge-vod01-hr.cvattv.com.ar//live/c2live/HBO_2/SA_Live_dash_enc_2A/HBO_2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1280px-Logohboplus2019.svg.png" group-title="HBO Pack", HBO Plus
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097924471-HBO-plis-pequenio-b.png" group-title="HBO Pack", HBO Plus
 https://edge-vod04-sl.cvattv.com.ar///live/c2live/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -753,14 +753,56 @@ https://edge-vod02-sl.cvattv.com.ar///live/live/Max_UP_HD/SA_Live_dash_enc_2A/Ma
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png" group-title="HBO Pack", HBO Xtreme
 https://edge-vod02-hr.cvattv.com.ar///live/c2live/Max_Prime_HD/SA_Live_dash_enc_2A/Max_Prime_HD.mpd
 
-_________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="Star Premium Pack", Star Series
 https://edge-vod02-hr.cvattv.com.ar//live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarClassics_Logo2021_FondoOscuro.png.f7cd32710dcf0ab5c99586e83e8f2a42.png" group-title="Star Premium Pack", Star Classics
+https://edge-vod03-hr.cvattv.com.ar///live/live/FoxClassics/SA_Live_dash_enc_2A/FoxClassics.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png" group-title="Star Premium Pack", Star Cinema
+https://edge-vod02-sl.cvattv.com.ar///live/live/FoxCinema/SA_Live_dash_enc_2A/FoxCinema.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarAction_Logo2021_FondoOscuro.png.9ce5338a20f5a3cc2725793156809319.png" group-title="Star Premium Pack", Star Action
+https://edge-vod01-sl.cvattv.com.ar///live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/FoxActionHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarFun_Logo2021_FondoOscuro.png.2d12c2f71bc530fafe6b6e4d44986ffd.png" group-title="Star Premium Pack", Star Fun
+https://edge-vod02-sl.cvattv.com.ar///live/live/FoxFamily/SA_Live_dash_enc_2A/FoxFamily.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png" group-title="Star Premium Pack", Star Hits
+https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png" group-title="Star Premium Pack", Star Comedy
+https://edge-vod03-hr.cvattv.com.ar///live/live/FoxComedy/SA_Live_dash_enc_2A/FoxComedy.mpd
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/972-9721467_1-tvg-logo-http-sextreme-tv.png" group-title="HOT PACK", Sextreme
+https://edge-vod04-sl.cvattv.com.ar///live/c2live/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="HOT PACK", Venus
+https://edge-vod04-sl.cvattv.com.ar///live/c2live/Venus/SA_Live_dash_enc_2A/Venus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FuVRDEY3bjw/Vh7sA2mxAaI/AAAAAAAAMck/QOSw4ppioCA/s1600/conejo.png" group-title="HOT PACK", Playboy TV
+https://edge-vod04-sl.cvattv.com.ar///live/c2live/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
