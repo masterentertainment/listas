@@ -37,7 +37,7 @@ https://edge-live13-hr.cvattv.com.ar/live/live/CronicaTV/SA_Live_dash_enc_2A/Cro
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12
-https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
