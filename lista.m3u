@@ -819,38 +819,3 @@ https://edge-vod03-hr.cvattv.com.ar///live/live/FoxComedy/SA_Live_dash_enc_2A/Fo
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<channels>
-<channel update="i" site="reportvMulti.com.ar" site_id="343##1987" xmltv_id="AMERICA 24">A24</channel>
-<channel update="i" site="reportvMulti.com.ar" site_id="36##1987" xmltv_id="TN">TN</channel>
-<channel update="i" site="reportvMulti.com.ar" site_id="2433##2078" xmltv_id="26 TV HD">Canal 26</channel>
-<channel update="i" site="reportvMulti.com.ar" site_id="2429##2078" xmltv_id="C5N HD">C5N</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="3644" xmltv_id="La Naci&#243;n">LN+</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="6158" xmltv_id="IP">IP</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="96" xmltv_id="El Nueve">Elnueve</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="175" xmltv_id="Am&#233;rica 2">America</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="35" xmltv_id="Telefe">Telefe</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="4646" xmltv_id="Net TV">Net TV</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="6" xmltv_id="El Trece">Eltrece</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="292" xmltv_id="TV P&#250;blica Argentina">TV Pública</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="40" xmltv_id="TyC Sports">TyC Sports</channel>
-DIRECTV SPORTS
-DIRECTV SPORTS 2
-DIRECTV SPORTS +
-<channel update="i" site="buscadorcablevision.com.ar" site_id="223" xmltv_id="Fox Sports">FOX Sports</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="978" xmltv_id="Fox Sports 2">FOX Sports 2</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="362" xmltv_id="Fox Sports 3">FOX Sports 3</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="18" xmltv_id="ESPN 2">ESPN</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="229" xmltv_id="ESPN">ESPN 2</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="2005" xmltv_id="ESPN 3">ESPN 3</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="1132" xmltv_id="ESPN Extra HD">ESPN Extra</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="84" xmltv_id="America Sports">America Sports</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="358" xmltv_id="El Garage">El Garage TV</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="492" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="2195" xmltv_id="DEPORTV">DeporTV</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="753" xmltv_id="NBA TV">NBA TV</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="734" xmltv_id="The Golf Channel">Golf TV Latin America</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="1492" xmltv_id="PakaPaka">Paka Paka</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="136" xmltv_id="Disney Channel">Disney Channel</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="76" xmltv_id="Discovery Kids">Discovery Kids</channel>
-<channel update="i" site="buscadorcablevision.com.ar" site_id="3952" xmltv_id="NICKELODEON HD">Nickelodeon</channel>
-</channels>
