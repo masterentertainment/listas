@@ -669,6 +669,15 @@ http://63.247.91.178:12688/stream
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/COAjNT_WcAEdXXr.png" group-title="Radios", Radio 3 Cadena Patagonia
 https://cdn.instream.audio/:9085/stream
 
+#EXTINF:-1 tvg-logo="https://lu17.com/wp-content/uploads/2015/01/logo.png" group-title="Radios", LU17 Radio Golfo Nuevo
+http://138.36.96.199:8001/lu17
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/LRA11_Nacional_Comodoro_Rivadavia_%282021%29.png/640px-LRA11_Nacional_Comodoro_Rivadavia_%282021%29.png" group-title="Radios", LRA11 Radio Nacional Comodoro Rivadavia
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad11
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Radio_Nacional_Argentina_%282021%29.png" group-title="Radios", LRA9 Radio Nacional Esquel
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad9
+
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png" group-title="Radios", Radio Disney
 https://musicsrc.cvattv.com.ar/RDIS
 
@@ -687,16 +696,16 @@ https://dcp.cienradios.com.ar/fm999/fm999,56,32,.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="Radios", Continental
 https://14933.live.streamtheworld.com/CONTINENTALAAC.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Radio_Nacional_Argentina_%282021%29.png" group-title="Radios", Nacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Radio_Nacional_Argentina_%282021%29.png" group-title="Radios", LRA Radio Nacional
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Radio_Nacional_Rock2021.svg/1280px-Radio_Nacional_Rock2021.svg.png" group-title="Radios", Nacional Rock
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Radio_Nacional_Rock2021.svg/1280px-Radio_Nacional_Rock2021.svg.png" group-title="Radios", LRA337 Nacional Rock
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png/1920px-LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png" group-title="Radios", Nacional Folklórica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png/1920px-LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png" group-title="Radios", LRA339 Nacional Folklórica
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LRA338_Nacional_Cl%C3%A1sica_%282021%29.png/1920px-LRA338_Nacional_Cl%C3%A1sica_%282021%29.png" group-title="Radios", Nacional Clásica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LRA338_Nacional_Cl%C3%A1sica_%282021%29.png/1920px-LRA338_Nacional_Cl%C3%A1sica_%282021%29.png" group-title="Radios", LRA338 Nacional Clásica
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s101605/images/logoq.png" group-title="Radios", Radio 10
@@ -822,40 +831,3 @@ https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png" group-title="Star Premium Pack", Star Comedy
 https://edge-vod03-hr.cvattv.com.ar///live/live/FoxComedy/SA_Live_dash_enc_2A/FoxComedy.mpd
 
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.3 -- Jan van Straaten" site="sportklub.hr">
-  <channels>
-    <channel update="i" site="reportvMulti.com.ar" site_id="343##1987" xmltv_id="AMERICA 24">A24</channel>
-    <channel update="i" site="reportvMulti.com.ar" site_id="36##1987" xmltv_id="TN">TN</channel>
-    <channel update="i" site="reportvMulti.com.ar" site_id="2433##2078" xmltv_id="26 TV HD">Canal 26</channel>
-    <channel update="i" site="reportvMulti.com.ar" site_id="2429##2078" xmltv_id="C5N HD">C5N</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="3644" xmltv_id="La Naci&#243;n">LN+</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="6158" xmltv_id="IP">IP</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="96" xmltv_id="El Nueve">Elnueve</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="175" xmltv_id="Am&#233;rica 2">America</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="35" xmltv_id="Telefe">Telefe</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="4646" xmltv_id="Net TV">Net TV</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="6" xmltv_id="El Trece">Eltrece</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="292" xmltv_id="TV P&#250;blica Argentina">TV Pública</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="40" xmltv_id="TyC Sports">TyC Sports</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="223" xmltv_id="Fox Sports">FOX Sports</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="978" xmltv_id="Fox Sports 2">FOX Sports 2</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="362" xmltv_id="Fox Sports 3">FOX Sports 3</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="18" xmltv_id="ESPN 2">ESPN</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="229" xmltv_id="ESPN">ESPN 2</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="2005" xmltv_id="ESPN 3">ESPN 3</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="1132" xmltv_id="ESPN Extra HD">ESPN Extra</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="84" xmltv_id="America Sports">America Sports</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="358" xmltv_id="El Garage">El Garage TV</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="492" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="2195" xmltv_id="DEPORTV">DeporTV</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="753" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="734" xmltv_id="The Golf Channel">Golf TV Latin America</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="1492" xmltv_id="PakaPaka">Paka Paka</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="136" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="76" xmltv_id="Discovery Kids">Discovery Kids</channel>
-    <channel update="i" site="buscadorcablevision.com.ar" site_id="3952" xmltv_id="NICKELODEON HD">Nickelodeon</channel>
-   </channels>
-</site>
