@@ -667,13 +667,13 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w14191026
 http://63.247.91.178:12688/stream
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/COAjNT_WcAEdXXr.png" group-title="Radios", Radio 3 Cadena Patagonia
-https://hls2.instream.audio/hls/cast-cdn.instream.audio.9085.stream/stream.m3u8
+https://cdn.instream.audio/:9085/stream
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png" group-title="Radios", Radio Disney
-https://mdstrm.com/audio/5db1aedcf0829139c07b1285/icecast.audio
+https://musicsrc.cvattv.com.ar/RDIS
 
 #EXTINF:-1 tvg-logo="https://web.flow.com.ar/img/radios/radioMitre.png" group-title="Radios", Radio Mitre
-https://buecrplb01.cienradios.com.ar/Mitre790.aac
+https://musicsrc.cvattv.com.ar/RMIT
 
 #EXTINF:-1 tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Radios", POP 101.5
 https://ny2.stweb.tv/popradio/live/playlist.m3u8
@@ -702,7 +702,7 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s101605/images/logoq.png" group-title="Radios", Radio 10
 https://s6.stweb.tv/radio10/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rivadavia.com.ar/images/Rivadavia/logo-Rivadavia_new.png" group-title="Música", Rivadavia
+#EXTINF:-1 tvg-logo="https://rivadavia.com.ar/images/Rivadavia/logo-Rivadavia_new.png" group-title="Radios", Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135092/images/logog.png" group-title="Radios", Vale 97.5
@@ -711,6 +711,9 @@ https://s6.stweb.tv/vale/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lared.am/static/media/logo.75e18703.png" group-title="Radios", Radio La Red
 https://latamstreaming-live-os.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/LS10DelPlata_2021.svg/1200px-LS10DelPlata_2021.svg.png" group-title="Radios", Del Plata
+https://musicsrc.cvattv.com.ar/RDPL
+
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Radios", Aspen
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 
@@ -718,7 +721,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENA3.mp3
 
 #EXTINF:-1 tvg-logo="https://web.flow.com.ar/img/radios/RadioCNN.svg" group-title="Radios", CNN Radio Argentina
-https://estudio.cnnradioargentina.com.ar/stream
+https://musicsrc.cvattv.com.ar/RCNN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Radios", Los 40
 https://23033.live.streamtheworld.com/LOS40_ARGENTINAAAC.aac
@@ -726,7 +729,7 @@ https://23033.live.streamtheworld.com/LOS40_ARGENTINAAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="Radios", Radio France Internationale
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/small.REEbug2016.png.af15dd7d3c326be48cbe49274274708b.png" group-title="Radios", RNE Exterior
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/small.REEbug2016.png.af15dd7d3c326be48cbe49274274708b.png" group-title="Radios", Radio Exterior España
 https://crtve-rneree-main.hls.nmdn.net/crtve_rneree_main_aac/stream_abr/playlist.m3u8
 
 _________________________________________________________________________________________________________________________________________________________________
