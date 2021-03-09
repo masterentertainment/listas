@@ -494,9 +494,6 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-logo="https://media.cnnchile.com/sites/2/2018/06/750px-CNN_Chile_Logo.svg_.png" group-title="Mundo", CNN Chile
 https://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="Mundo", Canal 24 Horas (Chile)
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1045.1565613151.png" group-title="Mundo", BBC World News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 
