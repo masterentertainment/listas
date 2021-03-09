@@ -634,6 +634,9 @@ https://edge-live11-sl.cvattv.com.ar/live/live/CANAL_LUZ/SA_Live_dash_enc_2A/CAN
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Mh2-ei2dzWJqMJBRMXqs9w/featured_channel.jpg?v=5d6e901d" group-title="Religión", Orbe 21
 https://edge-live31-hr.cvattv.com.ar/live/c2live/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 
+#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/favicon.png" group-title="Religión", Unife TV
+https://latamstreaming-live-os.akamaized.net/live_passthrough_static/unifearg1_ar_only/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png" group-title="Radios y Música", MTV
