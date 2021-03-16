@@ -554,7 +554,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c2live/Canal_de_las_estrellas/SA_Live_
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.VTVPLUS_1.png.50aa76f8858f3e5501d1a85c0807bd14.png" group-title="Mundo", VTV Plus (Uruguay)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Mundo", VTV Plus (Uruguay)
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
