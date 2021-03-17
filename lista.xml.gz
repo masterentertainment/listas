@@ -841,10 +841,3 @@ https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png" group-title="Star Premium Pack", Star Comedy
 https://edge-vod03-hr.cvattv.com.ar///live/live/FoxComedy/SA_Live_dash_enc_2A/FoxComedy.mpd
-
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://verimatrix.yuno-tv.com/sv-mx.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_11/large.goldenpremier2020.png.cd882c5a8cd7561c71a2bb5715f5a5b0.png" group-title="Pack Golden Premiere", Golden Premiere
-https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
