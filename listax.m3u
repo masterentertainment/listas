@@ -537,7 +537,7 @@ https://edge-live32-hr.cvattv.com.ar/live/live/Telemundo_HD/SA_Live_dash_enc_2A/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Estlos de Vida", Discovery Home & Health
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Estlos de Vida", Discovery Home And Health
 https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
