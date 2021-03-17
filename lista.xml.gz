@@ -299,7 +299,7 @@ https://edge-live32-sl.cvattv.com.ar/live/live/AXNHD/SA_Live_dash_enc_2A/AXNHD.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/networkLogo/ae.png" group-title="Variedades", A&E 
+#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/networkLogo/ae.png" group-title="Variedades", AE 
 https://edge-live11-hr.cvattv.com.ar/live/live/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
