@@ -33,9 +33,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_11/large.logo_cronicaTV_2_2018.png.e0493d2f28c67d050f50e53ab7aba2db.png" tvg-group="Noticias", Cronica
 https://edge-live13-hr.cvattv.com.ar/live/live/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Chubut-en-vivo-Online.png" tvg-group="Locales", Canal 7 Chubut
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpublicafueguina.com.ar/wp-content/uploads/2020/05/cropped-TVP-50-A%C3%91OS-LOGO-OFICIAL.png" tvg-group="Locales", TV Pública Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
