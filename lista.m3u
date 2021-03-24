@@ -732,26 +732,41 @@ https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/small.REEbug2016.png.af15dd7d3c326be48cbe49274274708b.png" group-title="Radios y Música", Radio Exterior España
 https://crtve-rneree-main.hls.nmdn.net/crtve_rneree_main_aac/stream_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2201/PNG/512/apple_music_android_logo_icon_134021.png" group-title="Radios y Música", Nuevos Clásicos
+#EXTINF:-1 tvg-logo="https://git.io/JYT1b" group-title="Radios y Música", Nuevos Clásicos
 https://musicsrc.cvattv.com.ar/RM03
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/77/8c/05/778c054e198d3cf0f53b95e5eeeb191b.png" group-title="Radios y Música", Música Electrónica
+#EXTINF:-1 tvg-logo="https://git.io/JYT16" group-title="Radios y Música", Música Electrónica
 https://musicsrc.cvattv.com.ar/RM41
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/03/09/57/guitar-309440_960_720.png" group-title="Radios y Música", Grandes del Rock
+#EXTINF:-1 tvg-logo="https://git.io/JYT11" group-title="Radios y Música", Grandes del Rock
 https://musicsrc.cvattv.com.ar/RM18
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2201/PNG/512/apple_music_android_logo_icon_134021.png" group-title="Radios y Música", Reggaeton Romántico
+#EXTINF:-1 tvg-logo="https://git.io/JYT1h" group-title="Radios y Música", Reggaeton Romántico
 https://musicsrc.cvattv.com.ar/RM30
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2201/PNG/512/apple_music_android_logo_icon_134021.png" group-title="Radios y Música", Música Latina
+#EXTINF:-1 tvg-logo="https://git.io/JYT1Q" group-title="Radios y Música", Música Latina
 https://musicsrc.cvattv.com.ar/RM31
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2201/PNG/512/apple_music_android_logo_icon_134021.png" group-title="Radios y Música", Reggaeton
+#EXTINF:-1 tvg-logo="https://git.io/JYTMv" group-title="Radios y Música", Reggaeton
 https://musicsrc.cvattv.com.ar/RM29
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2201/PNG/512/apple_music_android_logo_icon_134021.png" group-title="Radios y Música", Rock Nacional
+#EXTINF:-1 tvg-logo="https://git.io/JYTMT" group-title="Radios y Música", Rock Nacional
 https://musicsrc.cvattv.com.ar/RM17
+
+#EXTINF:-1 tvg-logo="https://git.io/JYT12" group-title="Radios y Música", 90's Internacional
+https://musicsrc.cvattv.com.ar/RM04
+
+#EXTINF:-1 tvg-logo="https://git.io/JYTMt" group-title="Radios y Música", Tango
+https://musicsrc.cvattv.com.ar/RM46
+
+#EXTINF:-1 tvg-logo="https://git.io/JYT1V" group-title="Radios y Música", Música Disco
+https://musicsrc.cvattv.com.ar/RM14
+
+#EXTINF:-1 tvg-logo="https://git.io/JYT19" group-title="Radios y Música", Jazz
+https://musicsrc.cvattv.com.ar/RM37
+
+#EXTINF:-1 tvg-logo="https://git.io/JYT1p" group-title="Radios y Música", Reggae
+https://musicsrc.cvattv.com.ar/RM23
 _________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
