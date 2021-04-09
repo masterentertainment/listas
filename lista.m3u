@@ -73,6 +73,11 @@ https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/Art
 https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.tsnt2.xyz/json/dtv.json?9lc9pq
+#EXTINF:-1 group-title="Test", DirecTV Sports
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://161800.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="Deportes", TyC Sports
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
