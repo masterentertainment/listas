@@ -1,6 +1,6 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.tsnt2.xyz/json/dtv.json?9lc9pq
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.tsnt2.xyz/json/dtv.json
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Pruebas", DirecTV Sports
 https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
 
