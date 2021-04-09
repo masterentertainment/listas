@@ -1,4 +1,8 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.tsnt2.xyz/json/dtv.json?9lc9pq
+#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Pruebas", DirecTV Sports
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://161800.tsnt2.xyz/cv.php
@@ -71,11 +75,6 @@ https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/Art
 #KODIPROP:inputstream.adaptive.license_key=https://161800.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
 https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.tsnt2.xyz/json/dtv.json?9lc9pq
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Test", DirecTV Sports
-https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://161800.tsnt2.xyz/cv.php
