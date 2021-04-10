@@ -2,18 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/small.686205051_VTVUruguayLogo2021.png.386eb4439afe4a5e09a3788dc6350b40.png" tvg-group="Pruebas", VTV (UY)
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" tvg-group="Pruebas", VTV Plus (UY)
-https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Noticias", A24
 https://edge-vod04-sl.cvattv.com.ar//live/live/America24/SA_Live_dash_enc_2A/America24.mpd
 
@@ -58,17 +46,17 @@ https://edge9-sl.cvattv.com.ar/live/c2live/Diputados_TV/SA_Live_dash_enc_2A/Dipu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/elnueve.png" tvg-group="Nacionales", Elnueve
+#EXTINF:-1 tvg-logo="https://git.io/JOTO8" tvg-group="Nacionales", Elnueve
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/america.png" tvg-group="Nacionales", America
+#EXTINF:-1 tvg-logo="https://git.io/JOTO0" tvg-group="Nacionales", America
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/telefe.png" group-title="Nacionales", Telefe
+#EXTINF:-1 tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe
 https://chromecast.cvattv.com.ar////live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 #EXTINF:-1 tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="Nacionales", Net TV
@@ -81,7 +69,7 @@ https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/Art
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/tvp.png" group-title="Nacionales", TV Pública
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Nacionales", TV Pública
 https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -141,7 +129,7 @@ https://edge-live11-hr.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_dash_enc_2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/deportv.png" group-title="Deportes", DeporTV
+#EXTINF:-1 tvg-logo="https://git.io/JOTOg" group-title="Deportes", DeporTV
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -341,10 +329,10 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/Fox_Life/SA_Live_dash_enc_2A/Fo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://servidor1.xyz/images/magazine.png" group-title="Variedades", Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png" group-title="Variedades", Argentinísima Satelital
+#EXTINF:-1 tvg-logo="https://git.io/JOTOr" group-title="Variedades", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -496,7 +484,7 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://media.cnnchile.com/sites/2/2018/06/750px-CNN_Chile_Logo.svg_.png" group-title="Mundo", BBC World News
+#EXTINF:-1 tvg-logo="https://git.io/JOTYY" group-title="Mundo", BBC World News
 https://chromecast.cvattv.com.ar/live/c2live/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -506,7 +494,7 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://www.xevo.com/wp-content/uploads/2019/04/Bloomberg-Logo.png" group-title="Mundo", WOBI
+#EXTINF:-1 tvg-logo="https://git.io/JOTY3" group-title="Mundo", WOBI
 https://edge4-hr.cvattv.com.ar/live/c2live/WOBI/SA_Live_dash_enc_2A/WOBI.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
