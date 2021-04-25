@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" group-title="Noticias", A24
+http://xdgo.live:8080/live/rbio25/Yu5CvCdJYw/512.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="Noticias", TN
+http://xdgo.live:8080/live/rbio25/Yu5CvCdJYw/541.ts
