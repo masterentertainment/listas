@@ -526,15 +526,10 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
 https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
-https://edge-live12-hr.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile Op.2
 http://xdgo.live:8080/live/rbio25/Yu5CvCdJYw/1761.ts
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/large.1828449706_13iChile.png.cdaee1f5e678bf9eb53f30c5c8e635a9.png" group-title="Mundo", 13i
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/large.1828449706_13iChile.png.cdaee1f5e678bf9eb53f30c5c8e635a9.png" group-title="Mundo", 13i (Chile)
 http://xdgo.live:8080/live/rbio25/Yu5CvCdJYw/1739.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
