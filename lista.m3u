@@ -112,6 +112,9 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Deportes", ESPN Extra
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png" group-title="Deportes", Claro Sports Latam
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
@@ -241,6 +244,9 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/T
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Variedades", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="Variedades", Cine Latino
+https://vp01-ch27.delivery.fuugo.com/ngrp:vp01-Cine_Latino-fdb1e2f0_all/playlist.m3u8?ex=1619514558&ul=36&sf=332e4208bececafe9dc82588fc972aed
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
