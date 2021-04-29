@@ -456,6 +456,12 @@ https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://edge-live31-hr.cvattv.com.ar/live/c2live/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.startve2020.png.3e6044ca3eb1225a49e4dab01aee965b.png" group-title="Mundo", Star TVE
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/saby06wc1cbmy37.m3u8?s=mA8xjbxaDHNswi9NriJBfg&e=1619735197
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Mundo", 24 Horas (España)
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
