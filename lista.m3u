@@ -1,11 +1,6 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/json/dtv.json
-#EXTINF:-1 tvg-group="Noticias", DTVS
-https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Noticias", A24
 https://edge-vod04-sl.cvattv.com.ar//live/live/America24/SA_Live_dash_enc_2A/America24.mpd
@@ -64,8 +59,10 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/Am
 #EXTINF:-1 tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe
 https://chromecast.cvattv.com.ar////live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="Nacionales", Net TV
-http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+https://edge5-hr.cvattv.com.ar/live/c2live/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
