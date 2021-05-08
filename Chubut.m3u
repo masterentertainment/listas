@@ -849,7 +849,7 @@ https://edge-vod02-sl.cvattv.com.ar///live/live/FoxFamily/SA_Live_dash_enc_2A/Fo
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png" group-title="Star Premium Pack", Star Hits
 https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Chubut-en-vivo-Online.png" tvg-group="Locales", Canal 7 Chubut
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
