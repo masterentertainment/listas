@@ -241,9 +241,6 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Variedades", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="Variedades", Cine Latino
-https://vp01-ch27.delivery.fuugo.com/ngrp:vp01-Cine_Latino-fdb1e2f0_all/playlist.m3u8?ex=1619514558&ul=36&sf=332e4208bececafe9dc82588fc972aed
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Variedades", AMC
