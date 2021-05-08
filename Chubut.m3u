@@ -20,7 +20,7 @@ https://edge-live11-hr.cvattv.com.ar/live/live/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" tvg-group="Noticias", La Nación +
+#EXTINF:-1 tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
 https://edge-live34-hr.cvattv.com.ar/live/live/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -438,22 +438,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c2live/Discovery_Science/SA_Live_dash_
 https://edge-live34-hr.cvattv.com.ar/live/c2live/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://jugador.cablegratistv.online/vip/deportes.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="Mundo", VTV (Uruguay)
-https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://jugador.cablegratistv.online/vip/deportes.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_03/large.vtvplus2021.png.950d5d0dd17df48938411976f97b2422.png" group-title="Mundo", VTV Plus (Uruguay)
-https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://edge-live31-hr.cvattv.com.ar/live/c2live/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.startve2020.png.3e6044ca3eb1225a49e4dab01aee965b.png" group-title="Mundo", Star TVE
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/saby06wc1cbmy37.m3u8?s=mA8xjbxaDHNswi9NriJBfg&e=1619735197
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Mundo", 24 Horas (España)
 https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
@@ -472,8 +459,10 @@ https://live1.presstv.com/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia801307.us.archive.org/14/items/VOANewscasts/VOANewscasts_itemimage.png" group-title="Mundo", Voice Of America
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Mundo", FOX News
-https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://git.io/J35od" group-title="Mundo", Euronews
+https://edge-live34-hr.cvattv.com.ar/live/c2live/Euronews/SA_Live_dash_enc_2A/Euronews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -501,9 +490,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/120px-CNN_International_logo.svg.png" group-title="Mundo", CNN Internacional
 https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd
-
-#EXTINF:-1 tvg-logo="https://git.io/JO7hJ" group-title="Mundo", Canal 24 Horas (Chile)
-http://xdgo.live:8080/live/rbio25/Yu5CvCdJYw/27509.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -535,10 +521,7 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
 https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
-http://xdgo.live:8080/live/rbio25/Yu5CvCdJYw/1761.ts
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/large.1828449706_13iChile.png.cdaee1f5e678bf9eb53f30c5c8e635a9.png" group-title="Mundo", 13i (Chile)
-http://xdgo.live:8080/live/rbio25/Yu5CvCdJYw/1739.ts
+https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -744,6 +727,9 @@ https://musicsrc.cvattv.com.ar/RCNN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Radios y Música", Los 40
 https://23033.live.streamtheworld.com/LOS40_ARGENTINAAAC.aac
 
+#EXTINF:-1 tvg-logo="https://berlin1079.com/wp-content/uploads/2021/02/logo-para-web-e1612544621347.png" group-title="Radios y Música", Radio Berlin
+https://s8.stweb.tv/berlin/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="Radios y Música", Radio France Internationale
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 
@@ -869,17 +855,18 @@ https://edge-vod02-sl.cvattv.com.ar///live/live/FoxFamily/SA_Live_dash_enc_2A/Fo
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png" group-title="Star Premium Pack", Star Hits
 https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png" group-title="Star Premium Pack", Star Comedy
-https://edge-vod03-hr.cvattv.com.ar///live/live/FoxComedy/SA_Live_dash_enc_2A/FoxComedy.mpd
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Chubut-en-vivo-Online.png" tvg-group="Locales", Canal 7 Chubut
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12
+#EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12 Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/J35KF" tvg-group="Locales", Canal 9 Cdro. Rivadavia
+https://live.canalnueve.tv/canal.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Radios y Música", LU20 Radio Chubut
 http://63.247.91.178:12688/stream
@@ -890,8 +877,14 @@ https://cdn.instream.audio/:9085/stream
 #EXTINF:-1 tvg-logo="https://lu17.com/wp-content/uploads/2015/01/logo.png" group-title="Radios y Música", LU17 Radio Golfo Nuevo
 http://138.36.96.199:8001/lu17
 
+#EXTINF:-1 tvg-logo="https://git.io/J35PY" group-title="Radios y Música", Radio 3 Andina
+https://cdn.instream.audio/:9073/stream
+
 #EXTINF:-1 tvg-logo="https://git.io/JOTLw" group-title="Radios y Música", LRA11 Radio Nacional Comodoro Rivadavia
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad11
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LU4_Nacional_Patagonia_%282021%29.png/763px-LU4_Nacional_Patagonia_%282021%29.png" group-title="Radios y Música", LU4 Nacional Radio Patagonia
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTLg" group-title="Radios y Música", LRA9 Radio Nacional Esquel
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad9
