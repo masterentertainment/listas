@@ -865,19 +865,19 @@ https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Radios y Música", LU20 Radio Chubut
 http://63.247.91.178:12688/stream
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/COAjNT_WcAEdXXr.png" group-title="Radios y Música", Radio 3 Cadena Patagonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/COAjNT_WcAEdXXr.png" group-title="Radios Locales", Radio 3 Cadena Patagonia
 https://cdn.instream.audio/:9085/stream
 
-#EXTINF:-1 tvg-logo="https://lu17.com/wp-content/uploads/2015/01/logo.png" group-title="Radios y Música", LU17 Radio Golfo Nuevo
+#EXTINF:-1 tvg-logo="https://lu17.com/wp-content/uploads/2015/01/logo.png" group-title="Radios Locales", LU17 Radio Golfo Nuevo
 http://138.36.96.199:8001/lu17
 
-#EXTINF:-1 tvg-logo="https://git.io/J35PY" group-title="Radios y Música", Radio 3 Andina
+#EXTINF:-1 tvg-logo="https://git.io/J3511" group-title="Radios Locales", Radio 3 Andina
 https://cdn.instream.audio/:9073/stream
 
-#EXTINF:-1 tvg-logo="https://git.io/JOTLw" group-title="Radios y Música", LRA11 Radio Nacional Comodoro Rivadavia
+#EXTINF:-1 tvg-logo="https://git.io/JOTLw" group-title="Radios Locales", LRA11 Radio Nacional Comodoro Rivadavia
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad11
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LU4_Nacional_Patagonia_%282021%29.png/763px-LU4_Nacional_Patagonia_%282021%29.png" group-title="Radios y Música", LU4 Nacional Radio Patagonia
+#EXTINF:-1 tvg-logo="https://git.io/J351K" group-title="Radios Locales", LU4 Nacional Radio Patagonia
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTLg" group-title="Radios y Música", LRA9 Radio Nacional Esquel
