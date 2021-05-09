@@ -859,7 +859,7 @@ https://chromecast.cvattv.com.ar/live/c2live/Canal_8_CBA/SA_Live_dash_enc_2A/Can
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1398908762_b700000_slen.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://canales.televisionenvivo-internet.online/packfutbol/cv.php
+#KODIPROP:inputstream.adaptive.license_key=https://125241.megatelevisionhd.xyz/cv2.php
 #EXTINF:-1 tvg-logo="https://lascronologias.files.wordpress.com/2020/04/eldoce-logo.png?w=712" group-title="Locales", Eldoce
 https://chromecast.cvattv.com.ar/live/c2live/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd
 
