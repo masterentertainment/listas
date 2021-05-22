@@ -26,7 +26,7 @@ https://edge-live34-hr.cvattv.com.ar/live/live/La_Nacion/SA_Live_dash_enc_2A/La_
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large_IP.png.86547431b4427ace68d3b742b704119f.png" tvg-group="Noticias", Información Periodística
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+https://chromecast.cvattv.com.ar/live/live/Investigacion_Periodistica/SA_Live_dash_enc_2A/Investigacion_Periodistica.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
