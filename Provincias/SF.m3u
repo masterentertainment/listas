@@ -853,37 +853,68 @@ https://edge-vod02-sl.cvattv.com.ar///live/live/FoxFamily/SA_Live_dash_enc_2A/Fo
 https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="" tvg-group="Locales", Telefe Rosario
+#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-rosario.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" tvg-group="Locales", Telefe Rosario
 https://edge-live12-sl.cvattv.com.ar/live/c2live/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd 
 
-#EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12 Madryn
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" tvg-group="Locales", Telefe Santa Fe
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1621685627~exp=1621862027~acl=/i/canal13santafe_1@751190/*~hmac=78eda3f60b495ce61ee309b5fd871fe8849d7391eea5af72ef2eb32f39caa2ef
 
-#EXTINF:-1 tvg-logo="https://git.io/J35KF" tvg-group="Locales", Canal 9 Cdro. Rivadavia
-https://live.canalnueve.tv/canal.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-rosario.php
+#EXTINF:-1 tvg-logo="https://git.io/J35KF" tvg-group="Locales", Eltres Rosario
+https://edge10-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/.m3u8
+#EXTINF:-1 tvg-logo="https://git.io/JsQT8" tvg-group="Locales", CL3 Cable Visión
+https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Radios y Música", LU20 Radio Chubut
-http://63.247.91.178:12688/stream
+#EXTINF:-1 tvg-logo="https://git.io/JsQI0" tvg-group="Locales", Canal 12 Correa
+http://arcast.net:1935/correadigital/canal12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/COAjNT_WcAEdXXr.png" group-title="Radios Locales", Radio 3 Cadena Patagonia
-https://cdn.instream.audio/:9085/stream
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Link-Tv-Canal-en-vivo-Online-218x150.png" tvg-group="Locales", Link TV
+https://panel.dattalive.com/8128/8128/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lu17.com/wp-content/uploads/2015/01/logo.png" group-title="Radios Locales", LU17 Radio Golfo Nuevo
-http://138.36.96.199:8001/lu17
+#EXTINF:-1 tvg-logo="https://git.io/JsQLS" tvg-group="Locales", TDC
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://git.io/J3511" group-title="Radios Locales", Radio 3 Andina
-https://cdn.instream.audio/:9073/stream
+#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" tvg-group="Locales", C5SF
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://git.io/JOTLw" group-title="Radios Locales", LRA11 Radio Nacional Comodoro Rivadavia
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad11
+#EXTINF:-1 tvg-logo="https://git.io/JsQtK" tvg-group="Locales", Litus TV
+http://streaming.arcast.com.ar:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://git.io/J351K" group-title="Radios Locales", LU4 Nacional Radio Patagonia
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-rosario.php
+#EXTINF:-1 tvg-logo="https://5rtv.com.ar/wp-content/uploads/2021/05/cropped-SANTA-FE-CANAL_CURVAS-02-270x270.png" tvg-group="Locales", Santa Fe Canal
+https://edge-live31-sl.cvattv.com.ar/live/c4eds/5RTV/SA_Live_dash_enc_2A/5RTV.mpd
 
-#EXTINF:-1 tvg-logo="https://git.io/JOTLg" group-title="Radios y Música", LRA9 Radio Nacional Esquel
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad9
+#EXTINF:-1 tvg-logo="https://quierovertv.com/wp-content/uploads/2020/12/coach_img4.png" tvg-group="Locales", VerTV Venado Tuerto
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JsQnC" tvg-group="Locales", Veo Santa Fe
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Nueve_Litoral_%28Logo_2011_-_2%29.png" tvg-group="Locales", Canal 9 Litoral
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JsQcY" group-title="Radios y Música", LT28 Radio Rafaela
+http://server.laradio.online:8008/;
+
+#EXTINF:-1 tvg-logo="http://radioamanecer.com.ar/wp-content/uploads/2017/08/logoradio-1024x400.png" group-title="Radios Locales", Radio Amanecer
+http://streaming2.locucionar.com:8756/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.pushalert.co/icons/default_icon-18814.png?1585803848" group-title="Radios Locales", Radio Obligado
+http://server.laradio.online:25625/live
+
+#EXTINF:-1 tvg-logo="http://lt3.com.ar/wp-content/uploads/2021/04/logo_header-73x110-1.png" group-title="Radios Locales", LT3
+http://stream.lt3.com.ar:8000/stream
+
+#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/LT8_V_.png" group-title="Radios Locales", LT8 Radio La Ocho
+http://stream.lt8.com.ar:8080/lt8radio.mp3
+
+#EXTINF:-1 tvg-logo="https://git.io/JsQ4o" group-title="Radios Locales", Radio Libertad AM 1090
+http://streaming2.locucionar.com:8669/stream
+
+#EXTINF:-1 tvg-logo="https://git.io/JsQBC" group-title="Radios y Música", LT2 Radio Dos
+http://radio2.radio.rosario3.com:8000/prueba2
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
