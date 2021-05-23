@@ -864,7 +864,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdne
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-rosario.php
-#EXTINF:-1 tvg-logo="https://git.io/J35KF" tvg-group="Locales", Eltres Rosario
+#EXTINF:-1 tvg-logo="https://www.grupotelevisionlitoral.com/imagenes/canal-3/logo-canal-3.png" tvg-group="Locales", Eltres Rosario
 https://edge10-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd
 
 #EXTINF:-1 tvg-logo="https://git.io/JsQT8" tvg-group="Locales", CL3 Cable Visión
@@ -914,6 +914,6 @@ http://stream.lt8.com.ar:8080/lt8radio.mp3
 #EXTINF:-1 tvg-logo="https://git.io/JsQ4o" group-title="Radios Locales", Radio Libertad AM 1090
 http://streaming2.locucionar.com:8669/stream
 
-#EXTINF:-1 tvg-logo="https://git.io/JsQBC" group-title="Radios y Música", LT2 Radio Dos
+#EXTINF:-1 tvg-logo="https://www.grupotelevisionlitoral.com/imagenes/radio-2/logo-radio-2.png" group-title="Radios y Música", LT2 Radio Dos
 http://radio2.radio.rosario3.com:8000/prueba2
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
