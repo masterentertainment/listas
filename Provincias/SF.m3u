@@ -902,7 +902,7 @@ http://server.laradio.online:8008/;
 #EXTINF:-1 tvg-logo="http://radioamanecer.com.ar/wp-content/uploads/2017/08/logoradio-1024x400.png" group-title="Radios Locales", Radio Amanecer
 http://streaming2.locucionar.com:8756/stream
 
-#EXTINF:-1 tvg-logo="https://cdn.pushalert.co/icons/default_icon-18814.png?1585803848" group-title="Radios Locales", Radio Obligado
+#EXTINF:-1 tvg-logo="http://www.am1440.com.ar/wp-content/uploads/cropped-logoradio3.png" group-title="Radios Locales", Radio Obligado
 http://server.laradio.online:25625/live
 
 #EXTINF:-1 tvg-logo="http://lt3.com.ar/wp-content/uploads/2021/04/logo_header-73x110-1.png" group-title="Radios Locales", LT3
