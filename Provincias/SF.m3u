@@ -916,4 +916,28 @@ http://streaming2.locucionar.com:8669/stream
 
 #EXTINF:-1 tvg-logo="https://www.grupotelevisionlitoral.com/imagenes/radio-2/logo-radio-2.png" group-title="Radios y Música", LT2 Radio Dos
 http://radio2.radio.rosario3.com:8000/prueba2
+
+#EXTINF:-1 tvg-logo="https://git.io/JsF8d" group-title="Radios y Música", LRA5 Nacional Rosario
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad5
+
+#EXTINF:-1 tvg-logo="http://am1330rosario.com.ar/wp-content/uploads/logo-am1330rosario-blanco-1.png" group-title="Radios y Música", Radio AM 1330 Rosario
+http://51.161.119.117:8156/stream
+
+#EXTINF:-1 tvg-logo="http://www.lt23.com.ar/images/logo.png" group-title="Radios y Música", LT23 Radio Regional
+http://streaming2.locucionar.com:8172/stream
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTLY" group-title="Radios y Música", LRA14 Nacional Santa Fe
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad14
+
+#EXTINF:-1 tvg-logo="https://git.io/JsFBG" group-title="Radios y Música", LT10 Radio Universidad
+https://pad20.com:8555/vivo
+
+#EXTINF:-1 tvg-logo="https://www.lt9.com.ar/assets/img/logo_dic18_a_ant.png" group-title="Radios y Música", LT9 Radio Brig. Lopez
+http://streaming1.locucionar.com:12294/stream
+
+#EXTINF:-1 tvg-logo="http://www.radiobelgranosuardi.com.ar/images/logoradio.png" group-title="Radios y Música", Radio Belgrano Suardi
+http://pad20.com:8310/vivo
+
+#EXTINF:-1 tvg-logo="http://guia.devenado.ar/contenidos/agencia3846.png" group-title="Radios y Música", LT29 Radio Venado Tuerto
+http://01.solumedia.com.ar:7201/;
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
