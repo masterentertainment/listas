@@ -852,7 +852,7 @@ https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-cordoba.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png" group-title="Locales", Telefe Córdoba
+#EXTINF:-1 tvg-logo="https://git.io/JsbRu" group-title="Locales", Telefe Córdoba
 https://chromecast.cvattv.com.ar/live/c2live/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
