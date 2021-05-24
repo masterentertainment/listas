@@ -868,5 +868,5 @@ https://chromecast.cvattv.com.ar/live/c2live/Canal_12_CBA/SA_Live_dash_enc_2A/Ca
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B2CfVZspSt8/XWbnyTY-ozI/AAAAAAAAHbQ/7m6hhGRqtLwgXYsQ4tq5mHpfljZUBFifACLcBGAs/s1600/radio-universidad-cordoba.png" group-title="Radios Locales", Radio Universidad
 http://srtunc.lorini.net:30304/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LRA7_Nacional_C%C3%B3rdoba_%282021%29.png/1200px-LRA7_Nacional_C%C3%B3rdoba_%282021%29.png" group-title="Radios Locales", LRA7 Radio Nacional Córdoba
+#EXTINF:-1 tvg-logo="https://git.io/Jsxx3" group-title="Radios Locales", LRA7 Radio Nacional Córdoba
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7
