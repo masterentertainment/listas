@@ -856,10 +856,10 @@ ________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-rosario.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" tvg-group="Locales", Telefe Rosario
+#EXTINF:-1 tvg-logo="https://git.io/JsbRp" tvg-group="Locales", Telefe Rosario
 https://edge-live12-sl.cvattv.com.ar/live/c2live/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" tvg-group="Locales", Telefe Santa Fe
+#EXTINF:-1 tvg-logo="https://git.io/Jsb0k" tvg-group="Locales", Telefe Santa Fe
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1621685627~exp=1621862027~acl=/i/canal13santafe_1@751190/*~hmac=78eda3f60b495ce61ee309b5fd871fe8849d7391eea5af72ef2eb32f39caa2ef
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
