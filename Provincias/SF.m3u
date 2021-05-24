@@ -859,18 +859,15 @@ ________________________________________________________________________________
 #EXTINF:-1 tvg-logo="https://git.io/JsbRp" tvg-group="Locales", Telefe Rosario
 https://edge-live12-sl.cvattv.com.ar/live/c2live/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd 
 
-#EXTINF:-1 tvg-logo="https://git.io/Jsb0k" tvg-group="Locales", Telefe Santa Fe
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1621685627~exp=1621862027~acl=/i/canal13santafe_1@751190/*~hmac=78eda3f60b495ce61ee309b5fd871fe8849d7391eea5af72ef2eb32f39caa2ef
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-rosario.php
-#EXTINF:-1 tvg-logo="https://www.grupotelevisionlitoral.com/imagenes/canal-3/logo-canal-3.png" tvg-group="Locales", Eltres Rosario
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Eltres_TV_Rosario_%28Logo_2018_-_2%29.png/" tvg-group="Locales", Eltres Rosario
 https://edge10-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd
 
 #EXTINF:-1 tvg-logo="https://git.io/JsQT8" tvg-group="Locales", CL3 Cable Visión
 https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Link-Tv-Canal-en-vivo-Online-218x150.png" tvg-group="Locales", Link TV
+#EXTINF:-1 tvg-logo="https://git.io/JsxAE" tvg-group="Locales", Link TV
 https://panel.dattalive.com/8128/8128/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://git.io/JsQLS" tvg-group="Locales", TDC
@@ -905,10 +902,10 @@ http://streaming2.locucionar.com:8756/stream
 #EXTINF:-1 tvg-logo="http://www.am1440.com.ar/wp-content/uploads/cropped-logoradio3.png" group-title="Radios Locales", Radio Obligado
 http://server.laradio.online:25625/live
 
-#EXTINF:-1 tvg-logo="http://lt3.com.ar/wp-content/uploads/2021/04/logo_header-73x110-1.png" group-title="Radios Locales", LT3
+#EXTINF:-1 tvg-logo="https://git.io/JsxAV" group-title="Radios Locales", LT3
 http://stream.lt3.com.ar:8000/stream
 
-#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/LT8_V_.png" group-title="Radios Locales", LT8 Radio La Ocho
+#EXTINF:-1 tvg-logo="https://git.io/JsxAK" group-title="Radios Locales", LT8 Radio La Ocho
 http://stream.lt8.com.ar:8080/lt8radio.mp3
 
 #EXTINF:-1 tvg-logo="https://git.io/JsQ4o" group-title="Radios Locales", Radio Libertad AM 1090
@@ -932,7 +929,7 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad14
 #EXTINF:-1 tvg-logo="https://git.io/JsFBG" group-title="Radios y Música", LT10 Radio Universidad
 https://pad20.com:8555/vivo
 
-#EXTINF:-1 tvg-logo="https://www.lt9.com.ar/assets/img/logo_dic18_a_ant.png" group-title="Radios y Música", LT9 Radio Brig. Lopez
+#EXTINF:-1 tvg-logo="https://git.io/JsxAy" group-title="Radios y Música", LT9 Radio Brig. Lopez
 http://streaming1.locucionar.com:12294/stream
 
 #EXTINF:-1 tvg-logo="http://www.radiobelgranosuardi.com.ar/images/logoradio.png" group-title="Radios y Música", Radio Belgrano Suardi
