@@ -855,9 +855,6 @@ ________________________________________________________________________________
 #EXTINF:-1 tvg-logo="https://git.io/JGvdi" tvg-group="Locales", Canal 10
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://git.io/JGvdv" tvg-group="Locales", Telefe Neuquén
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1621961410~exp=1622137810~acl=/i/canal7neuquen_1@751158/*~hmac=5cd5891d738e646a4abd1b8801b12d1269f7dcee2ecc601025f64840a6b001b4
-
 #EXTINF:-1 tvg-logo="https://git.io/JGvxP" group-title="Radios y Música", LRA54 Nacional Ingeniero Jacobacci
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad54
 
