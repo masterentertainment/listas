@@ -158,8 +158,8 @@ https://chromecast.cvattv.com.ar/live/c2live/Golf_Channel/SA_Live_dash_enc_2A/Go
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.pakapaka2020.png.c80ed972777c486ece0cd66045bd0b90.png" group-title="Infantiles y Familiares", Paka Paka
-https://edge-live34-sl.cvattv.com.ar/live/c2live/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_05/large.5926515ad593d_TyCSports2.png.f9764d5923b5ccc026914c54e65e0d53.png" group-title="Deportes", TyC Sports 2 (FEED OCASIONAL)
+https://edge-live34-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/SA_Live_dash_enc_2A/Eventos_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
