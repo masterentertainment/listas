@@ -898,5 +898,8 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B2CfVZspSt8/XWbnyTY-ozI/AAAAAAAAHbQ/7m6hhGRqtLwgXYsQ4tq5mHpfljZUBFifACLcBGAs/s1600/radio-universidad-cordoba.png" group-title="Radios Locales", Radio Universidad
 http://srtunc.lorini.net:30304/stream
 
+#EXTINF:-1 tvg-logo="https://git.io/JZZKl" group-title="Radios Locales", Radio Mitre Córdoba
+https://musicsrc.cvattv.com.ar/RMCB
+
 #EXTINF:-1 tvg-logo="https://git.io/Jsxx3" group-title="Radios Locales", LRA7 Radio Nacional Córdoba
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7
