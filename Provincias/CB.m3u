@@ -1,8 +1,22 @@
 #EXTM3U
-_________________
+_________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" tvg-group="Pruebas", TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-_________________
+
+#EXTINF:-1 tvg-logo="https://git.io/JZrwT" tvg-group="Pruebas", Mirador TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1589570551.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
+#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2021/01/PX-Sports-Logo-Full-Color-Fondo-Color-2020_PX-Sports-Logo-Original-Fondo-Negro-Copy-e1612556942625.png" tvg-group="Noticias", PX Sports
+https://edge-live11-hr.cvattv.com.ar/live/live/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
+
+#EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Pruebas", TV Perú
+http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Pruebas", CNN Chile
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+_________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
