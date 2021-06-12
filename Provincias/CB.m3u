@@ -14,13 +14,13 @@ https://edge-live11-hr.cvattv.com.ar/live/live/PX_Sports/SA_Live_dash_enc_2A/PX_
 #EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Pruebas", TV Perú
 http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Pruebas", CNN Chile
+#EXTINF:-1 tvg-logo="https://git.io/JZ6yT" tvg-group="Pruebas", CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Pruebas", Golden Edge
 https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Pruebas", Univisión
+#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/dy/281e09dfaa4a7bf61141eb7346eea275/L0KzQYm3VMMxN6lAiZH0aYP2gLBuTf5wfJpogdN8LYXxecfwkBlwdl56htt9ZXSwg8XolPV0NaVqhNdBaYPsf7A0kvVxfZNxRadqZUe0RobqUsNiOGgARqc6Nki0RIaBUcUzPWEAS6sDMEG3RYq1kP5o/kisspng-noticias-univision-united-states-television-republ-5ae7165c23a079.5168145815250939801459.png" tvg-group="Pruebas", Univisión
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/small.mundo.png.0d3cb8090374428febdc7713d0428472.png" tvg-group="Pruebas", Azteca Mundo
