@@ -1,43 +1,4 @@
 #EXTM3U
-_________________________________________________________________________________________________________________________________________________________________
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" tvg-group="Pruebas", TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/JZrwT" tvg-group="Pruebas", Mirador TV
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1589570551.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2021/01/PX-Sports-Logo-Full-Color-Fondo-Color-2020_PX-Sports-Logo-Original-Fondo-Negro-Copy-e1612556942625.png" tvg-group="Noticias", PX Sports
-https://edge-live11-hr.cvattv.com.ar/live/live/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
-
-#EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Pruebas", TV Perú
-http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/JZ6yT" tvg-group="Pruebas", CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Pruebas", Golden Edge
-https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
-
-#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/dy/281e09dfaa4a7bf61141eb7346eea275/L0KzQYm3VMMxN6lAiZH0aYP2gLBuTf5wfJpogdN8LYXxecfwkBlwdl56htt9ZXSwg8XolPV0NaVqhNdBaYPsf7A0kvVxfZNxRadqZUe0RobqUsNiOGgARqc6Nki0RIaBUcUzPWEAS6sDMEG3RYq1kP5o/kisspng-noticias-univision-united-states-television-republ-5ae7165c23a079.5168145815250939801459.png" tvg-group="Pruebas", Univisión
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/small.mundo.png.0d3cb8090374428febdc7713d0428472.png" tvg-group="Pruebas", Azteca Mundo
-https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/AZMUNDO.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.TVAzteca-Cinema-2019.png.1d90e88580adbc93093d6a318aafbb18.png" tvg-group="Pruebas", Azteca Cinema
-https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/AZCINEMA.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/JZ6KK" tvg-group="Pruebas", Azteca Corazón
-https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/AZCORAZON.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/JZ66d" tvg-group="Pruebas", Azteca Clic
-https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/AZLIC.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/JZ61f" tvg-group="Pruebas", De Película
-https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/DEPELICULA.m3u8
-_________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -187,6 +148,11 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/De
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
+#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2021/01/PX-Sports-Logo-Full-Color-Fondo-Color-2020_PX-Sports-Logo-Original-Fondo-Negro-Copy-e1612556942625.png" tvg-group="Deportes", PX Sports
+https://edge-live11-hr.cvattv.com.ar/live/live/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="Deportes", NBA TV
 https://edge-live34-hr.cvattv.com.ar/live/c2live/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd
 
@@ -320,6 +286,15 @@ https://edge-live13-sl.cvattv.com.ar/live/c2live/Eurochannel/SA_Live_dash_enc_2A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Variedades", TCM
 https://edge-live31-sl.cvattv.com.ar/live/c2live/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Variedades", Golden Edge
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JZ61f" tvg-group="Variedades", De Película
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/DEPELICULA.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.TVAzteca-Cinema-2019.png.1d90e88580adbc93093d6a318aafbb18.png" tvg-group="Variedades", Azteca Cinema
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/AZCINEMA.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/718/CH_LOGO/1920/1080/0/0/358638080777.png" group-title="Variedades", Studio Universal
@@ -390,8 +365,14 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/Fox_Life/SA_Live_dash_enc_2A/Fo
 #EXTINF:-1 tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
 
+#EXTINF:-1 tvg-logo="https://git.io/JZrwT" tvg-group="Variedades", Mirador TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1589570551.m3u8
+
 #EXTINF:-1 tvg-logo="https://git.io/JOTOr" group-title="Variedades", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JZ66d" tvg-group="Variedades", Azteca Clic
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/AZLIC.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -547,10 +528,16 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/120px-CNN_International_logo.svg.png" group-title="Mundo", CNN Internacional
 https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd
 
+#EXTINF:-1 tvg-logo="https://git.io/JZ6yT" tvg-group="Mundo", CNN Chile
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://git.io/JOTYY" group-title="Mundo", BBC World News
 https://chromecast.cvattv.com.ar/live/c2live/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" tvg-group="Mundo", TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -581,6 +568,12 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
+#EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Mundo", TV Perú
+http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1387-tv-per%C3%BA-noticias-2019/?do=download" tvg-group="Mundo", TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5aa872ea37634_TV5MondeAmeriqueLatine.png.7cd3479167d25e28cf35b4da42259d4b.png" group-title="Mundo", TV5 Monde Amerique Latine
@@ -601,62 +594,71 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_2A/Cana
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1661-las-estrellas-2020/?do=download" group-title="Mundo", Las Estrellas
 https://edge-live12-hr.cvattv.com.ar/live/c2live/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/small.mundo.png.0d3cb8090374428febdc7713d0428472.png" tvg-group="Mundo", Azteca Mundo
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/AZMUNDO.m3u8
+
+#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/dy/281e09dfaa4a7bf61141eb7346eea275/L0KzQYm3VMMxN6lAiZH0aYP2gLBuTf5wfJpogdN8LYXxecfwkBlwdl56htt9ZXSwg8XolPV0NaVqhNdBaYPsf7A0kvVxfZNxRadqZUe0RobqUsNiOGgARqc6Nki0RIaBUcUzPWEAS6sDMEG3RYq1kP5o/kisspng-noticias-univision-united-states-television-republ-5ae7165c23a079.5168145815250939801459.png" tvg-group="Estilos de Vida", Univisión
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JZ6KK" tvg-group="Estilos de Vida", Azteca Corazón
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/AZCORAZON.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://git.io/JOTtz" group-title="Estlos de Vida", Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://git.io/JOTtz" group-title="Estilos de Vida", Telemundo Internacional
 https://edge-live32-hr.cvattv.com.ar/live/live/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Estlos de Vida", Discovery Home And Health
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Estilos de Vida", Discovery Home And Health
 https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1027/CH_LOGO/1920/1080/0/0/49211360074909.png" group-title="Estlos de Vida", TLC
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1027/CH_LOGO/1920/1080/0/0/49211360074909.png" group-title="Estilos de Vida", TLC
 https://edge-live31-hr.cvattv.com.ar/live/c2live/TLC/SA_Live_dash_enc_2A/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1280px-HGTV_US_Logo_2015.svg.png" group-title="Estlos de Vida", HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1280px-HGTV_US_Logo_2015.svg.png" group-title="Estilos de Vida", HGTV
 https://edge-live11-sl.cvattv.com.ar/live/live/Home_and_Garden/SA_Live_dash_enc_2A/Home_and_Garden.mpd
 
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Estlos de Vida", Hola! TV
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Estilos de Vida", Hola! TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Estlos de Vida", Glitz*
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Estilos de Vida", Glitz*
 https://edge-live31-sl.cvattv.com.ar/live/c2live/Glitz/SA_Live_dash_enc_2A/Glitz.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/340?cb=20200114222838&path-prefix=es" group-title="Estlos de Vida", Más Chic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/340?cb=20200114222838&path-prefix=es" group-title="Estilos de Vida", Más Chic
 https://edge-live12-sl.cvattv.com.ar/live/c2live/Mas_Chic/SA_Live_dash_enc_2A/Mas_Chic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_e291d7979ad1480fbc7e567b70778e1c~mv2.png" group-title="Estlos de Vida", E!
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_e291d7979ad1480fbc7e567b70778e1c~mv2.png" group-title="Estilos de Vida", E!
 https://edge-live34-sl.cvattv.com.ar/live/c2live/E_Entertainment_Television/SA_Live_dash_enc_2A/E_Entertainment_Television.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Estlos de Vida", Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Estilos de Vida", Food Network
 https://edge-live12-sl.cvattv.com.ar/live/c2live/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Estlos de Vida", El Gourmet
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Estilos de Vida", El Gourmet
 https://edge-live32-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Estlos de Vida", Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Estilos de Vida", Lifetime
 https://edge-live34-sl.cvattv.com.ar/live/c2live/Lifetime/SA_Live_dash_enc_2A/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Estlos de Vida", Pasiones
+#EXTINF:-1 tvg-logo="https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Estilos de Vida", Pasiones
 https://edge-live32-hr.cvattv.com.ar/live/live/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
