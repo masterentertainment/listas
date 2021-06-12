@@ -918,17 +918,19 @@ https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png" group-title="Star Premium Pack", Star Comedy
 https://chromecast.cvattv.com.ar/live/live/FoxComedy/SA_Live_dash_enc_2A/FoxComedy.mpd
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Chubut-en-vivo-Online.png" tvg-group="Locales", Canal 7 Chubut
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12 Madryn
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://git.io/J35KF" tvg-group="Locales", Canal 9 Cdro. Rivadavia
 https://live.canalnueve.tv/canal.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Chubut-en-vivo-Online.png" tvg-group="Locales", Canal 7 Chubut
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.trelewtv.com/images/home_12png.png" tvg-group="Locales", Canal 12 Madryn
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Radios y Música", LU20 Radio Chubut
 http://63.247.91.178:12688/stream
