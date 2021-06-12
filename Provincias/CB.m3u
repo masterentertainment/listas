@@ -16,6 +16,27 @@ http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Pruebas", CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Pruebas", Golden Edge
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Pruebas", Univisión
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/small.mundo.png.0d3cb8090374428febdc7713d0428472.png" tvg-group="Pruebas", Azteca Mundo
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/AZMUNDO.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.TVAzteca-Cinema-2019.png.1d90e88580adbc93093d6a318aafbb18.png" tvg-group="Pruebas", Azteca Cinema
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/AZCINEMA.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JZ6KK" tvg-group="Pruebas", Azteca Corazón
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/AZCORAZON.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JZ66d" tvg-group="Pruebas", Azteca Clic
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/AZLIC.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JZ61f" tvg-group="Pruebas", De Película
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/DEPELICULA.m3u8
 _________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
