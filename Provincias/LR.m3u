@@ -916,7 +916,7 @@ https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png" group-title="Star Premium Pack", Star Comedy
-https://chromecast.cvattv.com.ar/live/live/FoxComedy/SA_Live_dash_enc_2A/FoxComedy.mpd
+https://chromecast.cvattv.com.ar/live/live/FoxComedy/SA_Live_dash_enc_2A/FoxComedy.mpd  
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1 tvg-logo="https://www.multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" tvg-group="Locales", Teveocho Chepes
 https://stmv1.srvif.com/teveocho/teveocho/playlist.m3u8
