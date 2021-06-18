@@ -948,4 +948,7 @@ https://cdn2.instream.audio/:8001/stream
 
 #EXTINF:-1 tvg-logo="https://www.la990.com.ar/images/La990/logo.png" group-title="Radios y Música", La 990
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad17
+
+#EXTINF:-1 tvg-logo="https://git.io/Jn0KT" group-title="Radios y Música", La 1110
+https://tus.radios.ar/1110/stream
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
