@@ -934,7 +934,7 @@ https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Nueve_Litoral_%28Logo_2011_-_2%29.png" tvg-group="Locales", Canal 9 Litoral
-https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-41rKyAVf7ro/XYFvIc6r_VI/AAAAAAAAIHM/yav-nCSZNrQ8R6BsITNiquBS47BheLCrQCLcBGAsYHQ/s1600/radio-chajari-940.png" group-title="Radios y Música", Radio Chajarí
 http://190.185.128.226:8001/AM940
