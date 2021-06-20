@@ -930,6 +930,9 @@ http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://git.io/JGl6Z" tvg-group="Locales", Plus TV
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Nueve_Litoral_%28Logo_2011_-_2%29.png" tvg-group="Locales", Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://git.io/JGl6E" group-title="Radios Locales", LRA26 Nacional Resistencia
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad26
 
