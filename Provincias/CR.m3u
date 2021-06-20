@@ -933,6 +933,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-218x150.png" tvg-group="Locales", Telediez Paso de los Libres
 https://videohd.live:19360/8020/8020.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Nueve_Litoral_%28Logo_2011_-_2%29.png" tvg-group="Locales", Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://git.io/JGts7" group-title="Radios y Música", LT21 Municipal Alvear
 http://streaming2.locucionar.com:8052/stream
 
