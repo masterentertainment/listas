@@ -926,7 +926,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c2live/Canal_5_Rosario/SA_Live_dash_en
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-rosario.php
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Eltres_TV_Rosario_%28Logo_2018_-_2%29.png/" tvg-group="Locales", Eltres Rosario
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Eltres_TV_Rosario_%28Logo_2018_-_2%29.png/" tvg-group="Locales", Eltres
 https://edge10-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd
 
 #EXTINF:-1 tvg-logo="https://git.io/JsQT8" tvg-group="Locales", CL3 Cable Visión
@@ -956,7 +956,7 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Nueve_Litoral_%28Logo_2011_-_2%29.png" tvg-group="Locales", Canal 9 Litoral
-https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://git.io/JsQcY" group-title="Radios y Música", LT28 Radio Rafaela
 http://server.laradio.online:8008/;
