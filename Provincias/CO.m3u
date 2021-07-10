@@ -936,6 +936,11 @@ https://chromecast.cvattv.com.ar/live/c2live/Canal_12_CBA/SA_Live_dash_enc_2A/Ca
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Telediario-Television-Satelital-en-vivo-Online.png" group-title="Locales", Telediario
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv-cordoba.php
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Showsport-en-vivo-Online.png" group-title="Locales", Showsport
+https://edge1-ccast-sl.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_2A/Show_Sports.mpd
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B2CfVZspSt8/XWbnyTY-ozI/AAAAAAAAHbQ/7m6hhGRqtLwgXYsQ4tq5mHpfljZUBFifACLcBGAs/s1600/radio-universidad-cordoba.png" group-title="Radios Locales", Radio Universidad
 http://srtunc.lorini.net:30304/stream
 
