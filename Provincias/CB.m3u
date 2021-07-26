@@ -74,6 +74,11 @@ https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Can
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_05/large.5926515ad593d_TyCSports2.png.f9764d5923b5ccc026914c54e65e0d53.png" group-title="Deportes", TyC Sports 2 (FEED OCASIONAL)
+https://edge-live34-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/SA_Live_dash_enc_2A/Eventos_2_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv1_widevine.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes", DirecTV Sports
 https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
@@ -163,11 +168,6 @@ https://chromecast.cvattv.com.ar/live/c2live/Golf_Channel/SA_Live_dash_enc_2A/Go
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_05/large.5926515ad593d_TyCSports2.png.f9764d5923b5ccc026914c54e65e0d53.png" group-title="Deportes", TyC Sports 2 (FEED OCASIONAL)
-https://edge-live34-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/SA_Live_dash_enc_2A/Eventos_2_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.pakapaka2020.png.c80ed972777c486ece0cd66045bd0b90.png" group-title="Infantiles y Familiares", Paka Paka
 https://edge-live34-sl.cvattv.com.ar/live/c2live/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
@@ -205,6 +205,9 @@ https://edge-live13-sl.cvattv.com.ar/live/live/DisneyJr/SA_Live_dash_enc_2A/Disn
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/5/5e/Natgeokids.png" group-title="Infantiles y Familiares", NatGeo Kids
 https://edge-live34-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/SA_Live_dash_enc_2A/NatGeo_Kids.mpd
+
+#EXTINF:-1 tvg-logo="https://git.io/J4VXc" tvg-group="Infantiles y Familiares", ZooMoo
+https://qlobbidev.s.llnwi.net/bpk-tv/ZOOMOO/hls/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -266,6 +269,9 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Variedades", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG" tvg-group="Variedades", DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Variedades", AMC
@@ -285,6 +291,9 @@ https://edge-live13-sl.cvattv.com.ar/live/c2live/Eurochannel/SA_Live_dash_enc_2A
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Variedades", TCM
 https://edge-live31-sl.cvattv.com.ar/live/c2live/TCM/SA_Live_dash_enc_2A/TCM.mpd
+
+#EXTINF:-1 tvg-logo="https://git.io/J4VDz" tvg-group="Variedades", Golden
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Variedades", Golden Edge
 https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
@@ -479,11 +488,17 @@ https://edge-live34-hr.cvattv.com.ar/live/c2live/Sun_Channel/SA_Live_dash_enc_2A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://edge-live31-hr.cvattv.com.ar/live/c2live/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
 
+#EXTINF:-1 tvg-logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/04/star-tve_head-mosca.png" group-title="Mundo", Star TVE
+https://qlobbidev.s.llnwi.net/bpk-tv/STARTVHD/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Mundo", 24 Horas (España)
 https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png" group-title="Mundo", CCTV 4
+https://cctvcnchww-cctv4.v.cdn20.com/live/cctv4_1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
@@ -567,6 +582,12 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_06/large.rcntv-blanco-footer-19.png.acdc59ab16d586a286fabdddf0cd328c.png" tvg-group="Mundo", RCN Internacional
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/J4V2F" tvg-group="Mundo", NTN24
+https://qlobbidev.s.llnwi.net/bpk-tv/NTN24/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Mundo", TV Perú
 http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
