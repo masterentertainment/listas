@@ -2,16 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_5_%28Uruguay%29_%282021%29.png" tvg-group="Noticias", Canal 5 Uruguay OP1
-https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_5_%28Uruguay%29_%282021%29.png" tvg-group="Noticias", Canal 5 Uruguay OP2
-https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 #EXTINF:-1 tvg-id="America24.ar" tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Noticias", A24
 https://edge-vod04-sl.cvattv.com.ar//live/live/America24/SA_Live_dash_enc_2A/America24.mpd
 
@@ -605,6 +595,9 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_06/large.rcntv-blanco-footer-19.png.acdc59ab16d586a286fabdddf0cd328c.png" tvg-group="Mundo", RCN Internacional
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 
@@ -737,7 +730,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c2live/Quiero_HD/SA_Live_dash_enc_2A/Q
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-#EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-vh1-white.png" group-title="Radios y Música", VH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Radios y Música", MTV 00s
 https://edge-live13-hr.cvattv.com.ar/live/live/VH1/SA_Live_dash_enc_2A/VH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
