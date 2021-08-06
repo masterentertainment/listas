@@ -1,5 +1,4 @@
 #EXTM3U
-https://player.teleringa.com/cv.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
