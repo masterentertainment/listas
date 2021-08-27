@@ -598,7 +598,7 @@ https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chi
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_06/large.rcntv-blanco-footer-19.png.acdc59ab16d586a286fabdddf0cd328c.png" tvg-group="Mundo", RCN Internacional
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_06/large.rcntv-blanco-footer-19.png.acdc59ab16d586a286fabdddf0cd328c.png" tvg-group="Mundo", Nuestra Tele Internacional
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest/scale-to-width-down/190?cb=20210307131301&path-prefix=es" tvg-group="Mundo", RCN Novelas
