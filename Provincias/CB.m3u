@@ -189,7 +189,7 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png/revision/latest?cb=20191111001338" group-title="Infantiles y Familiares", Cartoon Network
-https://edge5-sl.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+https://cdn.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=OAuth oauth_consumer_key=19bed33fa740389973a35b1e8c54f809cd008efe8b507a6402f5fa9d4982bf95, oauth_nonce=0axpoF, oauth_signature=ufActj6eJwl0d%2FvE3uq2Sntwm%2Bw%3D, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1627603994, oauth_version=1.0
