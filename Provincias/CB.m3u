@@ -192,7 +192,7 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/
 https://cdn.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=//api.blim.com/license/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
 #EXTINF:-1 tvg-logo="http://www2.avila.xyz/canales/425.png" group-title="Infantiles y Familiares", BitMe
 https://channel-tiin-cdn.blim.com/manifest.mpd
 
