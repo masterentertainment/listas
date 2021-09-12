@@ -600,6 +600,11 @@ https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chi
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.1218322618_914sinttulo_20210722203530.png.87115a9e6be377b52a653c2001e511b6.png" group-title="Mundo", Canal 5 Uruguay
 https://edge-vod01-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.1218322618_914sinttulo_20210722203530.png.87115a9e6be377b52a653c2001e511b6.png" group-title="Mundo", Canal 5 Uruguay OP. 2
+https://edge2-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
