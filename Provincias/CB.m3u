@@ -596,7 +596,7 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
+#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.1218322618_914sinttulo_20210722203530.png.87115a9e6be377b52a653c2001e511b6.png" group-title="Mundo", Canal 5 Uruguay
 https://edge-vod01-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
 
