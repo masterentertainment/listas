@@ -507,7 +507,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c2live/TV_Espana/SA_Live_dash_enc_2A/T
 https://qlobbidev.s.llnwi.net/bpk-tv/STARTVHD/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Mundo", 24 Horas (España)
-https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -521,7 +521,7 @@ https://chromecast.cvattv.com.ar/live/c2live/DW/SA_Live_dash_enc_2A/DW.mpd
 https://live1.presstv.com/live/hispan_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia801307.us.archive.org/14/items/VOANewscasts/VOANewscasts_itemimage.png" group-title="Mundo", Voice Of America
-https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
@@ -539,10 +539,10 @@ https://edge-live32-hr.cvattv.com.ar/live/live/Bandeirantes/SA_Live_dash_enc_2A/
 https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Mundo", TeleSUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Mundo", RT En Español
-https://rt-esp.secure.footprint.net/1102.m3u8
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Mundo", France 24 En Español
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -594,16 +594,6 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.1218322618_914sinttulo_20210722203530.png.87115a9e6be377b52a653c2001e511b6.png" group-title="Mundo", Canal 5 Uruguay
-https://edge-vod01-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptvtucuman.com/sv
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.1218322618_914sinttulo_20210722203530.png.87115a9e6be377b52a653c2001e511b6.png" group-title="Mundo", Canal 5 Uruguay OP. 2
-https://edge2-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
@@ -760,7 +750,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c2live/CM/SA_Live_dash_enc_2A/CM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/6404-mtv-hits/?do=download" group-title="Radios y Música", MTV Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="Radios y Música", MTV Hits
 https://edge-live34-hr.cvattv.com.ar/live/c2live/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
