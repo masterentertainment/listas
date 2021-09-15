@@ -197,6 +197,11 @@ https://cdn.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/Cartoon
 https://channel-tiin-cdn.blim.com/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine|X-AxDRM-Message=T0F1dGggb2F1dGhfY29uc3VtZXJfa2V5PSI1YTljYTgzMjZhMjQwNDk5ZWQ3MWNhZTBkZjI2YzI4NTRmN2YxNWQ4NTgwYmE4MmQ4YjkwNjdiZjRmNGJiZTdhIiwgb2F1dGhfbm9uY2U9IjhFaEI3RiIsIG9hdXRoX3NpZ25hdHVyZT0iMyUyQiUyQmNxdEZQZ09RR2NrNFlLNENodTRzZld6SSUzRCIsIG9hdXRoX3NpZ25hdHVyZV9tZXRob2Q9IkhNQUMtU0hBMSIsIG9hdXRoX3RpbWVzdGFtcD0iMTYzMTQ3MjQ3NyIsIG9hdXRoX3ZlcnNpb249IjEuMCI=|
+#EXTINF:-1 tvg-logo="http://www2.avila.xyz/canales/425.png" group-title="Infantiles y Familiares", BitMe
+https://channel-tiin-cdn.blim.com/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Infantiles y Familiares", Disney XD
 https://edge-live11-hr.cvattv.com.ar/live/live/DisneyXD/SA_Live_dash_enc_2A/DisneyXD.mpd
