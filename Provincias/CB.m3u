@@ -530,7 +530,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://chromecast.cvattv.com.ar/live/c2live/DW/SA_Live_dash_enc_2A/DW.mpd
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTLN" group-title="Mundo", HispanTV
-https://live1.presstv.com/live/hispan_720p/index.m3u8
+https://live.presstv.ir/live/smil:live.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia801307.us.archive.org/14/items/VOANewscasts/VOANewscasts_itemimage.png" group-title="Mundo", Voice Of America
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
@@ -849,8 +849,8 @@ https://s8.stweb.tv/berlin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="Radios y Música", Radio France Internationale
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/small.REEbug2016.png.af15dd7d3c326be48cbe49274274708b.png" group-title="Radios y Música", Radio Exterior España
-https://crtve-rneree-main.hls.nmdn.net/crtve_rneree_main_aac/stream_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/small.REEbug2016.png.af15dd7d3c326be48cbe49274274708b.png" group-title="Radios y Música", Radio Exterior RNE
+https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rneree/main/aac/high
 
 #EXTINF:-1 tvg-logo="https://git.io/JYT1b" group-title="Radios y Música", Nuevos Clásicos
 https://musicsrc.cvattv.com.ar/RM03
