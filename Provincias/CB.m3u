@@ -903,8 +903,7 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_da
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/g
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-1.png" group-title="PACK FÚTBOL", TNT Sports
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-
+https://edge4-hr.cvattv.com.ar//live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 _________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
