@@ -295,14 +295,15 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/TCM/SA_Live_dash_enc_2A/TCM.mpd
 #EXTINF:-1 tvg-logo="https://git.io/J4VDz" tvg-group="Variedades", Golden
 https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
+#AUTHENTICATE:authentication=https://api.blim.com/license/widevine (return)
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Variedades", Golden Edge
 https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
 
 #EXTINF:-1 tvg-logo="https://git.io/JZ61f" tvg-group="Variedades", De Película
 https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/DEPELICULA.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.TVAzteca-Cinema-2019.png.1d90e88580adbc93093d6a318aafbb18.png" tvg-group="Variedades", Azteca Cinema
-https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/AZCINEMA.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
@@ -567,21 +568,20 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.442919042_eitbbasque.png.a01de3eaf3f55155e8a74e89fd918bcb.png" group-title="Mundo", Eitb Basque
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_01/large.5a4f14f0b4b2d_ZeeMundo2017.png.bd4e0ed14cf05cc16ae4299d177e4deb.png" group-title="Mundo", ZEE Mundo
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
 https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
-#EXTINF:-1 tvg-logo="https://git.io/Jztd9" group-title="Mundo", RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/chunklist_b1290000_slpt.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercomofutbol.xyz/cvok_uy.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/large.2125290982_914sinttulo_20210722202810.png.6003a17ca25cc82114623735f86f56f6.png" group-title="Mundo", Canal 5 Uruguay
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
@@ -620,15 +620,6 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_2A/Cana
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1661-las-estrellas-2020/?do=download" group-title="Mundo", Las Estrellas
 https://edge-live12-hr.cvattv.com.ar/live/c2live/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/small.mundo.png.0d3cb8090374428febdc7713d0428472.png" tvg-group="Mundo", Azteca Mundo
-https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/AZMUNDO.m3u8
-
-#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/dy/281e09dfaa4a7bf61141eb7346eea275/L0KzQYm3VMMxN6lAiZH0aYP2gLBuTf5wfJpogdN8LYXxecfwkBlwdl56htt9ZXSwg8XolPV0NaVqhNdBaYPsf7A0kvVxfZNxRadqZUe0RobqUsNiOGgARqc6Nki0RIaBUcUzPWEAS6sDMEG3RYq1kP5o/kisspng-noticias-univision-united-states-television-republ-5ae7165c23a079.5168145815250939801459.png" tvg-group="Estilos de Vida", Univisión
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/JZ6KK" tvg-group="Estilos de Vida", Azteca Corazón
-https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/AZCORAZON.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
