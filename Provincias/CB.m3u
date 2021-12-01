@@ -211,7 +211,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/ZOOMOO/hls/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Infantiles y Familiares", Boomerang
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.f8f609307e5f6cb659ffa40cfd2766c9.png" group-title="Infantiles y Familiares", Cartoonito
 https://edge-live13-sl.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
