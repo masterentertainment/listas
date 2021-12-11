@@ -855,12 +855,12 @@ https://ott-linear-channels.stingray.com/qello/master.m3u8
 _________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://amendher.webcindario.com/wvfutbol.php
+#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FÚTBOL", FOX Sports Premium
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://amendher.webcindario.com/wvfutbol.php
+#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-1.png" group-title="PACK FÚTBOL", TNT Sports
 https://edge4-hr.cvattv.com.ar//live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 _________________________________________________________________________________________________________________________________________________________________
