@@ -271,17 +271,6 @@ https://edge-live13-sl.cvattv.com.ar/live/c2live/Eurochannel/SA_Live_dash_enc_2A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Variedades", TCM
 https://edge-live31-sl.cvattv.com.ar/live/c2live/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
-#EXTINF:-1 tvg-logo="https://git.io/J4VDz" tvg-group="Variedades", Golden
-https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine?custom_data=T0F1dGggb2F1dGhfY29uc3VtZXJfa2V5PTE5YmVkMzNmYTc0MDM4OTk3M2EzNWIxZThjNTRmODA5Y2QwMDhlZmU4YjUwN2E2NDAyZjVmYTlkNDk4MmJmOTUsIG9hdXRoX25vbmNlPTBheHBvRiwgb2F1dGhfc2lnbmF0dXJlPXVmQWN0ajZlSndsMGQlMkZ2RTN1cTJTbnR3bSUyQnclM0QsIG9hdXRoX3NpZ25hdHVyZV9tZXRob2Q9SE1BQy1TSEExLCBvYXV0aF90aW1lc3RhbXA9MTYyNzYwMzk5NCwgb2F1dGhfdmVyc2lvbj0xLjA=authorization=Ly9hcGkuYmxpbS5jb20vbGljZW5zZS93aWRldmluZQ==
-#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-edge.png" tvg-group="Variedades", Golden Edge
-https://channel-goldenedge-cdn.blim.com/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://git.io/JZ61f" tvg-group="Variedades", De Película
-https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/DEPELICULA.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/718/CH_LOGO/1920/1080/0/0/358638080777.png" group-title="Variedades", Studio Universal
@@ -367,6 +356,9 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/Telemax/SA_Live_dash_enc_2A/Tel
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Variedades", Rural
 https://chromecast.cvattv.com.ar/live/c2live/Canal_Rural/SA_Live_dash_enc_2A/Canal_Rural.mpd
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png" group-title="Variedades", Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
@@ -648,7 +640,7 @@ https://edge-live11-sl.cvattv.com.ar/live/live/CANAL_LUZ/SA_Live_dash_enc_2A/CAN
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Mh2-ei2dzWJqMJBRMXqs9w/featured_channel.jpg?v=5d6e901d" group-title="Religión", Orbe 21
 https://edge-live31-hr.cvattv.com.ar/live/c2live/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 
-#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/favicon.png" group-title="Religión", Unife TV
+#EXTINF:-1 tvg-logo="https://unifetv.com/logo.png" group-title="Religión", Unife
 https://latamstreaming-live-os.akamaized.net/live_passthrough_static/unifearg1_ar_only/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
