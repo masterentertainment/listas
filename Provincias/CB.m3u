@@ -79,21 +79,6 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.
 https://edge-live34-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/SA_Live_dash_enc_2A/Eventos_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv1_widevine.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes", DirecTV Sports
-https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv2_widevine.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Deportes", DirecTV Sports 2
-https://dtv-latam-abc.akamaized.net/dash/live/700404/dtv/DTV-ABC-directtvsports2/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv3_widevine.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes", DirecTV Sports +
-https://dtv-latam-abc.akamaized.net/dash/live/2018339/dtv/dtv-directvsportsplushd/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", FOX Sports
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
@@ -206,9 +191,6 @@ https://edge-live13-sl.cvattv.com.ar/live/live/DisneyJr/SA_Live_dash_enc_2A/Disn
 #EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/5/5e/Natgeokids.png" group-title="Infantiles y Familiares", NatGeo Kids
 https://edge-live34-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/SA_Live_dash_enc_2A/NatGeo_Kids.mpd
 
-#EXTINF:-1 tvg-logo="https://git.io/J4VXc" tvg-group="Infantiles y Familiares", ZooMoo
-https://qlobbidev.s.llnwi.net/bpk-tv/ZOOMOO/hls/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.f8f609307e5f6cb659ffa40cfd2766c9.png" group-title="Infantiles y Familiares", Cartoonito
@@ -269,9 +251,6 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Variedades", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG" tvg-group="Variedades", DHE
-https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Variedades", AMC
@@ -295,10 +274,9 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/TCM/SA_Live_dash_enc_2A/TCM.mpd
 #EXTINF:-1 tvg-logo="https://git.io/J4VDz" tvg-group="Variedades", Golden
 https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
-#AUTHENTICATE:authentication=https://api.blim.com/license/widevine (return)
+#AUTHENTICATE:authentication=https://api.blim.com/license/widevine/license?custom_data=T0F1dGggb2F1dGhfY29uc3VtZXJfa2V5PTE5YmVkMzNmYTc0MDM4OTk3M2EzNWIxZThjNTRmODA5Y2QwMDhlZmU4YjUwN2E2NDAyZjVmYTlkNDk4MmJmOTUsIG9hdXRoX25vbmNlPTBheHBvRiwgb2F1dGhfc2lnbmF0dXJlPXVmQWN0ajZlSndsMGQlMkZ2RTN1cTJTbnR3bSUyQnclM0QsIG9hdXRoX3NpZ25hdHVyZV9tZXRob2Q9SE1BQy1TSEExLCBvYXV0aF90aW1lc3RhbXA9MTYyNzYwMzk5NCwgb2F1dGhfdmVyc2lvbj0xLjA&authorization=Ly9hcGkuYmxpbS5jb20vbGljZW5zZS93aWRldmluZQ&
 #EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1743-golden-edge/?do=download" tvg-group="Variedades", Golden Edge
 https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
 
