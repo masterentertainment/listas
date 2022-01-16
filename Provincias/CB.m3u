@@ -342,7 +342,7 @@ https://edge-live32-sl.cvattv.com.ar/live/live/AXNHD/SA_Live_dash_enc_2A/AXNHD.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/networkLogo/ae.png" group-title="Variedades", AE 
+#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/networkLogo/ae.png" group-title="Variedades", A&E 
 https://edge-live11-hr.cvattv.com.ar/live/live/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -380,9 +380,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1589570551.
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTOr" group-title="Variedades", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/JZ66d" tvg-group="Variedades", Azteca Clic
-https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/AZLIC.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
@@ -489,9 +486,6 @@ https://edge-live34-hr.cvattv.com.ar/live/c2live/Sun_Channel/SA_Live_dash_enc_2A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://edge-live31-hr.cvattv.com.ar/live/c2live/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
 
-#EXTINF:-1 tvg-logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/04/star-tve_head-mosca.png" group-title="Mundo", Star TVE
-https://qlobbidev.s.llnwi.net/bpk-tv/STARTVHD/hls/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Mundo", 24 Horas (España)
 https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 
@@ -505,9 +499,6 @@ https://chromecast.cvattv.com.ar/live/c2live/DW/SA_Live_dash_enc_2A/DW.mpd
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTLN" group-title="Mundo", HispanTV
 https://live.presstv.ir/live/smil:live.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ia801307.us.archive.org/14/items/VOANewscasts/VOANewscasts_itemimage.png" group-title="Mundo", Voice Of America
-https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
@@ -541,9 +532,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/120px-CNN_International_logo.svg.png" group-title="Mundo", CNN Internacional
 https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd
 
-#EXTINF:-1 tvg-logo="https://git.io/JZ6yT" tvg-group="Mundo", CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://git.io/JOTYY" group-title="Mundo", BBC World News
@@ -565,7 +553,7 @@ https://edge4-hr.cvattv.com.ar/live/c2live/WOBI/SA_Live_dash_enc_2A/WOBI.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
 https://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.442919042_eitbbasque.png.a01de3eaf3f55155e8a74e89fd918bcb.png" group-title="Mundo", Eitb Basque
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/1080?cb=20220106180200&path-prefix=es" group-title="Mundo", Eitb Basque
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -592,7 +580,7 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5aa872ea37634_TV5MondeAmeriqueLatine.png.7cd3479167d25e28cf35b4da42259d4b.png" group-title="Mundo", TV5 Monde Amerique Latine
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/800px-TV5MONDE_logo.png" group-title="Mundo", TV5 Monde Amerique Latine
 https://edge-live34-sl.cvattv.com.ar/live/c2live/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -844,12 +832,12 @@ https://ott-linear-channels.stingray.com/qello/master.m3u8
 _________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
+#KODIPROP:inputstream.adaptive.license_key=https://megatelehd.webcindario.com/helsinki.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FÚTBOL", FOX Sports Premium
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
+#KODIPROP:inputstream.adaptive.license_key=https://megatelehd.webcindario.com/helsinki.php
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-1.png" group-title="PACK FÚTBOL", TNT Sports
 https://edge4-hr.cvattv.com.ar//live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 _________________________________________________________________________________________________________________________________________________________________
