@@ -578,22 +578,11 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/RAI/SA_Live_dash_enc_2A/RAI.mpd
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.2030734119_LogoTVChile2021(Blanco).png.e22a76c4b3569c082265aadb43eee570.png" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/large.2125290982_914sinttulo_20210722202810.png.6003a17ca25cc82114623735f86f56f6.png" group-title="Mundo", Canal 5 Uruguay
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd
+#EXTINF:-1 tvg-logo="https://bit.ly/24TVN" tvg-group="Mundo", 24 Horas (Chile)
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_06/large.rcntv-blanco-footer-19.png.acdc59ab16d586a286fabdddf0cd328c.png" tvg-group="Mundo", Nuestra Tele Internacional
-https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest/scale-to-width-down/190?cb=20210307131301&path-prefix=es" tvg-group="Mundo", RCN Novelas
-https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://git.io/J4V2F" tvg-group="Mundo", NTN24
-https://qlobbidev.s.llnwi.net/bpk-tv/NTN24/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Mundo", TV Perú
 http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
