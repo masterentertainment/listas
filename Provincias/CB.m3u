@@ -275,8 +275,7 @@ https://edge-live31-sl.cvattv.com.ar/live/c2live/TCM/SA_Live_dash_enc_2A/TCM.mpd
 https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
-#AUTHENTICATE:authentication=https://api.blim.com/license/widevine/license?custom_data=T0F1dGggb2F1dGhfY29uc3VtZXJfa2V5PTE5YmVkMzNmYTc0MDM4OTk3M2EzNWIxZThjNTRmODA5Y2QwMDhlZmU4YjUwN2E2NDAyZjVmYTlkNDk4MmJmOTUsIG9hdXRoX25vbmNlPTBheHBvRiwgb2F1dGhfc2lnbmF0dXJlPXVmQWN0ajZlSndsMGQlMkZ2RTN1cTJTbnR3bSUyQnclM0QsIG9hdXRoX3NpZ25hdHVyZV9tZXRob2Q9SE1BQy1TSEExLCBvYXV0aF90aW1lc3RhbXA9MTYyNzYwMzk5NCwgb2F1dGhfdmVyc2lvbj0xLjA&authorization=Ly9hcGkuYmxpbS5jb20vbGljZW5zZS93aWRldmluZQ&
+#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine?custom_data=T0F1dGggb2F1dGhfY29uc3VtZXJfa2V5PTE5YmVkMzNmYTc0MDM4OTk3M2EzNWIxZThjNTRmODA5Y2QwMDhlZmU4YjUwN2E2NDAyZjVmYTlkNDk4MmJmOTUsIG9hdXRoX25vbmNlPTBheHBvRiwgb2F1dGhfc2lnbmF0dXJlPXVmQWN0ajZlSndsMGQlMkZ2RTN1cTJTbnR3bSUyQnclM0QsIG9hdXRoX3NpZ25hdHVyZV9tZXRob2Q9SE1BQy1TSEExLCBvYXV0aF90aW1lc3RhbXA9MTYyNzYwMzk5NCwgb2F1dGhfdmVyc2lvbj0xLjA=signature=YXV0aG9yaXphdGlvbg==
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-edge.png" tvg-group="Variedades", Golden Edge
 https://channel-goldenedge-cdn.blim.com/manifest.mpd
 
