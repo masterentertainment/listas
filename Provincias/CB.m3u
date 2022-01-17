@@ -507,7 +507,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_
 https://chromecast.cvattv.com.ar/live/c2live/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" tvg-group="Mundo", TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+https://tv-trtworld.live.trt.com.tr:443/master_720.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
