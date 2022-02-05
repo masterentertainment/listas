@@ -541,10 +541,10 @@ http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://git.io/JZrPe" tvg-group="Mundo", TV Perú
-http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1387-tv-per%C3%BA-noticias-2019/?do=download" tvg-group="Mundo", TV Perú Noticias
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" tvg-group="Mundo", TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
