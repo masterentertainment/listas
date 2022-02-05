@@ -461,6 +461,9 @@ https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CCTV 4
+https://cctvcnchww.v.cdn20.com/live/cctv4_1/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
@@ -481,6 +484,11 @@ https://edge-live32-hr.cvattv.com.ar/live/live/Bandeirantes/SA_Live_dash_enc_2A/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/120px-CNN_International_logo.svg.png" group-title="Mundo", CNN Internacional
+https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_6423_7_7023.png" group-title="Mundo", CNN En Español
 https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
@@ -495,11 +503,6 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Mundo", NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/120px-CNN_International_logo.svg.png" group-title="Mundo", CNN Internacional
-https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
