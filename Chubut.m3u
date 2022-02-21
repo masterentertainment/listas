@@ -626,6 +626,9 @@ https://edge-live34-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_2A/Lif
 #EXTINF:-1 tvg-logo="https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Estilos de Vida", Pasiones
 https://edge-live32-hr.cvattv.com.ar/live/c7eds//Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Estilos de Vida", Tlnovelas
+https://el4live1.boldmss.com/TL_NOVELAS/TL_NOVELAS.isml/TL_NOVELAS.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teleroga.com/cv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/5272-ewtn-2016/?do=download" group-title="Religión", EWTN
