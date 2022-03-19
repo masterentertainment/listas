@@ -21,7 +21,7 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
-https://edge-live34-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
+https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -76,7 +76,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_05/large.5926515ad593d_TyCSports2.png.f9764d5923b5ccc026914c54e65e0d53.png" group-title="Deportes", TyC Sports 2 (FEED OCASIONAL)
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_2A/Eventos_2_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_2A/Eventos_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -119,7 +119,7 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
+https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -144,7 +144,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c7eds//PX_Sports/SA_Live_dash_enc_2A/P
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="Deportes", NBA TV
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd
+https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -189,7 +189,7 @@ https://edge-live13-sl.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/Di
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/5/5e/Natgeokids.png" group-title="Infantiles y Familiares", NatGeo Kids
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_Live_dash_enc_2A/NatGeo_Kids.mpd
+https://cdn.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_Live_dash_enc_2A/NatGeo_Kids.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -204,7 +204,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Too
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantiles y Familiares", Nick JR.
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -272,7 +272,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_en
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.artear.com/assets/uploads/canales/7cce6-volver.png" group-title="Variedades", Volver
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -292,7 +292,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc_2A/Wa
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Variedades", Universal TV
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -429,7 +429,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Turismo_Vision_Argentina/SA_Live_das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Culturales", Discovery World
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -444,7 +444,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="Culturales", Sun Channel
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -478,7 +478,7 @@ https://live.presstv.ir/live/smil:live.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://git.io/J35od" group-title="Mundo", Euronews
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -627,7 +627,7 @@ https://el4live1.boldmss.com/TL_NOVELAS/TL_NOVELAS.isml/TL_NOVELAS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/5272-ewtn-2016/?do=download" group-title="Religión", EWTN
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
+https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -645,7 +645,7 @@ https://latamstreaming-live-os.akamaized.net/live_passthrough_static/unifearg1_a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png" group-title="Radios y Música", MTV
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -670,7 +670,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="Radios y Música", MTV Hits
-https://edge-live34-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
+https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
