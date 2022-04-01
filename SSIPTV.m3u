@@ -69,7 +69,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Disco
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles y Familiares", Nickelodeon
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png/revision/latest?cb=20191111001338" group-title="Infantiles y Familiares", Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png" group-title="Infantiles y Familiares", Cartoon Network
 https://cdn.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Variedades", Cine.AR
@@ -110,3 +110,71 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
 https://edge-live31-sl.cvattv.com.ar/live/c7eds//ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.Encuentro2020logo.png.8f50ad22e7766fd8d3dfb621f75df7ba.png" group-title="Culturales", Encuentro
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png" group-title="Culturales", History
+https://edge-live31-sl.cvattv.com.ar/live/c7eds//HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Culturales", Discovery
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png" group-title="Culturales", National Geographic
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Mundo", Antena 3 Internacional
+https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
+https://chromecast.cvattv.com.ar/live/c6eds/DW/SA_SAGEMCOM/DW.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_6423_7_7023.png" group-title="Mundo", CNN En Español
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Mundo", TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTYY" group-title="Mundo", BBC World News
+https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_SAGEMCOM/BBC_World_News.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
+https://edge4-sl.cvattv.com.ar/live/c6eds/RAI/SA_SAGEMCOM/RAI.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/TV_Chile_2020_blanco.png/revision/latest?cb=20211227021713&path-prefix=es" group-title="Mundo", TV Chile
+https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_SAGEMCOM/Tv_Chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Mundo", Las Estrellas
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTtz" group-title="Estilos de Vida", Telemundo Internacional
+https://cdn.cvattv.com.ar/live/c7eds//Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Estilos de Vida", Discovery Home And Health
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_e291d7979ad1480fbc7e567b70778e1c~mv2.png" group-title="Estilos de Vida", E!
+https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Estilos de Vida", Food Network
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Estilos de Vida", El Gourmet
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/5272-ewtn-2016/?do=download" group-title="Religión", EWTN
+https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_SAGEMCOM/EWTN.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Radios y Música", Quiero
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+
