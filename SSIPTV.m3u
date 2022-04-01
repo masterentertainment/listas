@@ -49,4 +49,64 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSpor
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="Deportes", ESPN 2
-https://chromecast.cvattv.com.ar/live/c6eds/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
+https://edge-live14-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
+https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTOg" group-title="Deportes", DeporTV
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png" group-title="Infantiles y Familiares", Paka Paka
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/142-1427596_disney-channel-2018-on-screen-bugs-logo-disney.png" group-title="Infantiles y Familiares", Disney Channel
+https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTL6" group-title="Infantiles y Familiares", Discovery Kids
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles y Familiares", Nickelodeon
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png/revision/latest?cb=20191111001338" group-title="Infantiles y Familiares", Cartoon Network
+https://cdn.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Variedades", Cine.AR
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Variedades", Star Channel
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/7935261.png" group-title="Variedades", Cinecanal
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Variedades", Cinemax
+https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Space.png" group-title="Variedades", Space
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/46-466028_tnt-latin-america-tnt-brasil.png" group-title="Variedades", TNT
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.e1fcedca94856a575c7c02b8c87f9d32.png" group-title="Variedades", Paramount Network
+https://cdn.cvattv.com.ar/live/c7eds//Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Variedades", TNT Series
+https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Variedades", Sony Channel
+https://edge-live11-sl.cvattv.com.ar/live/c7eds//SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://livebgtv.stream/logos/axn.png" group-title="Variedades", AXN
+https://cdn.cvattv.com.ar/live/c7eds//AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/networkLogo/ae.png" group-title="Variedades", A&E 
+https://edge-live11-hr.cvattv.com.ar/live/c7eds//AEHD/SA_SAGEMCOM/AEHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
+https://edge-live31-sl.cvattv.com.ar/live/c7eds//ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
