@@ -398,11 +398,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/Hi
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Culturales", NatGeo WIld
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/NatGeoWildHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/1920/1080/0/0/72827036071623.png" group-title="Culturales", Animal Planet
 https://edge-live11-hr.cvattv.com.ar/live/c7eds//AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
 
@@ -639,9 +634,6 @@ https://edge-live11-sl.cvattv.com.ar/live/c7eds//CANAL_LUZ/SA_Live_dash_enc_2A/C
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Mh2-ei2dzWJqMJBRMXqs9w/featured_channel.jpg?v=5d6e901d" group-title="Religión", Orbe 21
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 
-#EXTINF:-1 tvg-logo="https://unifetv.com/logo.png" group-title="Religión", Unife
-https://latamstreaming-live-os.akamaized.net/live_passthrough_static/unifearg1_ar_only/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png" group-title="Radios y Música", MTV
@@ -654,7 +646,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_2A/Allegr
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Radios y Música", Quiero
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Radios y Música", Quiero Musica
 https://edge-live12-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -664,7 +656,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://muchla.com/images/logo.png" group-title="Radios y Música", Much
+#EXTINF:-1 tvg-logo="https://muchla.com/images/logo.png" group-title="Radios y Música", Much Music
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -679,7 +671,7 @@ https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="Radios y Música", Nick Music
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="Radios y Música", NickMusic
 https://edge-live31-sl.cvattv.com.ar/live/c6eds/VH1_Megahits/SA_Live_dash_enc_2A/VH1_Megahits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
