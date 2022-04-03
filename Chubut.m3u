@@ -178,18 +178,13 @@ https://cdn.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/Cartoon
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Infantiles y Familiares", Disney XD
-https://edge-live11-hr.cvattv.com.ar/live/c7eds//DisneyXD/SA_Live_dash_enc_2A/DisneyXD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.disneylapresspack.com/storage/posts/1556572921_image002.png" group-title="Infantiles y Familiares", Disney Junior
 https://edge-live13-sl.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/5/5e/Natgeokids.png" group-title="Infantiles y Familiares", NatGeo Kids
-https://cdn.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_Live_dash_enc_2A/NatGeo_Kids.mpd
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png" group-title="Infantiles y Familiares", Baby TV
+https://chromecast.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_2A/BabyTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -324,11 +319,6 @@ https://edge-live32-hr.cvattv.com.ar/live/c7eds//A3_Series/SA_Live_dash_enc_2A/A
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarLife_Logo2021_FondoOscuro.png.4e569947973a553f4c3bff41388db9a5.png" group-title="Variedades", Star Life
-https://edge-live31-sl.cvattv.com.ar/live/c6eds/Fox_Life/SA_Live_dash_enc_2A/Fox_Life.mpd
-
 #EXTINF:-1 tvg-logo="https://morbido.tv/images/morbido-blanco-completo.png" group-title="Variedades", Morbido TV
 http://51.79.18.128:8081/LATINO%7CMORBIDO/LATINO%7CMORBIDO/playlist.m3u8
 
@@ -375,6 +365,11 @@ https://edge-live31-sl.cvattv.com.ar/live/c7eds//ComedyCentral/SA_Live_dash_enc_
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1960630694_InvestigationDiscovery.png.4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Variedades", ID
 https://edge-live32-sl.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/712/CH_LOGO/1920/1080/0/0/6514958607308.png" group-title="Variedades", Nueva Imagen TV
+https://chromecast.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_Live_dash_enc_2A/Nueva_Imagen.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -466,6 +461,11 @@ https://edge-live34-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Ant
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="Mundo", Arirang
+https://chromecast.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_enc_2A/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -646,6 +646,11 @@ https://latamstreaming-live-os.akamaized.net/live_passthrough_static/unifearg1_a
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png" group-title="Radios y Música", MTV
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7277/CH_LOGO/1920/1080/0/0/75476816073439.png" group-title="Radios y Música", Allegro
+https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_2A/AllegroHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
