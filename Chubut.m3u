@@ -2,11 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Test", UNIVERSAL PREMIERES
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-id="America24.ar" tvg-logo="https://forounivers.com/gallery/image/1361-logo-a24-retocado-2019/?do=download" tvg-group="Noticias", A24
 https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
