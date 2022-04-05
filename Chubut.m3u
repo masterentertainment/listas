@@ -639,7 +639,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Can
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_01/580672455_ClubMTV2021.png.958eb08842bd2673a788e8b594bebd83.png" group-title="Radios y Música", MTV 80s
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1865642195_MTV80s.png.86138cd84bd45dc52657a48a10fc2ed0.png" group-title="Radios y Música", MTV 80s
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(VH1_CLASSIC)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
