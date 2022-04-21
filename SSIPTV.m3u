@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://m3u4u.com/epg/w16vy5vke4swww4kn39p"
 
 #EXTINF:-1 audio-track="es" tvg-id="America24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
 https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
