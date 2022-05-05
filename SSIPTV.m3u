@@ -42,7 +42,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 audio-track="es" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", FOX Sports
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/931.png" group-title="Deportes", FOX Sports 2
+#EXTINF:-1 audio-track="es" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2022/03/Fox-sports-2-86925b8e.png" group-title="Deportes", FOX Sports 2
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
 #EXTINF:-1 audio-track="es" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Deportes", ESPN
@@ -121,7 +121,7 @@ https://edge-live31-sl.cvattv.com.ar/live/c7eds//HistoryHD/SA_SAGEMCOM/HistoryHD
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-1 audio-track="es" tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png" group-title="Culturales", National Geographic
-https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
 #EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
@@ -156,7 +156,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMC
 #EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTtz" group-title="Estilos de Vida", Telemundo Internacional
 https://cdn.cvattv.com.ar/live/c7eds//Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Estilos de Vida", Discovery Home And Health
+#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large.207902319_HH.png.d6000ec76bf59e8d2ac709e7a980f42f.png" group-title="Estilos de Vida", Discovery Home And Health
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 audio-track="es" tvg-logo="https://static.wixstatic.com/media/b12542_e291d7979ad1480fbc7e567b70778e1c~mv2.png" group-title="Estilos de Vida", E!
