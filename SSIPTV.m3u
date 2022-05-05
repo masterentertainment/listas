@@ -108,7 +108,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c7eds//AEHD/SA_SAGEMCOM/AEHD.m3u8
 #EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
 https://edge-live31-sl.cvattv.com.ar/live/c7eds//ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 #EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.Encuentro2020logo.png.8f50ad22e7766fd8d3dfb621f75df7ba.png" group-title="Culturales", Encuentro
