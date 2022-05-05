@@ -1,200 +1,200 @@
 #EXTM3U x-tvg-url="http://m3u4u.com/epg/w16vy5vke4swww4kn39p"
 
-#EXTINF:-1 audio-track="es" tvg-id="America24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-id="America24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
 https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" tvg-group="Noticias", Canal 26
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" tvg-group="Noticias", Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.2980387507709.png.846d347227aabac21b5fe905bdf3fe6c.png" tvg-group="Noticias", C5N
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.2980387507709.png.846d347227aabac21b5fe905bdf3fe6c.png" tvg-group="Noticias", C5N
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" tvg-group="Noticias", Información Periodística
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" tvg-group="Noticias", Información Periodística
 https://chromecast.cvattv.com.ar/live/c7eds//Investigacion_Periodistica/SA_SAGEMCOM/Investigacion_Periodistica.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" tvg-group="Noticias", Cronica
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" tvg-group="Noticias", Cronica
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTO8" tvg-group="Nacionales", Elnueve
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTO8" tvg-group="Nacionales", Elnueve
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTO0" tvg-group="Nacionales", America
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTO0" tvg-group="Nacionales", America
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe
 https://chromecast.cvattv.com.ar////live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eltrece_%28Sol%29.png" group-title="Nacionales", Eltrece
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eltrece_%28Sol%29.png" group-title="Nacionales", Eltrece
 https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Nacionales", TV Pública
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Nacionales", TV Pública
 https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="Deportes", TyC Sports
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="Deportes", TyC Sports
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", FOX Sports
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", FOX Sports
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2022/03/Fox-sports-2-86925b8e.png" group-title="Deportes", FOX Sports 2
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2022/03/Fox-sports-2-86925b8e.png" group-title="Deportes", FOX Sports 2
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Deportes", ESPN
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Deportes", ESPN
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="Deportes", ESPN 2
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="Deportes", ESPN 2
 https://edge-live14-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTOg" group-title="Deportes", DeporTV
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTOg" group-title="Deportes", DeporTV
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png" group-title="Infantiles y Familiares", Paka Paka
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png" group-title="Infantiles y Familiares", Paka Paka
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.pngkit.com/png/full/142-1427596_disney-channel-2018-on-screen-bugs-logo-disney.png" group-title="Infantiles y Familiares", Disney Channel
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.pngkit.com/png/full/142-1427596_disney-channel-2018-on-screen-bugs-logo-disney.png" group-title="Infantiles y Familiares", Disney Channel
 https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTL6" group-title="Infantiles y Familiares", Discovery Kids
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTL6" group-title="Infantiles y Familiares", Discovery Kids
 https://edge-live12-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles y Familiares", Nickelodeon
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles y Familiares", Nickelodeon
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png" group-title="Infantiles y Familiares", Cartoon Network
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png" group-title="Infantiles y Familiares", Cartoon Network
 https://cdn.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Variedades", Cine.AR
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Variedades", Cine.AR
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Variedades", Star Channel
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Variedades", Star Channel
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/7935261.png" group-title="Variedades", Cinecanal
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/7935261.png" group-title="Variedades", Cinecanal
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Variedades", Cinemax
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Variedades", Cinemax
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://televisionlibre.net/img/logo_canal/Space.png" group-title="Variedades", Space
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://televisionlibre.net/img/logo_canal/Space.png" group-title="Variedades", Space
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.pngkit.com/png/full/46-466028_tnt-latin-america-tnt-brasil.png" group-title="Variedades", TNT
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.pngkit.com/png/full/46-466028_tnt-latin-america-tnt-brasil.png" group-title="Variedades", TNT
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.e1fcedca94856a575c7c02b8c87f9d32.png" group-title="Variedades", Paramount Network
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.e1fcedca94856a575c7c02b8c87f9d32.png" group-title="Variedades", Paramount Network
 https://cdn.cvattv.com.ar/live/c7eds//Paramount/SA_SAGEMCOM/Paramount.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Variedades", TNT Series
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Variedades", TNT Series
 https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Variedades", Sony Channel
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Variedades", Sony Channel
 https://edge-live11-sl.cvattv.com.ar/live/c7eds//SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="http://livebgtv.stream/logos/axn.png" group-title="Variedades", AXN
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="http://livebgtv.stream/logos/axn.png" group-title="Variedades", AXN
 https://cdn.cvattv.com.ar/live/c7eds//AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.historyplay.tv/images/networkLogo/ae.png" group-title="Variedades", A&E 
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.historyplay.tv/images/networkLogo/ae.png" group-title="Variedades", A&E 
 https://edge-live11-hr.cvattv.com.ar/live/c7eds//AEHD/SA_SAGEMCOM/AEHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 #EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
 https://edge-live31-sl.cvattv.com.ar/live/c7eds//ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.Encuentro2020logo.png.8f50ad22e7766fd8d3dfb621f75df7ba.png" group-title="Culturales", Encuentro
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.Encuentro2020logo.png.8f50ad22e7766fd8d3dfb621f75df7ba.png" group-title="Culturales", Encuentro
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png" group-title="Culturales", History
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png" group-title="Culturales", History
 https://edge-live31-sl.cvattv.com.ar/live/c7eds//HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Culturales", Discovery
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Culturales", Discovery
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png" group-title="Culturales", National Geographic
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png" group-title="Culturales", National Geographic
 https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Mundo", Antena 3 Internacional
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Mundo", Antena 3 Internacional
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
 https://chromecast.cvattv.com.ar/live/c6eds/DW/SA_SAGEMCOM/DW.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_6423_7_7023.png" group-title="Mundo", CNN En Español
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_6423_7_7023.png" group-title="Mundo", CNN En Español
 https://edge-live12-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Mundo", TeleSUR
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Mundo", TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTYY" group-title="Mundo", BBC World News
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTYY" group-title="Mundo", BBC World News
 https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_SAGEMCOM/BBC_World_News.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
 https://edge4-sl.cvattv.com.ar/live/c6eds/RAI/SA_SAGEMCOM/RAI.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/TV_Chile_2020_blanco.png/revision/latest?cb=20211227021713&path-prefix=es" group-title="Mundo", TV Chile
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/TV_Chile_2020_blanco.png/revision/latest?cb=20211227021713&path-prefix=es" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_SAGEMCOM/Tv_Chile.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Mundo", Las Estrellas
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Mundo", Las Estrellas
 https://edge-live12-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://git.io/JOTtz" group-title="Estilos de Vida", Telemundo Internacional
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://git.io/JOTtz" group-title="Estilos de Vida", Telemundo Internacional
 https://cdn.cvattv.com.ar/live/c7eds//Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large.207902319_HH.png.d6000ec76bf59e8d2ac709e7a980f42f.png" group-title="Estilos de Vida", Discovery Home And Health
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large.207902319_HH.png.d6000ec76bf59e8d2ac709e7a980f42f.png" group-title="Estilos de Vida", Discovery Home And Health
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.wixstatic.com/media/b12542_e291d7979ad1480fbc7e567b70778e1c~mv2.png" group-title="Estilos de Vida", E!
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wixstatic.com/media/b12542_e291d7979ad1480fbc7e567b70778e1c~mv2.png" group-title="Estilos de Vida", E!
 https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Estilos de Vida", Food Network
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Estilos de Vida", Food Network
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Estilos de Vida", El Gourmet
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Estilos de Vida", El Gourmet
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/gallery/image/5272-ewtn-2016/?do=download" group-title="Religión", EWTN
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/gallery/image/5272-ewtn-2016/?do=download" group-title="Religión", EWTN
 https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_SAGEMCOM/EWTN.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Radios y Música", Quiero
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Radios y Música", Quiero
 https://edge-live12-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.7d1fe868b7eac121274d6c416298680f.png" tvg-group="Universal+ Pack", Universal Premiere
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.7d1fe868b7eac121274d6c416298680f.png" tvg-group="Universal+ Pack", Universal Premiere
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_PREMIERE_HD)/index.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.3dd657ae175a7ab584ef40c1a517e63f.png" tvg-group="Universal+ Pack", Universal Cinema
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.3dd657ae175a7ab584ef40c1a517e63f.png" tvg-group="Universal+ Pack", Universal Cinema
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.867a20ebdd4c0b03422ec2f723fa9545.png" tvg-group="Universal+ Pack", Universal Comedy
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.867a20ebdd4c0b03422ec2f723fa9545.png" tvg-group="Universal+ Pack", Universal Comedy
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" tvg-group="Universal+ Pack", Universal Crime
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" tvg-group="Universal+ Pack", Universal Crime
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CRIME_HD)/index.m3u8
 
-#EXTINF:-1 audio-track="es" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" tvg-group="Universal+ Pack", Universal Reality
+#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" tvg-group="Universal+ Pack", Universal Reality
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8
