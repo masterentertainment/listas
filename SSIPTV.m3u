@@ -39,8 +39,11 @@ https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="Deportes", TyC Sports
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
-#EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", FOX Sports
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-mp4a_145200_spa=20001.m3u8",GROUP-ID="audio-AACL-145",LANGUAGE="es",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=1910278,AVERAGE-BANDWIDTH=1736618,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=29.970,AUDIO="audio-AACL-145"
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-avc1_579968=10010.m3u8
+#EXT-X-I-FRAME-STREAM-INF:URI="https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-iframe-avc1_579968=10010.m3u8",BANDWIDTH=84530,AVERAGE-BANDWIDTH=76845,CODECS="avc1.4d401e",RESOLUTION=640x360
 
 #EXTINF:-1 audio-track="2" mono="1" aspect-ratio="16:9" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2022/03/Fox-sports-2-86925b8e.png" group-title="Deportes", FOX Sports 2
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
