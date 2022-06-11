@@ -64,7 +64,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd
 https://cdn.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Nacionales", TV Pública
-https://cdn.cvattv.com.ar//live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+https://chromecast.cvattv.com.ar//live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
