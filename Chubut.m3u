@@ -40,12 +40,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Diputados_
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://git.io/JOTO8" tvg-group="Nacionales", Elnueve
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/small.elnueve.png.c2b3f1055a574f0d680fbbab0d05e917.png" tvg-group="Nacionales", Elnueve
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://git.io/JOTO0" tvg-group="Nacionales", America
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.2070876048_America202022.png.e786105deae623712c9153fc343038d9.png" tvg-group="Nacionales", America
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -63,7 +63,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Nacionales", Eltrece
 https://cdn.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Nacionales", TV Pública
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png" group-title="Nacionales", TV Pública
 https://chromecast.cvattv.com.ar//live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -83,7 +85,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/931.png" group-title="Deportes", FOX Sports 2
+#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2022/03/Fox-sports-2-86925b8e.png" group-title="Deportes", FOX Sports 2
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -108,7 +110,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Deportes", ESPN Extra
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="Deportes", ESPN Extra
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLSP.png?raw=true" group-title="Deportes", Claro Sports Latam
@@ -173,9 +175,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discover
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles y Familiares", Nickelodeon
 https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.368505163_TeenNick(2020)2.png.84c7b372906be2c6c296ca5d2293f896.png" group-title="Infantiles y Familiares", Teen Nick
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -310,9 +309,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Eu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png" group-title="Variedades", I.Sat
 https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPLS.png?raw=true" group-title="Variedades", Golden Plus
-http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/small.1734697758_Atreseries(2020)-alterno.png.cb4ba579f94f166cbc3c490de36d1909.png" group-title="Variedades", Atreseries
@@ -322,9 +318,6 @@ https://cdn.cvattv.com.ar/live/c7eds//A3_Series/SA_Live_dash_enc_2A/A3_Series.mp
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy
 https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
-
-#EXTINF:-1 tvg-logo="https://morbido.tv/images/morbido-blanco-completo.png" group-title="Variedades", Morbido TV
-http://51.79.18.128:8081/LATINO%7CMORBIDO/LATINO%7CMORBIDO/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -432,11 +425,11 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Disco
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="Culturales", Sun Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_06/large.488933943_LogoSUNCHANNELTV2022.png.cf3972e17404916ebe68e2de1a9c6f0e.png" group-title="Culturales", Sun Channel
 https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="Culturales", INTI
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(INTI_HD)/index.m3u8
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -447,9 +440,6 @@ https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_2A/WOBI.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
-
-#EXTINF:-1 tvg-logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/08/logo_canalesrtve_star.webp" group-title="Mundo", Star TVE
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(STAR_TVE_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Mundo", 24 Horas (España)
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
@@ -610,6 +600,11 @@ https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_2A/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
+#EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Estilos de Vida", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/956c3f17-b94d-44fd-8bc2-3437700615fc/2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Estilos de Vida", Pasiones
 https://cdn.cvattv.com.ar/live/c7eds//Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
@@ -633,19 +628,13 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1865642195_MTV80s.png.86138cd84bd45dc52657a48a10fc2ed0.png" group-title="Radios y Música", MTV 80s
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(VH1_CLASSIC)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Radios y Música", MTV Yo!
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/image.png.1802ef44a7a984cec0d426b4c370b5a9.png" group-title="Radios y Música", MTV 00s
 https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_09/large.1512458622_MTVLIVE.png.69cce0d3bd11f51239b21103a3c96a34.png" group-title="Radios y Música", MTV Live
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_LIVE_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_01/580672455_ClubMTV2021.png.958eb08842bd2673a788e8b594bebd83.png" group-title="Radios y Música", Club MTV
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_CLUB)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
@@ -813,42 +802,42 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO
-https://cdn.cvattv.com.ar///live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
+https://cdn.cvattv.com.ar///live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png" group-title="HBO Pack", HBO 2
-https://cdn.cvattv.com.ar//live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
+https://cdn.cvattv.com.ar//live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097924471-HBO-plis-pequenio-b.png" group-title="HBO Pack", HBO Plus
-https://cdn.cvattv.com.ar///live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
+https://cdn.cvattv.com.ar///live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/small.hbo_fam_dark_2021.png.02f3c24d4dbb10f72c617c7b46ab1872.png" group-title="HBO Pack", HBO Family
-https://cdn.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
+https://cdn.cvattv.com.ar///live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.76e558cad5eb8e895d097ce84f416833.png" group-title="HBO Pack", HBO Mundi
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.directvgo.com/content/dam/ott/web/public-landers/add-ons/HBO-signature-Logo.png" group-title="HBO Pack", HBO Signature
-https://cdn.cvattv.com.ar///live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd
+https://cdn.cvattv.com.ar///live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.4b3f07d4fbded45afce0d3d94f0c3c0e.png" group-title="HBO Pack", HBO Pop
-https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
+https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
 #EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s80211_ld_h15_ab.png" group-title="HBO Pack", HBO Xtreme
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="https://git.io/JzFRu" tvg-group="Locales", Canal 9 Cdro. Rivadavia
