@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0d270d4c1ef2a319aeaf2f424e9b1442&key=fad9eaf7a980300686af7809c0377a00
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/NuestraTele2018.png/revision/latest/scale-to-width-down/300?cb=20210307132730&path-prefix=es" tvg-group="Test", RCN Int.
-https://dtvott-cwtests.akamaized.net/dash_live_1009/manifest.mpd
+http://dtvott-cwtests.akamaized.net/dash_live_1009/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
