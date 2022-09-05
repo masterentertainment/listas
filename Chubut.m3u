@@ -374,7 +374,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39462040a2fa828fd5f60a4adf2f0050&key=6bd93289eb9d4bfa93f88d014fb95ce4
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6bd93289eb9d4bfa93f88d014fb95ce4&key=39462040a2fa828fd5f60a4adf2f0050
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
 https://b42468.cdn.telefonica.com/live/disk1/ComedyCentral/DASH/ComedyCentral.mpd
 
