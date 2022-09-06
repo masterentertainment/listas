@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40aa8a3467fc5790a5779a21908b4a75&key=f41dcd5bb111b6ebc9559741d98b7b81
-#EXTINF:-1 tvg-id="America24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24 2
+#EXTINF:-1 tvg-id="America24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
 https://dtvott-cwtests.akamaized.net/dash_live_1009/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -350,10 +350,17 @@ https://cdn.cvattv.com.ar/live/c7eds//A3_Series/SA_Live_dash_enc_2A/A3_Series.mp
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy
 https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8f1f2a95762a3025a30bd14a53d742cb&key=5f65c4f0c8235c57a46085cc7a779432
 #EXTINF:-1 tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
-https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
+https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f65c4f0c8235c57a46085cc7a779432&key=8f1f2a95762a3025a30bd14a53d742cb
+#EXTINF:-1 tvg-logo="https://git.io/JOTOa" group-title="Variedades", Ciudad Magazine
+https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://git.io/JZrwT" tvg-group="Variedades", Mirador TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1589570551.m3u8
