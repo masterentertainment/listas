@@ -2,6 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe49940345dd5e40be8f6c163a088aff&key=464172bbc422938df76633bf3a8a2b54
+#EXTINF:-1 tvg-id="America24.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/DNews_2022.png/revision/latest?cb=20220705230826&path-prefix=es" tvg-group="Noticias", DNEWS
+https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40aa8a3467fc5790a5779a21908b4a75&key=f41dcd5bb111b6ebc9559741d98b7b81
 #EXTINF:-1 tvg-id="America24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
 https://dtvott-cwtests.akamaized.net/dash_live_1009/manifest.mpd
