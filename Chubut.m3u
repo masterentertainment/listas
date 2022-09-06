@@ -1,12 +1,5 @@
 #EXTM3U
 
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f41dcd5bb111b6ebc9559741d98b7b81&key=40aa8a3467fc5790a5779a21908b4a75
-#EXTINF:-1 tvg-id="America24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
-https://dtvott-cwtests.akamaized.net/dash_live_1009/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40aa8a3467fc5790a5779a21908b4a75&key=f41dcd5bb111b6ebc9559741d98b7b81
@@ -556,8 +549,9 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/1080?cb=20220106180200&path-prefix=es" group-title="Mundo", Etb Basque
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://teudynea.webcindario.com/megatv.php
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=369e2f84e6def45d673eca72f7e18236
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
 https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
