@@ -152,12 +152,6 @@ https://cdn.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_2A/Discove
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/PX_Sports.json
-#EXTINF:-1 tvg-logo="https://git.io/JOTOg" group-title="Deportes", PX Sports
-https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dbd4301ab0af3681be89ccdee78859cc&key=9e33db27eb3e5a15b5bf3b8b33e297cc
 #EXTINF:-1 tvg-logo="https://git.io/JOTOg" group-title="Deportes", DeporTV
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
@@ -269,7 +263,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=88a4c9d720584efa91e42fbace03a3a9&key=1df77c95d2d8d7d61cbf45cbb9cb4d24
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Space.png" group-title="Variedades", Space
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
@@ -309,8 +303,14 @@ https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b5c7e54f0f3c46e1854f36c3f9f21493&key=369e2f84e6def45d673eca72f7e18236
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Variedades", Clover Channel
+#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/clover.png" group-title="Variedades", Clover Channel
 https://b42429.cdn.telefonica.com/live/disk1/Clover/DASH/Clover.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c34c7a68b8a349af9eaa71dcd25020e5&key=12d763caa5c870f3a7331261b7530963
+#EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" group-title="Variedades", DHE
+https://b43186.cdn.telefonica.com/sdash/LIVE$DHEHD/index.mpd/Manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -376,7 +376,7 @@ https://cdn.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f183f984c2a849c38ac534c05a2f9d93&key=51b260bc0d52df3405f9507e5af0a39d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Variedades", Europa Europa
-https://b43178.cdn.telefonica.com/sdash/LIVE$EuropaEuropa/index.mpd/Manifest.mpd
+https://b43178.cdn.telefonica.com/sdash/LIVE$EuropaEuropa/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -453,6 +453,9 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png" group-title="Culturales", National Geographic
 https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20220303220459&path-prefix=es" group-title="Culturales", Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ecbe97ec34784304b390a12ba3854ccf&key=5a0ee36ed9b8920cb19546fd92f2d415
@@ -512,18 +515,12 @@ https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_2A/WOBI.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Bloomberg.json
-#EXTINF:-1 tvg-logo="https://codecon.bloomberg.com/img/logo-bloomberg-white.png" group-title="Mundo", Bloomberg
-https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=53e0a3741e2e4ff5843f165b53309088&key=45095caabd9a359cd7ea3910d865d643
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Mundo", TVE
 https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Mundo", 24 Horas (España)
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -540,11 +537,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Mundo", TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Mundo", RT En Español
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Mundo", France 24 En Español
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hispanatv.png" group-title="Mundo", HispanTV
+https://live1.presstv.ir/live/hispan.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -564,6 +558,12 @@ https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/B
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a4eac51195506752f9f63ad24def9c37&key=3fe3f31a5e7b48a1b548e9364757ce66
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="Mundo", FOX News
+https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" tvg-group="Mundo", TRT World
 https://tv-trtworld.live.trt.com.tr:443/master_720.m3u8
 
@@ -571,7 +571,7 @@ https://tv-trtworld.live.trt.com.tr:443/master_720.m3u8
 https://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/1080?cb=20220106180200&path-prefix=es" group-title="Mundo", Etb Basque
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -661,7 +661,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_2A/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Estilos de Vida", Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/956c3f17-b94d-44fd-8bc2-3437700615fc/2.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -710,9 +710,10 @@ https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+key:4a4fd86ea9db4417ec86c237d3111b18 kid:eae6c12ccab349e6ae675ab6ed8a476c
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="Radios y Música", NickMusic
-https://cdn.cvattv.com.ar/live/c6eds/VH1_Megahits/SA_Live_dash_enc_2A/VH1_Megahits.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_2A/Nickmusic.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
