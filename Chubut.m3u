@@ -308,12 +308,6 @@ https://b42429.cdn.telefonica.com/live/disk1/Clover/DASH/Clover.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c34c7a68b8a349af9eaa71dcd25020e5&key=12d763caa5c870f3a7331261b7530963
-#EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" group-title="Variedades", DHE
-https://b43186.cdn.telefonica.com/sdash/LIVE$DHEHD/index.mpd/Manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6f0fc214d9844a7590f0884d55b44c42&key=b2fe1bb5f9c79035301c328c1e93b0ee
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="Variedades", Eurochannel
 https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd
@@ -371,12 +365,6 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="Variedades", A&E 
 https://cdn.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f183f984c2a849c38ac534c05a2f9d93&key=51b260bc0d52df3405f9507e5af0a39d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Variedades", Europa Europa
-https://b43178.cdn.telefonica.com/sdash/LIVE$EuropaEuropa/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
