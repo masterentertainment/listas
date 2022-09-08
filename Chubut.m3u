@@ -158,6 +158,12 @@ https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/large.373_1.png.32d29f464225d82280da605b49a3c115.png" group-title="Deportes", VTV (Uruguay)
+https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d0c38de3c9844e4e9f975dffb3eff8ad&key=141ca0fdf6ebadfa7107576b8e09e117
 #EXTINF:-1 tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="Deportes", NBA TV
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd
@@ -516,6 +522,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Mundo", Antena 3 Internacional
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/1_plus_1_International_logo.svg/640px-1_plus_1_International_logo.svg.png" group-title="Mundo", 1+1 Internacional
+https://1plus1-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
@@ -524,6 +533,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Mundo", TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c0cf93eb631433ab7652e79b309e3d8&key=3e67a2178c43ac86b6dcadcbaac033f8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="Mundo", Cablenoticias
+https://b41846.cdn.telefonica.com/sdash/LIVE$CNOTICIAS/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hispanatv.png" group-title="Mundo", HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
@@ -548,7 +563,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a4eac51195506752f9f63ad24def9c37&key=3fe3f31a5e7b48a1b548e9364757ce66
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3fe3f31a5e7b48a1b548e9364757ce66&key=a4eac51195506752f9f63ad24def9c37
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="Mundo", FOX News
 https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd
 
@@ -573,11 +588,14 @@ https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/TV_Chile_2020_blanco.png/revision/latest?cb=20211227021713&path-prefix=es" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
-#EXTINF:-1 tvg-logo="https://bit.ly/24TVN" tvg-group="Mundo", 24 Horas (Chile)
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bolivia_TV_2020_Variante_Wiphala_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023259&path-prefix=es" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/large.sketch-1585655821672.png.c70000e9ebbe2e70a984a3325a35bf5a.png" group-title="Mundo", TV Ciudad (Uruguay)
+https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
