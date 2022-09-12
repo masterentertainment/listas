@@ -742,7 +742,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w14191026
 https://musicsrc.cvattv.com.ar/RDIS
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Radios y Música", Mitre
-https://musicsrc.cvattv.com.ar/RMIT
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
 
 #EXTINF:-1 tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Radios y Música", POP 101.5
 https://ny2.stweb.tv/popradio/live/playlist.m3u8
