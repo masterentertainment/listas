@@ -446,8 +446,10 @@ https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentra
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1960630694_InvestigationDiscovery.png.4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Variedades", ID
 https://cdn.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Culturales", Encuentro
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -772,7 +774,7 @@ https://mega.stweb.tv/mega983/live/playlist.m3u8
 https://dcp.cienradios.com.ar/fm999/fm999,56,32,.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.continental.com.ar/img/logo-night.png" group-title="Radios y Música", Continental
-https://14933.live.streamtheworld.com/CONTINENTALAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTLY" group-title="Radios y Música", Nacional
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
