@@ -86,7 +86,7 @@ https://chromecast.cvattv.com.ar//live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1 tvg-id="ElTreceHD.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_09/large.643551553_BravoTV.png.a515aacde57daa6e0110a35f854ccea9.png" group-title="Nacionales", Bravo TV
+#EXTINF:-1 tvg-id="BravoTV.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_09/large.643551553_BravoTV.png.a515aacde57daa6e0110a35f854ccea9.png" group-title="Nacionales", Bravo TV
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd
 
 
@@ -694,7 +694,7 @@ https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4ae10c2357e250e088bb8a5ab044dd50&key=e7f47e2b948e9222cf4d24b51881ec04
-#EXTINF:-1 tvg-id="PasionesPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Estilos de Vida", TLNovela
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Estilos de Vida", TLNovela
 https://channel-tlnovelas-cdn.blim.com/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -705,6 +705,11 @@ https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Radios y Música", MTV Yo!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3b9bb0d2620243f1ae8351e49aec26a3&key=40cb9a29cee1fff4b1e6dbc96be0f9b1
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.858494140_MTV80s2020.png.63fb573ecfb43ae8cd68b887ba0c892e.png" group-title="Radios y Música", MTV 80s
+https://anedgesta.express.com.ar/live/c1eds/VH1_Classics/SA_DASH_cipix/VH1_Classics.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1
