@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/masterentertainment/listas/main/Key/C5UY
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/masterentertainment/listas/main/Key/C5UY.php
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="Test", TNU
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
 
