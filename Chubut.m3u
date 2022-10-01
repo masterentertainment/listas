@@ -613,7 +613,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chil
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d156b089a39b5e81be1ea8a6d1c9fc4e&key=015d0fec74f71ff77114bb439ef07a8b
 #EXTINF:-1 tvg-id="" tvg-logo="...\logos\24TVN.png" group-title="Mundo", 24 Horas (CL)
 https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd
 
