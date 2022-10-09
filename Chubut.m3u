@@ -80,7 +80,7 @@ https://cdn.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a30963123f5ffc32d733bc0d26445c6a&key=2651574e778c91160307256415ad6666
 #EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png" group-title="Nacionales", TV Pública
-https://chromecast.cvattv.com.ar//live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -138,7 +138,6 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLSP.png?raw=true" group-title="Deportes", Claro Sports Latam
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2
@@ -215,11 +214,6 @@ https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083
 #EXTINF:-1 tvg-id="NickJrHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantiles y Familiares", Nick JR.
 https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1f469b26c4c64e37aa87742b65358c8d&key=82a39fd1277e874e3f7d126f47744da5
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.518587-8c.png.3c25a168b909d55e40178c89ced18a42.png" group-title="Infantiles y Familiares", Teen Nick
-https:////b45427.cdn.telefonica.com/sdash/LIVE$TeenNick/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -459,6 +453,10 @@ https://cdn.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Culturales", Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="Culturales", TEC
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
