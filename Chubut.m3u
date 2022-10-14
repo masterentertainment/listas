@@ -898,8 +898,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f7c8d3ea42f2a4da3b1423a32397bd3a&key=90e6e0d8b1d988b6151220ee6eb2e56e
 #EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports
-https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-_________________________________________________________________________________________________________________________________________________________________
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd_________________________________________________________________________________________________________________________________________________________________
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
