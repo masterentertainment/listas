@@ -163,6 +163,13 @@ https://cdn.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_2A/Discove
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vmvJHheBb2fmJZa+1GPFrQ","kid":k5MyHa7xRj/H4uBgKY24Ug"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/858_planet-x.png.575ae3eb66a5ae88545475d83f9d720d.png" group-title="Deportes", PX Sports
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/large.373_1.png.32d29f464225d82280da605b49a3c115.png" group-title="Deportes", VTV (Uruguay)
