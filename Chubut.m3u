@@ -232,9 +232,9 @@ https://channel-tiin-cdn.blim.com/manifest.mpd
 https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a255e1384db3e9ce7e0349e8aa9b9f77&key=404cc4fb45f82c9a7dffd3d2496cca20
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7f30c43e47544412221fd64201d92f4b&key=f83d09d75a0946b1d71aa48c201b4d8b
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.2074799609_invert(66).png.ee01ab6dd93c2f4cb70d96e97ed4d723.png" group-title="Infantiles y Familiares", Dreamworks TV
-https://edge2-zapopan.izzigo.tv/live2/out/u/dash/DREAM-WORKS-HD/default.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dreamworks.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9e09f0a3ecb932582e0f3bc6a6194c8d&key=6d2363b7ba7680ea3bf6dcbad1efa5bf
