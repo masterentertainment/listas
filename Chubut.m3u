@@ -814,13 +814,13 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Radios y Música", Stingray Djazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Radios y Música", Stingray Naturescape
+#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Radios y Música" , Stingray Naturescape
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Radios y Música", Stingray Classica
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Radios y Música" , Stingray Classica
 https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Radios y Música", Stingray Classica 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Radios y Música" , Stingray Classica 2
 https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.apollo.tv/img/channel-logo/icon-on-dark/logo-2x1-bgdark_Stingray_C_Music_TV.png" group-title="Radios y Música", Stingray Cmusic
@@ -829,70 +829,70 @@ https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.apollo.tv/img/channel-logo/icon-on-dark/logo-2x1-bgdark_Stingray_C_Music_TV.png" group-title="Radios y Música", Stingray Cmusic 2
 https://watchtv-raw.ott-channels.stingray.com/cmusic01/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Grandes Éxitos
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Grandes Éxitos
 https://ott-linear-channels.stingray.com/155/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Lista de Éxitos
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Lista de Éxitos
 https://ott-linear-channels.stingray.com/107/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Éxitos del Momento
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Éxitos del Momento
 https://ott-linear-channels.stingray.com/190/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Rock Clásico
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Rock Clásico
 https://ott-linear-channels.stingray.com/101/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Rock Alternativo
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Rock Alternativo
 https://ott-linear-channels.stingray.com/102/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Pop Adulto
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Pop Adulto
 https://ott-linear-channels.stingray.com/104/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Hip Hop y R&B
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Hip Hop y R&B
 https://ott-linear-channels.stingray.com/133/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Country
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Country
 https://ott-linear-channels.stingray.com/108/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Flashback 70's
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Flashback 70's
 https://ott-linear-channels.stingray.com/115/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Remember The 80's
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Remember The 80's
 https://ott-linear-channels.stingray.com/128/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Nuevos Clásicos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Nuevos Clásicos
 https://musicsrc.cvattv.com.ar/RM03
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Música Electrónica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Música Electrónica
 https://musicsrc.cvattv.com.ar/RM41
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Grandes del Rock
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Grandes del Rock
 https://musicsrc.cvattv.com.ar/RM18
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Reggaeton Romántico
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Reggaeton Romántico
 https://musicsrc.cvattv.com.ar/RM30
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Música Latina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Música Latina
 https://musicsrc.cvattv.com.ar/RM31
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Reggaeton
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Reggaeton
 https://musicsrc.cvattv.com.ar/RM29
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Rock Nacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Rock Nacional
 https://musicsrc.cvattv.com.ar/RM17
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", 90's Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", 90's Internacional
 https://musicsrc.cvattv.com.ar/RM04
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Tango
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Tango
 https://musicsrc.cvattv.com.ar/RM46
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Música Disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Música Disco
 https://musicsrc.cvattv.com.ar/RM14
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Jazz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Jazz
 https://musicsrc.cvattv.com.ar/RM37
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png" group-title="Radios y Música", Reggae
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ITunes_12_logo.png/768px-ITunes_12_logo.png" group-title="Radios y Música", Reggae
 https://musicsrc.cvattv.com.ar/RM23
 
 #EXTINF:-1 tvg-logo="https://www.continental.com.ar/img/logo-night.png" group-title="Radios y Música", Continental
