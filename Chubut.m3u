@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec24753d569565999d7c9991656d45dc&key=57c899811dab2406ba712584e9926450
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7538513db48bdad1b306805e03e6f066&key=edef8ba979d64acea3c827dcd51d21ed
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="Noticias", Test
 https://edge-live15-sl.cvattv.com.ar/live/c4eds/Manijomio/SA_Live_dash_enc_2A/Manijomio.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=57c899811dab2406ba712584e9926450&key=ec24753d569565999d7c9991656d45dc
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=edef8ba979d64acea3c827dcd51d21ed&key=7538513db48bdad1b306805e03e6f066
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="Noticias", Test
 https://edge-live15-sl.cvattv.com.ar/live/c4eds/Manijomio/SA_Live_dash_enc_2A/Manijomio.mpd
 
