@@ -11,8 +11,10 @@ https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
 https://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1 tvg-id="Canal26HD.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.Canal_26_2022.png.11d5cfd9d38c0df6b51a7e8d53c85eed.png" tvg-group="Noticias", Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -41,6 +43,10 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_6423_7_7023.png" group-title="Mundo", CNN En Español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe49940345dd5e40be8f6c163a088aff&key=464172bbc422938df76633bf3a8a2b54
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/DNews_2022.png/revision/latest?cb=20220705230826&path-prefix=es" group-title="Mundo", D • News
+https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9666b195171442afd4551a8de01291a6&key=1c0061df9b4b098e40355167e97cfbf0
@@ -403,8 +409,10 @@ https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
 #EXTINF:-1 tvg-logo="https://git.io/JZrwT" tvg-group="Variedades", Mirador TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1589570551.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b
 #EXTINF:-1 tvg-logo="https://git.io/JOTOr" group-title="Variedades", Argentinísima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.degradado_terminado.png.676dcd81730d71f0644af02a471994fd.png" group-title="Variedades", Telemax
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
@@ -554,7 +562,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 https://1plus1-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+https:////livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -709,6 +717,30 @@ https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 https://channel-tlnovelas-cdn.blim.com/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/logo-horizontal-white-1.png.7332c57f7683275b79e213789ef9da8b.png" group-title="Estilos de Vida", UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png" group-title="Religión", EWTN
+https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=29ccae9b98d74e76b35ac4e9a7fd1af1&key=cd6f0d4dca0fc30533e845fc8ea6a945
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/12/Canal-Orbe-21-en-vivo-Online.png" group-title="Religión", Orbe 21
+https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=97dc659c89a74d3b840a3f2f56efb6a6&key=e7f1f8891c9ca8a03c68b5c6ab2fd151
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEihHnMBcxT3UgkJ0i8U3VFn9OYHboNbdmZRg1IpuUBnICuHaOtR1gN4xXlJcN70ULjcamqBclcn76aPPZjxa8bhrwC0oHwjb4buHXSNxTMKtOsvQJv72TULGbgUw1DLaPjaUB087vE2NWubg2BK0nlD8i3TCYszxyRXOM3iKV7XtSqC0n5wsSnnxEQr" group-title="Religión", Nueva Imagen
+https://cdn.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_Live_dash_enc_2A/Nueva_Imagen.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d456fba3fccb4c06a0f4776fe412400b&key=ca5530ffe42a38759d3887c82d6a909a
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.58016b8b361ee_2381(1).png.089699e54d45b663e93dd0242a3b098a.png" group-title="Religión", Santa María
+https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Senal_Maria.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
@@ -764,7 +796,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_2A/Nickmusic.mpd
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/HTV_2009.png/revision/latest/scale-to-width-down/340?cb=20190125010658&path-prefix=es" group-title="Radios y Música", HTV
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eabe2c22350c26c7f0ad84b34932f08d&key=39fa06836ec0f81d8dd9b6e01a3070e3
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/89851195074330.png" group-title="Radios y Música", Vorterix
@@ -772,68 +803,132 @@ https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.1670355347_FlowMusic(1).png.0619aa37d19b82bf46d5dfa9ab325e50.png" group-title="Radios y Música", Flow Music (Eventos)
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.1670355347_FlowMusic(1).png.0619aa37d19b82bf46d5dfa9ab325e50.png" group-title="Radios y Música", Flow Music XP (Eventos)
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
 #EXTINF:-1 tvg-id="MusicTOPHD.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" group-title="Radios y Música", Music TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png" group-title="Radios y Música", Radio Disney
-https://musicsrc.cvattv.com.ar/RDIS
+#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Radios y Música", Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Radios y Música", Mitre
-https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/212-2128483_amazon-fire-stick-logo-png-stingray-qello.png" group-title="Radios y Música", Stingray Qello
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Radios y Música", POP 101.5
-https://ny2.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Radios y Música", Stingray Djazz
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Radios y Música", MEGA 98.3
-https://mega.stweb.tv/mega983/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Radios y Música", Stingray Naturescape
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
 
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Radios y Música", La 100
-https://dcp.cienradios.com.ar/fm999/fm999,56,32,.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Radios y Música", Stingray Classica
+https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Radios y Música", Stingray Classica 2
+https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.apollo.tv/img/channel-logo/icon-on-dark/logo-2x1-bgdark_Stingray_C_Music_TV.png" group-title="Radios y Música", Stingray Cmusic
+https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.apollo.tv/img/channel-logo/icon-on-dark/logo-2x1-bgdark_Stingray_C_Music_TV.png" group-title="Radios y Música", Stingray Cmusic 2
+https://watchtv-raw.ott-channels.stingray.com/cmusic01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Éxitos
+https://ott-linear-channels.stingray.com/155/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Éxitos 2
+https://ott-linear-channels.stingray.com/107/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Éxitos del Momento
+https://ott-linear-channels.stingray.com/190/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Rock Clásico
+https://ott-linear-channels.stingray.com/101/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Rock Alternativo
+https://ott-linear-channels.stingray.com/102/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Pop Adulto
+https://ott-linear-channels.stingray.com/104/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Urbana
+https://ott-linear-channels.stingray.com/133/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Country
+https://ott-linear-channels.stingray.com/108/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Flashback 70's
+https://ott-linear-channels.stingray.com/115/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música", Stingray Remember The 80's
+https://ott-linear-channels.stingray.com/128/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.continental.com.ar/img/logo-night.png" group-title="Radios y Música", Continental
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 
-#EXTINF:-1 tvg-logo="https://git.io/JOTLY" group-title="Radios y Música", Nacional
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
-
-#EXTINF:-1 tvg-logo="https://git.io/JOTtt" group-title="Radios y Música", Nacional Rock
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
-
-#EXTINF:-1 tvg-logo="https://git.io/JOTtG" group-title="Radios y Música", Nacional Folklórica
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
-
-#EXTINF:-1 tvg-logo="https://git.io/JOTtR" group-title="Radios y Música", Nacional Clásica
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
-
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s101605/images/logoq.png" group-title="Radios y Música", Radio 10
-https://s6.stweb.tv/radio10/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://rivadavia.com.ar/images/Rivadavia/logo-Rivadavia_new.png" group-title="Radios y Música", Radio Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
-
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135092/images/logog.png" group-title="Radios y Música", Vale 97.5
-https://s6.stweb.tv/vale/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Radio_La_Red_AM_910.png/200px-Radio_La_Red_AM_910.png" group-title="Radios y Música", Radio La Red
-https://latamstreaming-live-os.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://amdelplata.com/wp-content/uploads/2021/02/Radio-del-plata-logo-wp.png" group-title="Radios y Música", Del Plata
-https://musicsrc.cvattv.com.ar/RDPL
-
-#EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Radios y Música", Aspen
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 
 #EXTINF:-1 tvg-logo="https://comercial.cadena3.com/img/logo-cadena-3.png" group-title="Radios y Música", Cadena 3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENA3.mp3
 
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R710.png?raw=true" group-title="Radios y Música", Radio 10
+https://s6.stweb.tv/radio10/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R750.png?raw=true" group-title="Radios y Música", AM 750
+https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Radios y Música", Mitre
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTLY" group-title="Radios y Música", Nacional
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Radio_La_Red_AM_910.png/200px-Radio_La_Red_AM_910.png" group-title="Radios y Música", Radio La Red
+https://latamstreaming-live-os.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_7e50cdaa82264652a6c2a33108316689~mv2.png" group-title="Radios y Música", CNN Radio
 https://musicsrc.cvattv.com.ar/RCNN
 
+#EXTINF:-1 tvg-logo="http://amdelplata.com/wp-content/uploads/2021/02/Radio-del-plata-logo-wp.png" group-title="Radios y Música", Del Plata
+https://musicsrc.cvattv.com.ar/RDPL
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTtt" group-title="Radios y Música", Nacional Rock
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png" group-title="Radios y Música", Radio Disney
+https://musicsrc.cvattv.com.ar/RDIS
+
+#EXTINF:-1 tvg-logo="https://www.metro951.com/vivo/img/player.png" group-title="Radios y Música", Metro 95.1
+http://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC_SC
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTtR" group-title="Radios y Música", Nacional Clásica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
+
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135092/images/logog.png" group-title="Radios y Música", Vale 97.5
+https://s6.stweb.tv/vale/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Radios y Música", MEGA 98.3
+https://mega.stweb.tv/mega983/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://git.io/JOTtG" group-title="Radios y Música", Nacional Folklórica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
+
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Radios y Música", La 100
+https://dcp.cienradios.com.ar/fm999/fm999,56,32,.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Radios y Música", Los 40
 https://23033.live.streamtheworld.com/LOS40_ARGENTINAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Radios y Música", POP 101.5
+https://ny2.stweb.tv/popradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Radios y Música", Aspen
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
+
+#EXTINF:-1 tvg-logo="https://www.dsportsradio.com/img/logo.svg" group-title="Radios y Música", DSports Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 
 #EXTINF:-1 tvg-logo="https://berlin1079.com/wp-content/uploads/2021/02/logo-para-web-e1612544621347.png" group-title="Radios y Música", Radio Berlin
 https://s8.stweb.tv/berlin/live/playlist.m3u8
@@ -844,47 +939,6 @@ https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/small.REEbug2016.png.af15dd7d3c326be48cbe49274274708b.png" group-title="Radios y Música", RNE Exterior
 https://rtvelivestream.akamaized.net/segments/rne/rne_re_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://git.io/JYT1b" group-title="Radios y Música", Nuevos Clásicos
-https://musicsrc.cvattv.com.ar/RM03
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT16" group-title="Radios y Música", Música Electrónica
-https://musicsrc.cvattv.com.ar/RM41
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT11" group-title="Radios y Música", Grandes del Rock
-https://musicsrc.cvattv.com.ar/RM18
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT1h" group-title="Radios y Música", Reggaeton Romántico
-https://musicsrc.cvattv.com.ar/RM30
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT1Q" group-title="Radios y Música", Música Latina
-https://musicsrc.cvattv.com.ar/RM31
-
-#EXTINF:-1 tvg-logo="https://git.io/JYTMv" group-title="Radios y Música", Reggaeton
-https://musicsrc.cvattv.com.ar/RM29
-
-#EXTINF:-1 tvg-logo="https://git.io/JYTMT" group-title="Radios y Música", Rock Nacional
-https://musicsrc.cvattv.com.ar/RM17
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT12" group-title="Radios y Música", 90's Internacional
-https://musicsrc.cvattv.com.ar/RM04
-
-#EXTINF:-1 tvg-logo="https://git.io/JYTMt" group-title="Radios y Música", Tango
-https://musicsrc.cvattv.com.ar/RM46
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT1V" group-title="Radios y Música", Música Disco
-https://musicsrc.cvattv.com.ar/RM14
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT19" group-title="Radios y Música", Jazz
-https://musicsrc.cvattv.com.ar/RM37
-
-#EXTINF:-1 tvg-logo="https://git.io/JYT1p" group-title="Radios y Música", Reggae
-https://musicsrc.cvattv.com.ar/RM23
-
-#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Radios y Música", Stingray Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/212-2128483_amazon-fire-stick-logo-png-stingray-qello.png" group-title="Radios y Música", Stingray Qello
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 _________________________________________________________________________________________________________________________________________________________________
 
 
@@ -950,7 +1004,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#EXTINF:-1 tvg-logo="https://git.io/JzFRu" tvg-group="Locales", Canal 9 Comodoro
+#EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png" tvg-group="Locales", Canal 9 Comodoro
 http://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
