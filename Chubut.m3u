@@ -93,8 +93,8 @@ https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec7ac96ab5f8a5d244e213614cbb4438&key=54420ff71bb5805931ac6eef7d9816c9
-#EXTINF:-1 tvg-id="TyCSportsHD.ar" tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="Deportes", TyC Sports
-https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
+#EXTINF:-1 tvg-id="TyCSportsHD.ar" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="Deportes", TyC Sports
+https://cdn.cvattv.com.ar/live/c6eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
