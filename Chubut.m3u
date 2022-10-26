@@ -987,10 +987,8 @@ https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/small.REEbug2016.png.af15dd7d3c326be48cbe49274274708b.png" group-title="Radios y Música", RNE Exterior
 https://rtvelivestream.akamaized.net/segments/rne/rne_re_main.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d21352dadf68a650e6e237585c3a1b89&key=13c163a1e07ebdd0b75b079bd56b84eb
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO
-https://cdn.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
