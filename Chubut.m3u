@@ -934,7 +934,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Radio_La_Red_AM_910.png/200px-Radio_La_Red_AM_910.png" group-title="Radios y Música", Radio La Red
-https://latamstreaming-live-os.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
+https://20843.live.streamtheworld.com/LA_RED_AM910AAC.aac
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_7e50cdaa82264652a6c2a33108316689~mv2.png" group-title="Radios y Música", CNN Radio
 https://musicsrc.cvattv.com.ar/RCNN
@@ -975,7 +975,7 @@ https://ny2.stweb.tv/popradio/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Radios y Música", Aspen
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 
-#EXTINF:-1 tvg-logo="https://www.dsportsradio.com/img/logo.svg" group-title="Radios y Música", DSports Radio
+#EXTINF:-1 tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Radios y Música", DSports Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 
 #EXTINF:-1 tvg-logo="https://berlin1079.com/wp-content/uploads/2021/02/logo-para-web-e1612544621347.png" group-title="Radios y Música", Radio Berlin
