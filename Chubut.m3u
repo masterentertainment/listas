@@ -46,7 +46,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/C
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:464172bbc422938df76633bf3a8a2b54
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.746729f5bca6e79471ca42a3d4c7f484.png" group-title="Mundo", D News
+#EXTINF:-1 tvg-id="DNewsHDSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.746729f5bca6e79471ca42a3d4c7f484.png" group-title="Mundo", D News
 https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -145,23 +145,23 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mp
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports
+#EXTINF:-1 tvg-id="DirecTVSportsHDArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports 2
+#EXTINF:-1 tvg-id="DirecTVSports2HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports 2
 https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports +
+#EXTINF:-1 tvg-id="DirecTVSportsPlusHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports +
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=36b2c6b7736a5901bf408916a454abf9:f0d2254f85b73717f4c2cd81bda71889
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", D Sports Fight
+#EXTINF:-1 tvg-id="DirecTVSportsFightHD.us" tvg-logo="" group-title="Deportes", D Sports Fight
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLSP.png?raw=true" group-title="Deportes", Claro Sports Latam
@@ -171,7 +171,6 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
 https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
@@ -343,7 +342,7 @@ https://channel-goldenedge-cdn.blim.com/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPRM.png?raw=true" group-title="Variedades", Golden Premier
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPRM.png?raw=true" group-title="Variedades", Golden Premier
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 
 
@@ -357,7 +356,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=391c137034f053938edbf26799549ddc:19d643d8a50b2f829c96a897f7df255d
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" tvg-group="Variedades", Sony Movies
+#EXTINF:-1 tvg-id="SonyMoviesPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" tvg-group="Variedades", Sony Movies
 https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -664,7 +663,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chil
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d156b089a39b5e81be1ea8a6d1c9fc4e:015d0fec74f71ff77114bb439ef07a8b
-#EXTINF:-1 tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24CL.png?raw=true" group-title="Mundo", 24 Horas (Chile)
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24CL.png?raw=true" group-title="Mundo", 24 Horas (Chile)
 https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
