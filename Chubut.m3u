@@ -2,8 +2,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:edef8ba979d64acea3c827dcd51d21ed
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Test", Sony Movies
-https://edge-live11-hr.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A/Sony_Movies.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" tvg-group="Test", Sony Movies
+https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A/Sony_Movies.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
