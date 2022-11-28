@@ -348,6 +348,10 @@ https://channel-goldenedge-cdn.blim.com/manifest.mpd
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPRM.png?raw=true" group-title="Variedades", Golden Premier
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14c6468aad565259a32023577ac79a39:f31842f9921a41263e5e66fd4e00cc71
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="Variedades", Cine Latino
+https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
@@ -373,11 +377,15 @@ https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.e1fcedca94856a575c7c02b8c87f9d32.png" group-title="Variedades", Paramount Network
 https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c7e54f0f3c46e1854f36c3f9f21493:369e2f84e6def45d673eca72f7e18236
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/clover.png" group-title="Variedades", Clover Channel
 https://b42429.cdn.telefonica.com/live/disk1/Clover/DASH/Clover.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c31b0347138f5fa49a2886c34b7a9325:a28265bfc14a10d6dbd6a85516cbde18
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/TV_Azteca_Cinema_2021.webp/revision/latest/scale-to-width-down/278?cb=20220327225834" group-title="Variedades", Azteca Cinema
+https://dtvott-cbc.akamaized.net/dash_live_1020/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -694,6 +702,15 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Mundo", Las Estrellas
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ddddf63ba18501b9525fda9a763f39a:996861197325a30896e32dd280dd877e
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/TV_Azteca_Mundo_logo_2022.png/revision/latest/scale-to-width-down/300?cb=20220327230239" group-title="Mundo", Azteca Mundo
+https://dtvott-cbc.akamaized.net/dash_live_1023/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=055b94e759105e3fbf37088dd3ad0fcb:aaacd2cabd1d3df7152dcb2d97651181
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/TV_Azteca_Clic_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20220327225550" group-title="Mundo", Azteca Clic
+https://dtvott-cbc.akamaized.net/dash_live_1021/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
@@ -754,6 +771,10 @@ https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_2A/Lifetim
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Estilos de Vida", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcdc364c8b36596fbe9f8ffd3b409c39:99247f3621bd73ce89bc3d858830f7a6
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/TV_Azteca_Corazon_2021.png/revision/latest/scale-to-width-down/253?cb=20220316001914&path-prefix=es" group-title="Estilos de Vida", Azteca Corazón
+https://dtvott-cbc.akamaized.net/dash_live_1022/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1f01f55fed242659e6acdea2675af29:d1c53dd54ff6c3e74770513a41e6f0cc
