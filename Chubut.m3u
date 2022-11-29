@@ -1,22 +1,12 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14b1db2417fea3df0fb325c197e62209:21817d628b9f06385619700063856199
+#KODIPROP:inputstream.adaptive.license_key=897da563e94a4bc503dd77bbec976513:b74f65b5a245750427fb3a952ddd20ae
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/RpJ1Wjv/2.png" tvg-group="Test", Eventos 2
 https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14b1db2417fea3df0fb325c197e62209:21813a178bd300000000638561935795
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/RpJ1Wjv/2.png" tvg-group="Test", Eventos 2
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21813a178bd300000000638561935795:21817d628b9f06385619700063856199
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/RpJ1Wjv/2.png" tvg-group="Test", Eventos 2
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21817d628b9f06385619700063856199:21813a178bd300000000638561935795
+#KODIPROP:inputstream.adaptive.license_key=b74f65b5a245750427fb3a952ddd20ae:897da563e94a4bc503dd77bbec976513
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/RpJ1Wjv/2.png" tvg-group="Test", Eventos 2
 https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
 
