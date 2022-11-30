@@ -97,7 +97,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ac96ab5f8a5d244e213614cbb4438:54420ff71bb5805931ac6eef7d9816c9
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 #EXTINF:-1 tvg-id="TyCSportsHD.ar" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="Deportes", TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
