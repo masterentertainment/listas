@@ -6,9 +6,9 @@
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26e8eb677f908b11b6dd40598a292540:1e65e03ee20731dc99b57a1db9c699dd
+#KODIPROP:inputstream.adaptive.license_key=b363e35a5075589983fec4e2f74f90b9:8f7c53bfe02df34d253eb61e7d01ae79
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
+https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
@@ -44,8 +44,6 @@ https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/Cronic
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Mundo", CNN En Español
 https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:464172bbc422938df76633bf3a8a2b54
 #EXTINF:-1 tvg-id="DNewsSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.746729f5bca6e79471ca42a3d4c7f484.png" group-title="Mundo", D News
@@ -70,9 +68,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/Americ
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a32c08209d448cffcf2f3c3216d12953:c00894cd264fab3c605c646d61c9fb80
+#KODIPROP:inputstream.adaptive.license_key=3c064bba1e374e5a381dd0a344f11cec:a9d19bca012ae84a6cd0395a7a4809f2
 #EXTINF:-1 tvg-id="TelefeHD.ar" tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe
-https://chromecast.cvattv.com.ar////live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
@@ -83,7 +81,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 #EXTINF:-1 tvg-id="ElTreceHD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Nacionales", Eltrece
-https://chromecast.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -100,7 +98,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-#EXTINF:-1 tvg-id="TyCSportsHD.ar" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="Deportes", TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 
@@ -349,6 +347,18 @@ https://channel-goldenedge-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPRM.png?raw=true" group-title="Variedades", Golden Premier
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
+#KODIPROP:inputstream.adaptive.stream_headers=name=authorization&value=https://api.blim.com/license/widevine
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPRM.png?raw=true" group-title="Variedades", De Película Plus
+https://channel-depeliculaplus-cdn.blim.com/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
+#KODIPROP:inputstream.adaptive.stream_headers=name:"authorization"&value:"https://api.blim.com/license/widevine"
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPRM.png?raw=true" group-title="Variedades", De Película Plus
+https://channel-depeliculaplus-cdn.blim.com/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14c6468aad565259a32023577ac79a39:f31842f9921a41263e5e66fd4e00cc71
