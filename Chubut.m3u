@@ -1120,7 +1120,7 @@ https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png" tvg-group="Locales", Canal 9 Comodoro
-http://live.canalnueve.tv/canal.m3u8
+https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
