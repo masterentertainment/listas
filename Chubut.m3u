@@ -6,12 +6,12 @@
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=897da563e94a4bc503dd77bbec976513:b74f65b5a245750427fb3a952ddd20ae
+#KODIPROP:inputstream.adaptive.license_key=1bd3e4eFb1nvovppvb3rqy7fzccsdidw:bd4c268fa77c281e85ea08af32667097
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74f65b5a245750427fb3a952ddd20ae:897da563e94a4bc503dd77bbec976513
+#KODIPROP:inputstream.adaptive.license_key=bd4c268fa77c281e85ea08af32667097:1bd3e4eFb1nvovppvb3rqy7fzccsdidw
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
 
@@ -109,19 +109,19 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ad99f6512d50476639052a8fe8a4676:5ff3bee4cff05d3400d7ea60fcc93235
-#EXTINF:-1 tvg-id="FoxSportsHDArgentina.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_08/large.698440458_FoxSportsNuevologoBlanco.png.af653e65c891f312cd397b17acba8567.png" group-title="Deportes", FOX Sports
+#EXTINF:-1 tvg-id="FoxSportsHDArgentina.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="Deportes", FOX Sports
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-#EXTINF:-1 tvg-id="FoxSports2HDSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_08/large.27852867_FoxSports2NuevologoBlanco.png.bf394b34828a1c9bae135869544440ae.png" group-title="Deportes", FOX Sports 2
+#EXTINF:-1 tvg-id="FoxSports2HDSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="Deportes", FOX Sports 2
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_08/large.729287083_FoxSports3Blanco.png.79616d8dc01a60aeb5e70185a8b62471.png" group-title="Deportes", FOX Sports 3
+#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Deportes", FOX Sports 3
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 
