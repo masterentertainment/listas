@@ -985,7 +985,7 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 https://20843.live.streamtheworld.com/LA_RED_AM910AAC.aac
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_7e50cdaa82264652a6c2a33108316689~mv2.png" group-title="Radios y Música", CNN Radio
-http://stm1.xcast.com.br:8188/stream
+https://musicsrc.cvattv.com.ar/RCNN
 
 #EXTINF:-1 tvg-logo="http://amdelplata.com/wp-content/uploads/2021/02/Radio-del-plata-logo-wp.png" group-title="Radios y Música", Del Plata
 https://musicsrc.cvattv.com.ar/RDPL
