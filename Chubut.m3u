@@ -1,9 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar.xml"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9bc6a1c64e05c35aa72e12b16d35247:07c1735adac15de877df3f81b4fc4731
-#EXTINF:-1 tvg-group="Noticias", TEST 1
-https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/mi.tv.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -976,7 +971,7 @@ https://s6.stweb.tv/radio10/live/playlist.m3u8
 https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Radios y Música", Mitre
-https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
+https://musicsrc.cvattv.com.ar/RMIT
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTLY" group-title="Radios y Música", Nacional
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
