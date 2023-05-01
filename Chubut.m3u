@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/argentina.xml"
+#EXTM3U tvg-url="https://www.bevy.be/bevyfiles/argentina.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -573,7 +573,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
-https://cnn-cnninternational-1-gb.samsung.wurl.com/playlist.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -761,7 +761,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb0558f9ddd4820bc9982ce483e5888:c2845f4c554fcaf96a13da4a373868c4
-#EXTINF:-1 tvg-logo="https://muchla.com/images/logo.png" group-title="Radios y Música", Much Music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" group-title="Radios y Música", Much Music
 https://chromecast.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd
 
 
@@ -788,7 +788,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Radios y Música", Vorterix
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
-#EXTINF:-1 tvg-id="MusicTOPHD.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png.89d25e14cb6955263ac79d3c3469774d.png" group-title="Radios y Música", Music TOP
+#EXTINF:-1 tvg-id="MusicTOPHD.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png.89d25e14cb6955263ac79d3c3469774d.png" group-title="Radios y Música", Tierramía TV
 https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" group-title="Radios y Música", Music TOP
@@ -850,7 +850,7 @@ https://ott-linear-channels.stingray.com/128/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.1670355347_FlowMusic(1).png.0619aa37d19b82bf46d5dfa9ab325e50.png" group-title="Radios y Música", Flow Music Eventos
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Eventos
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Clásicos
