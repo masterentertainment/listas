@@ -187,7 +187,7 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f48f9e79f54b38d619fd25565c4d14b:02828e6346a46e61e965202cd8787e3a
 #EXTINF:-1 tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
-https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -910,7 +910,7 @@ https://musicsrc.cvattv.com.ar/RM25
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Lentos
 https://musicsrc.cvattv.com.ar/RM27
 
-#EXTINF:-1 tvg-logo="https://www.continental.com.ar/img/logo-night.png" group-title="Radios y Música", Continental
+#EXTINF:-1 tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/fondos/RLS4.png?raw=true" group-title="Radios y Música", Continental
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Radios y Música", Radio Rivadavia
