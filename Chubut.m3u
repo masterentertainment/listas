@@ -910,7 +910,7 @@ https://musicsrc.cvattv.com.ar/RM25
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Lentos
 https://musicsrc.cvattv.com.ar/RM27
 
-#EXTINF:-1 tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental
+#EXTINF:-1 tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Radios y Música", Radio Rivadavia
