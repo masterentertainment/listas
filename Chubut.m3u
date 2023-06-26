@@ -431,12 +431,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
-#EXTINF:-1 tvg-id="TBSSouth.us" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/tbs_bw_rev.png" group-title="Variedades", TBS
-https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 #EXTINF:-1 tvg-id="CiudadMagazineHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Variedades", Ciudad Magazine
 https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
@@ -663,6 +657,12 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f812ef81d6ce425a8db4012a1ef8b0c1:5c2b9791b1074727eb349588e32bdc0a
 #EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Estilos de Vida", Glitz*
 https://chromecast.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc_2A/Glitz.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+#EXTINF:-1 tvg-id="TBSSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png" group-title="Variedades", TNT Novelas
+https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
