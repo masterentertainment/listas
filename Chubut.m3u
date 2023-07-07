@@ -198,36 +198,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.license_key=cfc6585bd311dc5f8815db12270122b6:7fdb253bf4a74a3187d85f6f293f5e1a
 #EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports
 https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-
 _________________________________________________________________________________________________________________________________________________________________
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="PACK DSPORTS", D Sports
-https://1059-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="PACK DSPORTS", D Sports 2
-https://1063-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="PACK DSPORTS", D Sports +
-https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36b2c6b7736a5901bf408916a454abf9:f0d2254f85b73717f4c2cd81bda71889
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="PACK DSPORTS", D Sports Fight
-https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eac224ad0e2493703f491c1a38214c1b:86531a9305d65cb78b18b2c14024320e
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="PACK DSPORTS", D Sports Motor
-https://dtvott-abc.akamaized.net/dash_live_1279/manifest.mpd
-
-_________________________________________________________________________________________________________________________________________________________________
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
@@ -270,11 +241,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png/revision/latest?cb=20191111001338" group-title="Infantiles y Familiares", Cartoon Network
 https://chromecast.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.267729500_bitMe-LOGO-MAINfondooscuro2019.png.f2b1a7285e1266e822005b7498bc423e.png" group-title="Infantiles y Familiares", BitMe
-https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
@@ -332,16 +298,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 #EXTINF:-1 tvg-id="SpaceSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SPAC.png?raw=true" group-title="Variedades", Space
 https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPRM.png?raw=true" group-title="Variedades", Golden Premier
-https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DPHD.png?raw=true" group-title="Variedades", De Película Plus
-https:////live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
@@ -435,8 +391,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 #EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy
 https://chromecast.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s210/aunar-2022.png" tvg-group="Variedades", Aunar
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1589570551.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
@@ -621,7 +575,7 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:369e2f84e6def45d673eca72f7e18236
+#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
 #EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
 https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
