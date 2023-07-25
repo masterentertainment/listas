@@ -967,7 +967,7 @@ https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Radios y Música", El Observador 107.9
-https://server3.stweb.tv/observador/live/playlist.m3u8
+https://s8.stweb.tv/observador/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="Radios y Música", RFI
 https://musicsrc.cvattv.com.ar/RRFI
