@@ -154,7 +154,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/A
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
-#EXTINF:-1 tvg-id="GarageTV.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.358531084_GarageTV-Mayo2021.png.ac355318c521ffca615720e276206ebf.png" group-title="Deportes", El Garage TV
+#EXTINF:-1 tvg-id="GarageTV.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.358531084_GarageTV-Mayo2021.png.ac355318c521ffca615720e276206ebf.png" group-title="Deportes", GarageTV
 https://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd
 
 
@@ -226,7 +226,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/D
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
-#EXTINF:-1 tvg-id="NickelodeonHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles y Familiares", Nickelodeon
+#EXTINF:-1 tvg-id="NickelodeonHDSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_08/large.Nickelodeon_(2023).png.abace913cadbb791076611292585c284.png" group-title="Infantiles y Familiares", Nickelodeon
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
 
@@ -352,7 +352,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
-#EXTINF:-1 tvg-id="SonyChannelSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Variedades", Sony Channel
+#EXTINF:-1 tvg-id="SonyChannelSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_08/large.SonyChannel-2023.png.0c9f1b7143d4044b898503f5a0a973ee.png" group-title="Variedades", Sony Channel
 https://chromecast.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
 
