@@ -1,0 +1,15 @@
+on:
+  schedule:
+    - cron: '0 9 1 10 sat'
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Edit file
+        run: |
+          sed -i '/<#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy>/s/<#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy>/<#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Variedades", USA>/' listas/Chubut.m3u
+          git add listas/Chubut.m3u
+          git commit -m "SyFy >> USA"
+          git push
