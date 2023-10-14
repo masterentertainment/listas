@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental
+#EXTINF:-1 tvg-chno="3000" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 #EXT-X-IMAGE:URL="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_continental.jpg"
 
