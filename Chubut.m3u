@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-
-#EXTINF:-1 tvg-chno="3000" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental
-https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
-#EXT-X-IMAGE:URL="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_continental.jpg"
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
@@ -890,7 +885,6 @@ https://musicsrc.cvattv.com.ar/RM25
 #EXTINF:-1 tvg-chno="1169" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Lentos
 https://musicsrc.cvattv.com.ar/RM27
 
-#EXT-X-IMAGE:URL="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_continental.jpg"
 #EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 
@@ -924,7 +918,7 @@ https://musicsrc.cvattv.com.ar/RDPL
 #EXTINF:-1 tvg-chno="1220" tvg-logo="https://git.io/JOTtt" group-title="Radios y Música", Nacional Rock
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 
-#EXTINF:-1 tvg-chno="1221" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png" group-title="Radios y Música", Radio Disney 94.3
+#EXTINF:-1 tvg-chno="1221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_Radio_Disney_%282023%29.png" group-title="Radios y Música", Radio Disney 94.3
 https://musicsrc.cvattv.com.ar/RDIS
 
 #EXTINF:-1 tvg-chno="1222" tvg-logo="https://www.metro951.com/vivo/img/player.png" group-title="Radios y Música", Metro 95.1
