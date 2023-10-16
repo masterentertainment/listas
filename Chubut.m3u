@@ -386,12 +386,12 @@ https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:1077efecc0b24d02ace33c1e52e2fb4b
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:541539759bbe4346c68a51f1cf684a3e
 #EXTINF:-1 tvg-chno="3000" tvg-id="SyfyPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Variedades", TEST
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1077efecc0b24d02ace33c1e52e2fb4b:c754b522b3b87dc2ba2da3e35154ec14
+#KODIPROP:inputstream.adaptive.license_key=541539759bbe4346c68a51f1cf684a3e:edef8ba979d64acea3c827dcd51d21ed
 #EXTINF:-1 tvg-chno="3001" tvg-id="SyfyPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Variedades", TEST 2
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd
 
