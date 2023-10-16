@@ -382,7 +382,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1 tvg-chno="511" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/image.png.b2fa732a633ebc2ba5297e4bb56ea1d5.png" group-title="Variedades", Argentinísima Satelital
+#EXTINF:-1 tvg-chno="515" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/image.png.b2fa732a633ebc2ba5297e4bb56ea1d5.png" group-title="Variedades", Argentinísima Satelital
 https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd
 
 #EXTINF:-1 tvg-chno="514" tvg-id="Telemax.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.blanco_terminado.png.c77668d498c72e8bf660858341b2eb23.png" group-title="Variedades", Telemax
