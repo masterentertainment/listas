@@ -953,8 +953,8 @@ https://musicsrc.cvattv.com.ar/RRFI
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
-#EXTINF:-1 tvg-chno="451" tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO
-https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+#EXTINF:-1 tvg-chno="3508" tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO (TEST)
+https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
@@ -1071,3 +1071,14 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="3504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" tvg-group="TEST", Star TVE (TEST)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f7f2148d85b7e8866c2d6eab3423ead:26acdad69ede55914b93c1d825a5ae6b
+#EXTINF:-1 tvg-chno="3505" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png" group-title="TEST", Cinema Plus (TEST)
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINEMAPLUS)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="3506" tvg-logo="https://www.atriummusic.com/wp-content/uploads/2017/04/USA-reverse-white2.png" tvg-group="TEST", USA (TEST)
+https://router.cdn.rcs.net.ar/mnp/syfy/output.mpd
+
+#EXTINF:-1 tvg-chno="3507" tvg-logo="hhttps://adultswim.wbtvd.com/assets/40a4978a095ccdbf8dd2.png" tvg-group="TEST", [adult swim] (TEST)
+https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
