@@ -1055,3 +1055,19 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
 #EXTINF:-1  tvg-chno="1256" tvg-logo="https://git.io/JOTLg" group-title="Radios y Música", Radio Nacional Esquel
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad9
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+#EXTINF:-1 tvg-chno="3501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/547px-Canal_Siete_Rawson_%28Logo_2019%29.png" tvg-group="TEST", Canal 7 (TEST)
+https://vivo.solumedia.com:19360/puntoweb/puntoweb.m3u8
+
+
+#EXTINF:-1 tvg-chno="3502" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.RTPInternacional2017.png.a27451cd290449731b5bd0b66f1196f5.png" tvg-group="TEST", RTP Int. (TEST)
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
+
+
+#EXTINF:-1 tvg-chno="3503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" tvg-group="TEST", Clan (TEST)
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
+
+
+#EXTINF:-1 tvg-chno="3504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" tvg-group="TEST", Star TVE (TEST)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
