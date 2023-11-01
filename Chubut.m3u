@@ -12,12 +12,12 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNotici
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:-1 tvg-chno="4" tvg-id="Canal26.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.Canal_26_2022.png.11d5cfd9d38c0df6b51a7e8d53c85eed.png" tvg-group="Noticias", Canal 26
+#EXTINF:-1 tvg-chno="4" tvg-id="Canal26.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.Canal_26_2022.png.85eed6606fb961b046cdae79fe73ec8e.png" tvg-group="Noticias", Canal 26
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 tvg-chno="5" tvg-id="C5N.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large_C5N.png.321981d2e36830611d63a0277c7729a1.png" tvg-group="Noticias", C5N
+#EXTINF:-1 tvg-chno="5" tvg-id="C5N.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.150ffea72f12c551a8a5f54fa0e71d8e.png" tvg-group="Noticias", C5N
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -27,7 +27,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nac
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-#EXTINF:-1 tvg-chno="7" tvg-id="InformacionPeriodistica.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.imagen_2023-03-21_001530950-modified.png.114408377875a9a7e8aa5b67ba71ddeb.png" tvg-group="Noticias", IP Noticias
+#EXTINF:-1 tvg-chno="7" tvg-id="InformacionPeriodistica.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1200?cb=20230321001855&path-prefix=es" tvg-group="Noticias", IP Noticias
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -47,11 +47,6 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:464172bbc422938df76633bf3a8a2b54
-#EXTINF:-1 tvg-chno="12" tvg-id="DNewsSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.746729f5bca6e79471ca42a3d4c7f484.png" group-title="Mundo", D News
-https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
 #EXTINF:-1 tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/1200px-Logo_Diputados_TV.png" tvg-group="Nacionales", Diputados TV
 https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Diputados_TV.mpd
@@ -59,13 +54,13 @@ https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Dip
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-#EXTINF:-1 tvg-chno="109" tvg-id="ElNueve.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/small.elnueve.png.c2b3f1055a574f0d680fbbab0d05e917.png" tvg-group="Nacionales", Elnueve
+#EXTINF:-1 tvg-chno="109" tvg-id="ElNueve.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/small.elnueve.png.c2b3f1055a574f0d680fbbab0d05e917.png" tvg-group="Nacionales", Elnueve
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 tvg-chno="102" tvg-id="AmericaTV.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.2070876048_America202022.png.e786105deae623712c9153fc343038d9.png" tvg-group="Nacionales", America
+#EXTINF:-1 tvg-chno="102" tvg-id="AmericaTV.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.2070876048_America202022.png.a5b0848ddd39af1ba09871506ec9226a.png" tvg-group="Nacionales", America
 https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 
@@ -88,13 +83,13 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 tvg-chno="107" tvg-id="TVPublicaHD.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png" group-title="Nacionales", TV Pública
+#EXTINF:-1 tvg-chno="107" tvg-id="TVPublicaHD.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large_TVP.png.49b4fe76e7fd0ee86d24fcd511ea8de1.png" group-title="Nacionales", TV Pública
 https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1 tvg-chno="114" tvg-id="BravoTV.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_09/large.643551553_BravoTV.png.a515aacde57daa6e0110a35f854ccea9.png" group-title="Nacionales", Bravo TV
+#EXTINF:-1 tvg-chno="114" tvg-id="BravoTV.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_09/large.643551553_BravoTV.png.a515aacde57daa6e0110a35f854ccea9.png" group-title="Nacionales", Bravo TV
 https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd
 
 
@@ -106,19 +101,19 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="Deportes", FOX Sports
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="Deportes", FOX Sports
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="Deportes", FOX Sports 2
+#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="Deportes", FOX Sports 2
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Deportes", FOX Sports 3
+#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Deportes", FOX Sports 3
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 
@@ -142,12 +137,12 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="Deportes", ESPN Extra
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="Deportes", ESPN Extra
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
-#EXTINF:-1 tvg-chno="209" tvg-id="AmericaSports.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
+#EXTINF:-1 tvg-chno="209" tvg-id="AmericaSports.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/large.399477364_americasports2018.png.2b4134aa6811a27a2a66b47dbe6e433c.png" group-title="Deportes", America Sports
 https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -158,7 +153,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Gar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
-#EXTINF:-1 tvg-chno="211" tvg-id="DiscoveryTurboPanRegional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.Discovery_Turbo_2021.png.af37570bb4d51fd577ad49c3974711e5.png" group-title="Deportes", Discovery Turbo
+#EXTINF:-1 tvg-chno="211" tvg-id="DiscoveryTurboPanRegional.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.Discovery_Turbo_2021.png.af37570bb4d51fd577ad49c3974711e5.png" group-title="Deportes", Discovery Turbo
 https://chromecast.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
 
 
@@ -196,13 +191,13 @@ ________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
-#EXTINF:-1 tvg-chno="301" tvg-id="Pakapaka.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.Sketch-1590402131314.png.990487d207835f85164231fc5320671b.png" group-title="Infantiles y Familiares", Paka Paka
+#EXTINF:-1 tvg-chno="301" tvg-id="Pakapaka.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_05/large.Sketch-1590402131314.png.990487d207835f85164231fc5320671b.png" group-title="Infantiles y Familiares", Paka Paka
 https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
-#EXTINF:-1 tvg-chno="302" tvg-id="DisneyChannelSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.Disney_Channel_Logo_2019.png.906b4e4941001d36b389f72e4e84d3ec.png" group-title="Infantiles y Familiares", Disney Channel
+#EXTINF:-1 tvg-chno="302" tvg-id="DisneyChannelSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/large.Disney_Channel_Logo_2019.png.906b4e4941001d36b389f72e4e84d3ec.png" group-title="Infantiles y Familiares", Disney Channel
 https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 
 
@@ -220,7 +215,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/D
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
-#EXTINF:-1 tvg-chno="305" tvg-id="NickelodeonHDSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_08/large.Nickelodeon_(2023).png.abace913cadbb791076611292585c284.png" group-title="Infantiles y Familiares", Nickelodeon
+#EXTINF:-1 tvg-chno="305" tvg-id="NickelodeonHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.Nickelodeon_(2023).png.abace913cadbb791076611292585c284.png" group-title="Infantiles y Familiares", Nickelodeon
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
 
@@ -238,12 +233,12 @@ https://chromecast.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
-#EXTINF:-1 tvg-chno="308" tvg-id="CartoonitoArgentina" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.f8f609307e5f6cb659ffa40cfd2766c9.png" group-title="Infantiles y Familiares", Cartoonito
+#EXTINF:-1 tvg-chno="308" tvg-id="CartoonitoArgentina" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.f8f609307e5f6cb659ffa40cfd2766c9.png" group-title="Infantiles y Familiares", Cartoonito
 https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
-#EXTINF:-1 tvg-chno="309" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.2074799609_invert(66).png.ee01ab6dd93c2f4cb70d96e97ed4d723.png" group-title="Infantiles y Familiares", Dreamworks TV
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/large.2074799609_invert(66).png.ee01ab6dd93c2f4cb70d96e97ed4d723.png" group-title="Infantiles y Familiares", Dreamworks TV
 https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dreamworks.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -257,7 +252,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_2A/BabyTV.mp
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/45/Tooncast_Logo_2012.png/revision/latest?cb=20190914101433&path-prefix=es" group-title="Infantiles y Familiares", Tooncast
 https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
-#EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" tvg-group="TEST", Clan Internacional
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" tvg-group="Infantiles y Familiares", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -268,13 +263,13 @@ https://chromecast.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_T
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
-#EXTINF:-1 tvg-chno="501" tvg-id="StarChannelSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Variedades", Star Channel
+#EXTINF:-1 tvg-chno="501" tvg-id="StarChannelSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Variedades", Star Channel
 https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
-#EXTINF:-1 tvg-chno="402" tvg-id="CinecanalSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.734939200_Sinttulo-3-1.png.7c051f1a3314f56d7ff6e7a6e63ac3a7.png" group-title="Variedades", Cinecanal
+#EXTINF:-1 tvg-chno="402" tvg-id="CinecanalSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.734939200_Sinttulo-3-1.png.7c051f1a3314f56d7ff6e7a6e63ac3a7.png" group-title="Variedades", Cinecanal
 https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
 
 
@@ -286,7 +281,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
-#EXTINF:-1 tvg-chno="404" tvg-id="FXSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.1543352145820.png.bd474f871c396813570583c2980fdc5e.png" group-title="Variedades", FX
+#EXTINF:-1 tvg-chno="404" tvg-id="FXSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.1543352145820.png.bd474f871c396813570583c2980fdc5e.png" group-title="Variedades", FX
 https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
 
@@ -310,7 +305,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
-#EXTINF:-1 tvg-chno="408" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/large.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.e1fcedca94856a575c7c02b8c87f9d32.png" group-title="Variedades", Paramount Network
+#EXTINF:-1 tvg-chno="408" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_05/large.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.e1fcedca94856a575c7c02b8c87f9d32.png" group-title="Variedades", Paramount Network
 https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -348,7 +343,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
-#EXTINF:-1 tvg-chno="505" tvg-id="SonyChannelSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_08/large.SonyChannel-2023.png.0c9f1b7143d4044b898503f5a0a973ee.png" group-title="Variedades", Sony Channel
+#EXTINF:-1 tvg-chno="505" tvg-id="SonyChannelSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.SonyChannel-2023.png.0c9f1b7143d4044b898503f5a0a973ee.png" group-title="Variedades", Sony Channel
 https://chromecast.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
 
@@ -366,7 +361,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_en
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
-#EXTINF:-1 tvg-chno="508" tvg-id="AXNSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.853f2eb2570a78079b67faf4dab7886c.png" group-title="Variedades", AXN
+#EXTINF:-1 tvg-chno="508" tvg-id="AXNSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.853f2eb2570a78079b67faf4dab7886c.png" group-title="Variedades", AXN
 https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
@@ -388,10 +383,10 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1 tvg-chno="516" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/image.png.b2fa732a633ebc2ba5297e4bb56ea1d5.png" group-title="Variedades", Argentinísima Satelital
+#EXTINF:-1 tvg-chno="516" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/image.png.b2fa732a633ebc2ba5297e4bb56ea1d5.png" group-title="Variedades", Argentinísima Satelital
 https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd
 
-#EXTINF:-1 tvg-chno="515" tvg-id="Telemax.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.blanco_terminado.png.c77668d498c72e8bf660858341b2eb23.png" group-title="Variedades", Telemax
+#EXTINF:-1 tvg-chno="515" tvg-id="Telemax.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.blanco_terminado.png.c77668d498c72e8bf660858341b2eb23.png" group-title="Variedades", Telemax
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 
@@ -420,13 +415,13 @@ https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazin
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
-#EXTINF:-1 tvg-chno="513" tvg-id="ComedyCentralSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
+#EXTINF:-1 tvg-chno="513" tvg-id="ComedyCentralSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
 https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
-#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1960630694_InvestigationDiscovery.png.4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Variedades", ID
+#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_09/large.1960630694_InvestigationDiscovery.png.4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Variedades", ID
 https://chromecast.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -441,7 +436,7 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
-#EXTINF:-1 tvg-chno="704" tvg-id="HistorySouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png" group-title="Culturales", History
+#EXTINF:-1 tvg-chno="704" tvg-id="HistorySouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png" group-title="Culturales", History
 https://chromecast.cvattv.com.ar/live/c7eds//HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
 
@@ -452,7 +447,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/Histor
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
-#EXTINF:-1 tvg-chno="707" tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Culturales", Discovery
+#EXTINF:-1 tvg-chno="707" tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Culturales", Discovery
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
 
 
@@ -475,7 +470,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_2A/Canal_a.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
-#EXTINF:-1 tvg-chno="715" tvg-id="FilmArtsPanregional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/small.2560px-2015_Discovery_theater_HD_logo_svg.png.c7a4fc2576f203edf6fa5f7394cda73e.png" group-title="Culturales", Film & Arts
+#EXTINF:-1 tvg-chno="715" tvg-id="FilmArtsPanregional.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/small.2560px-2015_Discovery_theater_HD_logo_svg.png.c7a4fc2576f203edf6fa5f7394cda73e.png" group-title="Culturales", Film & Arts
 https://chromecast.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd
 
 
@@ -499,7 +494,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
-#EXTINF:-1 tvg-chno="713" tvg-id="SunChannel.ve" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_06/large.488933943_LogoSUNCHANNELTV2022.png.cf3972e17404916ebe68e2de1a9c6f0e.png" group-title="Culturales", Sun Channel
+#EXTINF:-1 tvg-chno="713" tvg-id="SunChannel.ve" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.488933943_LogoSUNCHANNELTV2022.png.cf3972e17404916ebe68e2de1a9c6f0e.png" group-title="Culturales", Sun Channel
 https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
 
 #EXTINF:-1 tvg-chno="714" tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="Culturales", INTI
@@ -552,7 +547,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-chno="822" tvg-id="BBCWorldNewsLatinAmerica.uk" tvg-logo="https://www.alicestapleton.com/uploads/press-logos/_width475/bbc-news-logo.png" group-title="Mundo", BBC World News
 https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
 
-#EXTINF:-1 tvg-chno="823" tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
+#EXTINF:-1 tvg-chno="823" tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
@@ -598,12 +593,12 @@ https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Para
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
-#EXTINF:-1 tvg-chno="815" tvg-id="VTV.uy" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/large.373_1.png.32d29f464225d82280da605b49a3c115.png" group-title="Deportes", VTV (Uruguay)
+#EXTINF:-1 tvg-chno="815" tvg-id="VTV.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/large.373_1.png.32d29f464225d82280da605b49a3c115.png" group-title="Deportes", VTV (Uruguay)
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-chno="816" tvg-id="TVCiudad.uy" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/large.sketch-1585655821672.png.c70000e9ebbe2e70a984a3325a35bf5a.png" group-title="Mundo", TV Ciudad (Uruguay)
+#EXTINF:-1 tvg-chno="816" tvg-id="TVCiudad.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_03/large.sketch-1585655821672.png.c70000e9ebbe2e70a984a3325a35bf5a.png" group-title="Mundo", TV Ciudad (Uruguay)
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
 #EXTINF:-1 tvg-chno="817" tvg-id="TVPeruInternacionalHD.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
@@ -615,7 +610,7 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
-#EXTINF:-1 tvg-chno="901" tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Mundo", Las Estrellas
+#EXTINF:-1 tvg-chno="901" tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Mundo", Las Estrellas
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -631,7 +626,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_e
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
-#EXTINF:-1 tvg-chno="904" tvg-id="TLCSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_07/large.TLC_logo_2021.png.4735c2557c81e3233cfb796daffe0b26.png" group-title="Estilos de Vida", TLC
+#EXTINF:-1 tvg-chno="904" tvg-id="TLCSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_07/large.TLC_logo_2021.png.4735c2557c81e3233cfb796daffe0b26.png" group-title="Estilos de Vida", TLC
 https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd
 
 #EXTINF:-1 tvg-chno="905" tvg-id="HolaTVLatinAmerica.es" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Estilos de Vida", Hola! TV
@@ -646,7 +641,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc_2A/Glitz.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
-#EXTINF:-1 tvg-chno="907" tvg-id="TBSSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png" group-title="Variedades", TNT Novelas
+#EXTINF:-1 tvg-chno="907" tvg-id="TBSSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png" group-title="Variedades", TNT Novelas
 https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
@@ -684,7 +679,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
-#EXTINF:-1 tvg-chno="1001" tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png" group-title="Religión", EWTN
+#EXTINF:-1 tvg-chno="1001" tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png" group-title="Religión", EWTN
 https://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -694,12 +689,12 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_2
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
-#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.58016b8b361ee_2381(1).png.089699e54d45b663e93dd0242a3b098a.png" group-title="Religión", Santa María
+#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.58016b8b361ee_2381(1).png.089699e54d45b663e93dd0242a3b098a.png" group-title="Religión", Santa María
 https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Senal_Maria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
-#EXTINF:-1 tvg-chno="1101" tvg-id="MTVSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
+#EXTINF:-1 tvg-chno="1101" tvg-id="MTVSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Radios y Música", MTV
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
 #EXTINF:-1 tvg-chno="1102" tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Radios y Música", MTV Yo!
@@ -708,23 +703,23 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b9bb0d2620243f1ae8351e49aec26a3:40cb9a29cee1fff4b1e6dbc96be0f9b1
-#EXTINF:-1 tvg-chno="1103" tvg-id="MTV80s.uk" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.858494140_MTV80s2020.png.63fb573ecfb43ae8cd68b887ba0c892e.png" group-title="Radios y Música", MTV 80s
+#EXTINF:-1 tvg-chno="1103" tvg-id="MTV80s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.858494140_MTV80s2020.png.63fb573ecfb43ae8cd68b887ba0c892e.png" group-title="Radios y Música", MTV 80s
 https://anedgesta.express.com.ar/live/c1eds/VH1_Classics/SA_DASH_cipix/VH1_Classics.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
-#EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/image.png.1802ef44a7a984cec0d426b4c370b5a9.png" group-title="Radios y Música", MTV 00s
+#EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/image.png.1802ef44a7a984cec0d426b4c370b5a9.png" group-title="Radios y Música", MTV 00s
 https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
-#EXTINF:-1 tvg-chno="1105" tvg-id="MTVHitsEurope.uk" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_09/small.705468994_MTVHITS.png.96a3f11860854bd70a1bbb0f28ef59de.png" group-title="Radios y Música", MTV Hits
+#EXTINF:-1 tvg-chno="1105" tvg-id="MTVHitsEurope.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/small.705468994_MTVHITS.png.96a3f11860854bd70a1bbb0f28ef59de.png" group-title="Radios y Música", MTV Hits
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=acc4581a25ef0cd76f8fd7d826bb2d06:bc006e72e9aab57aca8ae75a83e8f20e
-#EXTINF:-1 tvg-chno="1106" tvg-id="MTVLive.uk" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_09/large.1512458622_MTVLIVE.png.69cce0d3bd11f51239b21103a3c96a34.png" group-title="Radios y Música", MTV Live
+#EXTINF:-1 tvg-chno="1106" tvg-id="MTVLive.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/large.1512458622_MTVLIVE.png.69cce0d3bd11f51239b21103a3c96a34.png" group-title="Radios y Música", MTV Live
 https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 
 
@@ -749,7 +744,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 key:4a4fd86ea9db4417ec86c237d3111b18 kid:eae6c12ccab349e6ae675ab6ed8a476c
 #KODIPROP:inputstream.adaptive.license_key=eae6c12ccab349e6ae675ab6ed8a476c:4a4fd86ea9db4417ec86c237d3111b18
-#EXTINF:-1 tvg-chno="1110" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="Radios y Música", NickMusic
+#EXTINF:-1 tvg-chno="1110" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="Radios y Música", NickMusic
 https://chromecast.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_2A/Nickmusic.mpd
 
 
@@ -760,13 +755,13 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
-#EXTINF:-1 tvg-chno="1112" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Radios y Música", Vorterix
+#EXTINF:-1 tvg-chno="1112" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Radios y Música", Vorterix
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
-#EXTINF:-1 tvg-chno="1113" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png.89d25e14cb6955263ac79d3c3469774d.png" group-title="Radios y Música", Tierramía TV
+#EXTINF:-1 tvg-chno="1113" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png.89d25e14cb6955263ac79d3c3469774d.png" group-title="Radios y Música", Tierramía TV
 https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" group-title="Radios y Música", Music TOP
+#EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" group-title="Radios y Música", Music TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Radios y Música", Stingray Karaoke
@@ -825,64 +820,64 @@ https://ott-linear-channels.stingray.com/128/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-chno="1150" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Eventos
+#EXTINF:-1 tvg-chno="1150" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Eventos
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
-#EXTINF:-1 tvg-chno="1151" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Clásicos
+#EXTINF:-1 tvg-chno="1151" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Clásicos
 https://musicsrc.cvattv.com.ar/RM03
 
-#EXTINF:-1 tvg-chno="1152" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Electrónica
+#EXTINF:-1 tvg-chno="1152" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Electrónica
 https://musicsrc.cvattv.com.ar/RM41
 
-#EXTINF:-1 tvg-chno="1153" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Rock
+#EXTINF:-1 tvg-chno="1153" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Rock
 https://musicsrc.cvattv.com.ar/RM18
 
-#EXTINF:-1 tvg-chno="1154" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggaeton
+#EXTINF:-1 tvg-chno="1154" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggaeton
 https://musicsrc.cvattv.com.ar/RM30
 
-#EXTINF:-1 tvg-chno="1155" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggaeton 2
+#EXTINF:-1 tvg-chno="1155" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggaeton 2
 https://musicsrc.cvattv.com.ar/RM29
 
-#EXTINF:-1 tvg-chno="1156" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Latinos
+#EXTINF:-1 tvg-chno="1156" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Latinos
 https://musicsrc.cvattv.com.ar/RM31
 
-#EXTINF:-1 tvg-chno="1157" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Rock Nacional
+#EXTINF:-1 tvg-chno="1157" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Rock Nacional
 https://musicsrc.cvattv.com.ar/RM17
 
-#EXTINF:-1 tvg-chno="1158" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 70's Hits
+#EXTINF:-1 tvg-chno="1158" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 70's Hits
 https://musicsrc.cvattv.com.ar/RM07
 
-#EXTINF:-1 tvg-chno="1159" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 80's Hits
+#EXTINF:-1 tvg-chno="1159" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 80's Hits
 https://musicsrc.cvattv.com.ar/RM05
 
-#EXTINF:-1 tvg-chno="1160" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 90's Hits
+#EXTINF:-1 tvg-chno="1160" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 90's Hits
 https://musicsrc.cvattv.com.ar/RM04
 
-#EXTINF:-1 tvg-chno="1161" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Hits
+#EXTINF:-1 tvg-chno="1161" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Hits
 https://musicsrc.cvattv.com.ar/RM06
 
-#EXTINF:-1 tvg-chno="1162" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Tango
+#EXTINF:-1 tvg-chno="1162" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Tango
 https://musicsrc.cvattv.com.ar/RM46
 
-#EXTINF:-1 tvg-chno="1163" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Disco
+#EXTINF:-1 tvg-chno="1163" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Disco
 https://musicsrc.cvattv.com.ar/RM14
 
-#EXTINF:-1 tvg-chno="1164" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Jazz
+#EXTINF:-1 tvg-chno="1164" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Jazz
 https://musicsrc.cvattv.com.ar/RM37
 
-#EXTINF:-1 tvg-chno="1165" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggae
+#EXTINF:-1 tvg-chno="1165" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggae
 https://musicsrc.cvattv.com.ar/RM23
 
-#EXTINF:-1 tvg-chno="1166" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Retro
+#EXTINF:-1 tvg-chno="1166" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Retro
 https://musicsrc.cvattv.com.ar/RM16
 
-#EXTINF:-1 tvg-chno="1167" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Cine
+#EXTINF:-1 tvg-chno="1167" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Cine
 https://musicsrc.cvattv.com.ar/RM24
 
-#EXTINF:-1 tvg-chno="1168" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Cine Clásico
+#EXTINF:-1 tvg-chno="1168" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Cine Clásico
 https://musicsrc.cvattv.com.ar/RM25
 
-#EXTINF:-1 tvg-chno="1169" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Lentos
+#EXTINF:-1 tvg-chno="1169" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Lentos
 https://musicsrc.cvattv.com.ar/RM27
 
 #EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental (AM 590)
@@ -959,7 +954,7 @@ https://musicsrc.cvattv.com.ar/RRFI
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
-#EXTINF:-1 tvg-chno="451" tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO (TEST)
+#EXTINF:-1 tvg-chno="451" tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO 
 https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -982,19 +977,19 @@ https://chromecast.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
-#EXTINF:-1 tvg-chno="455" tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.76e558cad5eb8e895d097ce84f416833.png" group-title="HBO Pack", HBO Mundi
+#EXTINF:-1 tvg-chno="455" tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.76e558cad5eb8e895d097ce84f416833.png" group-title="HBO Pack", HBO Mundi
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
-#EXTINF:-1 tvg-chno="456" tvg-id="HBOSignatureHDLatinAmerica.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1813311820_HBOSignature.png.b249d53ce9aea7ba6e6918e62263084f.png" group-title="HBO Pack", HBO Signature
+#EXTINF:-1 tvg-chno="456" tvg-id="HBOSignatureHDLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.1813311820_HBOSignature.png.b249d53ce9aea7ba6e6918e62263084f.png" group-title="HBO Pack", HBO Signature
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
-#EXTINF:-1 tvg-chno="457" tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.4b3f07d4fbded45afce0d3d94f0c3c0e.png" group-title="HBO Pack", HBO Pop
+#EXTINF:-1 tvg-chno="457" tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.4b3f07d4fbded45afce0d3d94f0c3c0e.png" group-title="HBO Pack", HBO Pop
 https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
 
 
@@ -1006,27 +1001,27 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d080be28a0fc5970bf1de897f80d40bd:ab8187d50d311d30bc0d7dc6eb5697d1
-#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.7d1fe868b7eac121274d6c416298680f.png" group-title="Pack Universal+", Universal Premieres
+#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.7d1fe868b7eac121274d6c416298680f.png" group-title="Pack Universal+", Universal Premieres
 https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce0a7c883e2a5430bba97a3d68e0daf8:e30dd4908e667637369dfb6582f54d64
-#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.3dd657ae175a7ab584ef40c1a517e63f.png" group-title="Pack Universal+", Universal Cinema
+#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.3dd657ae175a7ab584ef40c1a517e63f.png" group-title="Pack Universal+", Universal Cinema
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252ddb6e79dd5351bb95eac1115d4191:f2051f38612f0a71cde7174a3c6c4526
-#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.94d588e2c343e4a92a6cc6701d60811e.png" group-title="Pack Universal+", Universal Comedy
+#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.94d588e2c343e4a92a6cc6701d60811e.png" group-title="Pack Universal+", Universal Comedy
 https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2402ee3736c56b3bd5d50acf2300961:329937e5d236a35ffe91d6cd7125becc
-#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" group-title="Pack Universal+", Universal Crime
+#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" group-title="Pack Universal+", Universal Crime
 https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0402ba07dad5b0cb227af248ea2c5ee:ab463fb78e7e17b5e0ee4ea8bca35ec9
-#EXTINF:-1 tvg-chno="465" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" group-title="Pack Universal+", Universal Reality
+#EXTINF:-1 tvg-chno="465" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" group-title="Pack Universal+", Universal Reality
 https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -1034,10 +1029,10 @@ ________________________________________________________________________________
 #EXTINF:-1 tvg-chno="2004" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2007" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/547px-Canal_Siete_Rawson_%28Logo_2019%29.png" tvg-group="TEST", Canal 7 (TEST)
+#EXTINF:-1 tvg-chno="2007" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/547px-Canal_Siete_Rawson_%28Logo_2019%29.png" tvg-group="Locales", Canal 7 Rawson
 https://vivo.solumedia.com:19360/puntoweb/puntoweb.m3u8
 
-#EXTINF:-1 tvg-chno="2009" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/9AZM.png?raw=true" tvg-group="Locales", AZM TV
+#EXTINF:-1 tvg-chno="2009" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/9AZM.png?raw=true" tvg-group="Locales", AZM TV Comodoro
 https://live.canalnueve.tv/index.m3u8
 
 #EXTINF:-1 tvg-chno="2012" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/12PM.png?raw=true" tvg-group="Locales", Canal 12 Madryn
