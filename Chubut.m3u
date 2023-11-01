@@ -95,7 +95,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 
@@ -170,7 +170,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
-#EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://www.golfchannel.com//themes/custom/golfchannel/logo.svg" group-title="Deportes", Golf TV Latam
+#EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_06/large.large.gallery_5692_6_980.png.7c10493463f565e4ccc2108d7b2ada6b.png.42e9cb99f12289cbb200abda604b4fe0.png" group-title="Deportes", Golf TV Latam
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
 
@@ -191,7 +191,7 @@ ________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
-#EXTINF:-1 tvg-chno="301" tvg-id="Pakapaka.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_05/large.Sketch-1590402131314.png.990487d207835f85164231fc5320671b.png" group-title="Infantiles y Familiares", Paka Paka
+#EXTINF:-1 tvg-chno="301" tvg-id="Pakapaka.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png/revision/latest/scale-to-width-down/1200?cb=20210102155125&path-prefix=es" group-title="Infantiles y Familiares", Paka Paka
 https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
 
