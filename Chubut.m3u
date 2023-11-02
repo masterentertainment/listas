@@ -203,7 +203,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
-#EXTINF:-1 tvg-chno="303" tvg-id="DisneyJuniorSouth.us" tvg-logo="https://www.disneylapresspack.com/storage/posts/1556572921_image002.png" group-title="Infantiles y Familiares", Disney Junior
+#EXTINF:-1 tvg-chno="303" tvg-id="DisneyJuniorSouth.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es" group-title="Infantiles y Familiares", Disney Junior
 https://chromecast.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
 
@@ -263,7 +263,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_T
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
-#EXTINF:-1 tvg-chno="501" tvg-id="StarChannelSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Variedades", Star Channel
+#EXTINF:-1 tvg-chno="501" tvg-id="StarChannelSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.ff2b9249f248fdc5784883a876e96d74.png" group-title="Variedades", Star Channel
 https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 
@@ -300,18 +300,13 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
-#EXTINF:-1  tvg-chno="502" tvg-id="AMCSouth.us" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Variedades", AMC
+#EXTINF:-1  tvg-chno="502" tvg-id="AMCSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_06/large.AMC-2019.png.b86a6b71748dfa7c6d4393931c9931c8.png" group-title="Variedades", AMC
 https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
-#EXTINF:-1 tvg-chno="408" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_05/large.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.e1fcedca94856a575c7c02b8c87f9d32.png" group-title="Variedades", Paramount Network
+#EXTINF:-1 tvg-chno="408" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_05/small.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.cc287efb911e1d7501e2d1f6cfd5bf12.png" group-title="Variedades", Paramount Network
 https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=391c137034f053938edbf26799549ddc:19d643d8a50b2f829c96a897f7df255d
-#EXTINF:-1  tvg-chno="409" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="Variedades", Sony Movies
-https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee
@@ -374,7 +369,7 @@ https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db764164934a48749a7a01bd015694f3:512f3c8869af45e6e5dd1525b6a77867
-#EXTINF:-1 tvg-chno="413" tvg-id="ISatSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png" group-title="Variedades", I.Sat
+#EXTINF:-1 tvg-chno="413" tvg-id="ISatSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_09/large.1695388399384.png.f9be3f1a6789b78245644c756d9f4acb.png" group-title="Variedades", I Sat
 https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
 
@@ -385,10 +380,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
 #EXTINF:-1 tvg-chno="516" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/image.png.b2fa732a633ebc2ba5297e4bb56ea1d5.png" group-title="Variedades", Argentinísima Satelital
 https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd
-
-#EXTINF:-1 tvg-chno="515" tvg-id="Telemax.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.blanco_terminado.png.c77668d498c72e8bf660858341b2eb23.png" group-title="Variedades", Telemax
-https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
@@ -421,7 +412,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/Co
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
-#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_09/large.1960630694_InvestigationDiscovery.png.4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Variedades", ID
+#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_04/small.1280px-Investigation_Discovery_2020_svg.png.a6d13845b41d5005fd60818ddf6892f4.png" group-title="Variedades", ID
 https://chromecast.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -535,7 +526,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
-#EXTINF:-1 tvg-chno="808" tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/800px-TV5MONDE_logo.png" group-title="Mundo", TV5 Monde Amerique Latine
+#EXTINF:-1 tvg-chno="808" tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://www.tvfestival.com/img/partenaires/logos/2022/media/tv5monde.png" group-title="Mundo", TV5 Monde Amerique Latine
 https://chromecast.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
 
 #EXTINF:-1 tvg-chno="809" tvg-id="NHKWorldJapan.jp" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Mundo", NHK World
@@ -544,7 +535,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
-#EXTINF:-1 tvg-chno="822" tvg-id="BBCWorldNewsLatinAmerica.uk" tvg-logo="https://www.alicestapleton.com/uploads/press-logos/_width475/bbc-news-logo.png" group-title="Mundo", BBC World News
+#EXTINF:-1 tvg-chno="822" tvg-id="BBCWorldNewsLatinAmerica.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_04/small.1218602217_BBCNews.png.520cbf976530d489820a72cb7240cfb0.png" group-title="Mundo", BBC News
 https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
 
 #EXTINF:-1 tvg-chno="823" tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
@@ -562,7 +553,7 @@ https://tv-trtworld.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:-1 tvg-chno="804" tvg-id="GaliciaTVAmerica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
 https://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/1080?cb=20220106180200&path-prefix=es" group-title="Mundo", Etb Basque
+#EXTINF:-1 tvg-chno="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ETB_Basque_2022_white_wordmark.svg/revision/latest/scale-to-width-down/250?cb=20220129104743" group-title="Mundo", Etb Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -570,18 +561,13 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-chno="810" tvg-id="RaiItaliaAmerica.it" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
 https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
-#EXTINF:-1 tvg-chno="811" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.RTPInternacional2017.png.a27451cd290449731b5bd0b66f1196f5.png" tvg-group="Mundo", RTP Internacional
+#EXTINF:-1 tvg-chno="811" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_negativo_horiz_RGB1.png" tvg-group="Mundo", RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 #EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d156b089a39b5e81be1ea8a6d1c9fc4e:015d0fec74f71ff77114bb439ef07a8b
-#EXTINF:-1 tvg-chno="818" tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" group-title="Mundo", Canal 24 Horas (Chile)
-https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd
 
 #EXTINF:-1 tvg-chno="813" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
@@ -593,12 +579,12 @@ https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Para
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
-#EXTINF:-1 tvg-chno="815" tvg-id="VTV.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/large.373_1.png.32d29f464225d82280da605b49a3c115.png" group-title="Deportes", VTV (Uruguay)
+#EXTINF:-1 tvg-chno="815" tvg-id="VTV.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/small.373_1.png.0031b70cbfe9dbde9dacb0b4d4e08466.png" group-title="Deportes", VTV (Uruguay)
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-chno="816" tvg-id="TVCiudad.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_03/large.sketch-1585655821672.png.c70000e9ebbe2e70a984a3325a35bf5a.png" group-title="Mundo", TV Ciudad (Uruguay)
+#EXTINF:-1 tvg-chno="816" tvg-id="TVCiudad.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_03/sketch-1585656321913.png.ecdbc41cab8e2ede597def2b1e68337b.png" group-title="Mundo", TV Ciudad (Uruguay)
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
 #EXTINF:-1 tvg-chno="817" tvg-id="TVPeruInternacionalHD.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
@@ -610,7 +596,7 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
-#EXTINF:-1 tvg-chno="901" tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Mundo", Las Estrellas
+#EXTINF:-1 tvg-chno="901" tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png" group-title="Mundo", Las Estrellas
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -629,8 +615,10 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_e
 #EXTINF:-1 tvg-chno="904" tvg-id="TLCSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_07/large.TLC_logo_2021.png.4735c2557c81e3233cfb796daffe0b26.png" group-title="Estilos de Vida", TLC
 https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7661831e2f033388b0e76db2a0aa8956:1626d7c72446ce119899f28067670230
 #EXTINF:-1 tvg-chno="905" tvg-id="HolaTVLatinAmerica.es" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Estilos de Vida", Hola! TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
+https://1149-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -679,7 +667,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
-#EXTINF:-1 tvg-chno="1001" tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png" group-title="Religión", EWTN
+#EXTINF:-1 tvg-chno="1001" tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religión", EWTN
 https://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -689,7 +677,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_2
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
-#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.58016b8b361ee_2381(1).png.089699e54d45b663e93dd0242a3b098a.png" group-title="Religión", Santa María
+#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.58016b8b361ee_2381(1).png.8b467957dda07e99899594d63010bca2.png" group-title="Religión", Santa María
 https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Senal_Maria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -702,13 +690,8 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b9bb0d2620243f1ae8351e49aec26a3:40cb9a29cee1fff4b1e6dbc96be0f9b1
-#EXTINF:-1 tvg-chno="1103" tvg-id="MTV80s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.858494140_MTV80s2020.png.63fb573ecfb43ae8cd68b887ba0c892e.png" group-title="Radios y Música", MTV 80s
-https://anedgesta.express.com.ar/live/c1eds/VH1_Classics/SA_DASH_cipix/VH1_Classics.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
-#EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/image.png.1802ef44a7a984cec0d426b4c370b5a9.png" group-title="Radios y Música", MTV 00s
+#EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.image.png.1802ef44a7a984cec0d426b4c370b5a9.png.303c05ab59eeeac3b476c2d6242dd344.png" group-title="Radios y Música", MTV 00s
 https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
 
@@ -716,11 +699,6 @@ https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
 #EXTINF:-1 tvg-chno="1105" tvg-id="MTVHitsEurope.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/small.705468994_MTVHITS.png.96a3f11860854bd70a1bbb0f28ef59de.png" group-title="Radios y Música", MTV Hits
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=acc4581a25ef0cd76f8fd7d826bb2d06:bc006e72e9aab57aca8ae75a83e8f20e
-#EXTINF:-1 tvg-chno="1106" tvg-id="MTVLive.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/large.1512458622_MTVLIVE.png.69cce0d3bd11f51239b21103a3c96a34.png" group-title="Radios y Música", MTV Live
-https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -741,12 +719,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Much_
 https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-key:4a4fd86ea9db4417ec86c237d3111b18 kid:eae6c12ccab349e6ae675ab6ed8a476c
-#KODIPROP:inputstream.adaptive.license_key=eae6c12ccab349e6ae675ab6ed8a476c:4a4fd86ea9db4417ec86c237d3111b18
-#EXTINF:-1 tvg-chno="1110" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="Radios y Música", NickMusic
-https://chromecast.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_2A/Nickmusic.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
@@ -758,10 +730,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 #EXTINF:-1 tvg-chno="1112" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Radios y Música", Vorterix
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
-#EXTINF:-1 tvg-chno="1113" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png.89d25e14cb6955263ac79d3c3469774d.png" group-title="Radios y Música", Tierramía TV
-https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" group-title="Radios y Música", Music TOP
+#EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.61515f3d0cdd16a1424ab87d5e804841.png" group-title="Radios y Música", Music TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Radios y Música", Stingray Karaoke
@@ -782,10 +751,10 @@ https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
 #EXTINF:-1 tvg-chno="1125" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Radios y Música" , Stingray Classica 2
 https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
 
-#EXTINF:-1 tvg-chno="1126" tvg-id="" tvg-logo="https://cmusic.stingray.com/themes/custom/cmusic/logo.svgz" group-title="Radios y Música", Stingray Cmusic
+#EXTINF:-1 tvg-chno="1126" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Radios y Música", Stingray Cmusic
 https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
 
-#EXTINF:-1 tvg-chno="1127" tvg-id="" tvg-logo="https://cmusic.stingray.com/themes/custom/cmusic/logo.svgz" group-title="Radios y Música", Stingray Cmusic 2
+#EXTINF:-1 tvg-chno="1127" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Radios y Música", Stingray Cmusic 2
 https://watchtv-raw.ott-channels.stingray.com/cmusic01/index.m3u8
 
 #EXTINF:-1 tvg-chno="1128" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Radios y Música" video-track="none", Stingray Grandes Éxitos
@@ -820,64 +789,64 @@ https://ott-linear-channels.stingray.com/128/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-chno="1150" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Eventos
+#EXTINF:-1 tvg-chno="1150" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Eventos
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
-#EXTINF:-1 tvg-chno="1151" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Clásicos
+#EXTINF:-1 tvg-chno="1151" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Clásicos
 https://musicsrc.cvattv.com.ar/RM03
 
-#EXTINF:-1 tvg-chno="1152" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Electrónica
+#EXTINF:-1 tvg-chno="1152" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Electrónica
 https://musicsrc.cvattv.com.ar/RM41
 
-#EXTINF:-1 tvg-chno="1153" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Rock
+#EXTINF:-1 tvg-chno="1153" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Rock
 https://musicsrc.cvattv.com.ar/RM18
 
-#EXTINF:-1 tvg-chno="1154" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggaeton
+#EXTINF:-1 tvg-chno="1154" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Reggaeton
 https://musicsrc.cvattv.com.ar/RM30
 
-#EXTINF:-1 tvg-chno="1155" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggaeton 2
+#EXTINF:-1 tvg-chno="1155" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Reggaeton 2
 https://musicsrc.cvattv.com.ar/RM29
 
-#EXTINF:-1 tvg-chno="1156" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Latinos
+#EXTINF:-1 tvg-chno="1156" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Latinos
 https://musicsrc.cvattv.com.ar/RM31
 
-#EXTINF:-1 tvg-chno="1157" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Rock Nacional
+#EXTINF:-1 tvg-chno="1157" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Rock Nacional
 https://musicsrc.cvattv.com.ar/RM17
 
-#EXTINF:-1 tvg-chno="1158" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 70's Hits
+#EXTINF:-1 tvg-chno="1158" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music 70's Hits
 https://musicsrc.cvattv.com.ar/RM07
 
-#EXTINF:-1 tvg-chno="1159" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 80's Hits
+#EXTINF:-1 tvg-chno="1159" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music 80's Hits
 https://musicsrc.cvattv.com.ar/RM05
 
-#EXTINF:-1 tvg-chno="1160" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music 90's Hits
+#EXTINF:-1 tvg-chno="1160" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music 90's Hits
 https://musicsrc.cvattv.com.ar/RM04
 
-#EXTINF:-1 tvg-chno="1161" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Hits
+#EXTINF:-1 tvg-chno="1161" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Hits
 https://musicsrc.cvattv.com.ar/RM06
 
-#EXTINF:-1 tvg-chno="1162" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Tango
+#EXTINF:-1 tvg-chno="1162" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Tango
 https://musicsrc.cvattv.com.ar/RM46
 
-#EXTINF:-1 tvg-chno="1163" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Disco
+#EXTINF:-1 tvg-chno="1163" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Disco
 https://musicsrc.cvattv.com.ar/RM14
 
-#EXTINF:-1 tvg-chno="1164" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Jazz
+#EXTINF:-1 tvg-chno="1164" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Jazz
 https://musicsrc.cvattv.com.ar/RM37
 
-#EXTINF:-1 tvg-chno="1165" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Reggae
+#EXTINF:-1 tvg-chno="1165" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Reggae
 https://musicsrc.cvattv.com.ar/RM23
 
-#EXTINF:-1 tvg-chno="1166" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Retro
+#EXTINF:-1 tvg-chno="1166" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Retro
 https://musicsrc.cvattv.com.ar/RM16
 
-#EXTINF:-1 tvg-chno="1167" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Cine
+#EXTINF:-1 tvg-chno="1167" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Cine
 https://musicsrc.cvattv.com.ar/RM24
 
-#EXTINF:-1 tvg-chno="1168" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Cine Clásico
+#EXTINF:-1 tvg-chno="1168" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Cine Clásico
 https://musicsrc.cvattv.com.ar/RM25
 
-#EXTINF:-1 tvg-chno="1169" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.844051835_FlowMusicc.png.b0869acfcf5127c8061ff9e76acc3b3c.png" group-title="Radios y Música", Flow Music Lentos
+#EXTINF:-1 tvg-chno="1169" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Radios y Música", Flow Music Lentos
 https://musicsrc.cvattv.com.ar/RM27
 
 #EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental (AM 590)
@@ -989,41 +958,14 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HB
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
-#EXTINF:-1 tvg-chno="457" tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.4b3f07d4fbded45afce0d3d94f0c3c0e.png" group-title="HBO Pack", HBO Pop
+#EXTINF:-1 tvg-chno="457" tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.720733894_HBOPOP(varianteverde).png.798bb3e942409e116c1fed56b6f6a6fe.png" group-title="HBO Pack", HBO Pop
 https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
-#EXTINF:-1 tvg-chno="458" tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="http://klic.tmsimg.com/assets/s80211_ld_h15_ab.png" group-title="HBO Pack", HBO Xtreme
+#EXTINF:-1 tvg-chno="458" tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.Wz3WemY.png.7f7f04d0997f5786c1d032467b6a4140.png" group-title="HBO Pack", HBO Xtreme
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d080be28a0fc5970bf1de897f80d40bd:ab8187d50d311d30bc0d7dc6eb5697d1
-#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.7d1fe868b7eac121274d6c416298680f.png" group-title="Pack Universal+", Universal Premieres
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce0a7c883e2a5430bba97a3d68e0daf8:e30dd4908e667637369dfb6582f54d64
-#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.3dd657ae175a7ab584ef40c1a517e63f.png" group-title="Pack Universal+", Universal Cinema
-https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252ddb6e79dd5351bb95eac1115d4191:f2051f38612f0a71cde7174a3c6c4526
-#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.94d588e2c343e4a92a6cc6701d60811e.png" group-title="Pack Universal+", Universal Comedy
-https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2402ee3736c56b3bd5d50acf2300961:329937e5d236a35ffe91d6cd7125becc
-#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" group-title="Pack Universal+", Universal Crime
-https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0402ba07dad5b0cb227af248ea2c5ee:ab463fb78e7e17b5e0ee4ea8bca35ec9
-#EXTINF:-1 tvg-chno="465" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" group-title="Pack Universal+", Universal Reality
-https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
-
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:-1 tvg-chno="2004" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
@@ -1038,7 +980,7 @@ https://live.canalnueve.tv/index.m3u8
 #EXTINF:-1 tvg-chno="2012" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/12PM.png?raw=true" tvg-group="Locales", Canal 12 Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1250" tvg-logo="https://lu17.com/wp-content/uploads/2015/01/logo.png" group-title="Radios Locales", LU17 Radio Golfo Nuevo (AM 540)
+#EXTINF:-1  tvg-chno="1250" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LU17.png?raw=true" group-title="Radios Locales", LU17 Radio Golfo Nuevo (AM 540)
 http://138.36.96.199:8001/lu17
 
 #EXTINF:-1  tvg-chno="1251" tvg-logo="https://git.io/JOTLg" group-title="Radios y Música", Radio Nacional Esquel (AM 560)
