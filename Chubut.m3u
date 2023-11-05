@@ -392,10 +392,8 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://www.atriummusic.com/wp-content/uploads/2017/04/USA-reverse-white2.png" tvg-group="Variedades", USA
 https://router.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0cecffe9c29734343cf9983978c1a1:f86b5ac05f2a2626b6c61bd4e13344d8
-#EXTINF:-1 tvg-chno="511" tvg-id="truTVLatinAmerica.us" tvg-logo="https://static.flow.com.ar/images/122/CH_LOGO/1920/1080/0/0/61224231071260.png" group-title="Variedades", TruTV
-https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd
+#EXTINF:-1 tvg-chno="511" tvg-id="truTVLatinAmerica.us" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=Adult%20Swim&productId=CEOD&sourceType=colorHybrid" group-title="Variedades", [adult swim]
+https://comodoro.cdn.rcs.net.ar/mnp/adultswim/Video3.mp4
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
