@@ -2,48 +2,48 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
+#EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-name="AME24"tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTINF:-1 tvg-chno="3" tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
+#EXTINF:-1 tvg-chno="3" tvg-id="TN.ar" tvg-name="TNNOT" "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" tvg-group="Noticias", TN
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:-1 tvg-chno="4" tvg-id="Canal26.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.Canal_26_2022.png.85eed6606fb961b046cdae79fe73ec8e.png" tvg-group="Noticias", Canal 26
+#EXTINF:-1 tvg-chno="4" tvg-id="Canal26.ar" tvg-name="CAN26" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.Canal_26_2022.png.85eed6606fb961b046cdae79fe73ec8e.png" tvg-group="Noticias", Canal 26
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 tvg-chno="5" tvg-id="C5N.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.150ffea72f12c551a8a5f54fa0e71d8e.png" tvg-group="Noticias", C5N
+#EXTINF:-1 tvg-chno="5" tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.150ffea72f12c551a8a5f54fa0e71d8e.png" tvg-group="Noticias", C5N
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-#EXTINF:-1 tvg-chno="6" tvg-id="LaNacionPlus.ar" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", LN+
+#EXTINF:-1 tvg-chno="6" tvg-id="LaNacionPlus.ar" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", LN+
 https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-#EXTINF:-1 tvg-chno="7" tvg-id="InformacionPeriodistica.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1200?cb=20230321001855&path-prefix=es" tvg-group="Noticias", IP Noticias
+#EXTINF:-1 tvg-chno="7" tvg-id="InformacionPeriodistica.ar" tvg-name="IPNOT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1200?cb=20230321001855&path-prefix=es" tvg-group="Noticias", IP Noticias
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-chno="8" tvg-id="CronicaTV.ar" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" tvg-group="Noticias", Cronica
+#EXTINF:-1 tvg-chno="8" tvg-id="CronicaTV.ar" tvg-name="CRNHD" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" tvg-group="Noticias", Cronica
 https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
-#EXTINF:-1 tvg-chno="9" tvg-id="CanalE.ar" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" tvg-group="Noticias", Canal E
+#EXTINF:-1 tvg-chno="9" tvg-id="CanalE.ar" tvg-name="CEPRF" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" tvg-group="Noticias", Canal E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true" tvg-group="Noticias", Norte Grande Federal
+#EXTINF:-1 tvg-chno="10"tvg-name="NGFED" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true" tvg-group="Noticias", Norte Grande Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
-#EXTINF:-1 tvg-chno="11" tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Mundo", CNN En Español
+#EXTINF:-1 tvg-chno="11" tvg-id="CNNenEspanol.us" tvg-name="CNNEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Mundo", CNN En Español
 https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
