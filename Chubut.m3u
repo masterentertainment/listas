@@ -173,6 +173,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 #EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_06/large.large.gallery_5692_6_980.png.7c10493463f565e4ccc2108d7b2ada6b.png.42e9cb99f12289cbb200abda604b4fe0.png" group-title="Deportes", Golf TV Latam
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
+#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/clarosports.png" group-title="Deportes", Claro Sports
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
+
 
 _________________________________________________________________________________________________________________________________________________________________
 
@@ -295,8 +300,10 @@ https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 #EXTINF:-1 tvg-chno="406" tvg-id="TNTSouth.us" tvg-logo="https://www.pngkit.com/png/full/46-466028_tnt-latin-america-tnt-brasil.png" group-title="Variedades", TNT
 https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
 #EXTINF:-1 tvg-chno="407" tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Variedades", Atrescine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
@@ -613,9 +620,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_e
 https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7661831e2f033388b0e76db2a0aa8956:1626d7c72446ce119899f28067670230
+#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
 #EXTINF:-1 tvg-chno="905" tvg-id="HolaTVLatinAmerica.es" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Estilos de Vida", Hola! TV
-https://1149-vos.dtvott.com/DASH/manifest.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_2A/Hola_TV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -918,8 +925,6 @@ https://s8.stweb.tv/observador/live/playlist.m3u8
 #EXTINF:-1  tvg-chno="1240" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="Radios y Música", RFI
 https://musicsrc.cvattv.com.ar/RRFI
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
 #EXTINF:-1 tvg-chno="451" tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO 
 https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
