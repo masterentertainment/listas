@@ -41,18 +41,10 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="10"tvg-name="NGFED" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true" tvg-group="Noticias", Norte Grande Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="11"tvg-name="EXTRA4" tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s900-c-k-c0x00ffffff-no-rj" tvg-group="Noticias", Canal 4 EXTRA!
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cq8FnbjErEHhoardlZ8C2HJVVhLLTEzgAVaZxNPWws3ZpZ6kgygBtAl7VTpLx-f0NIMxVTWjk-x0VHu4uZ7lek5-YF9t7giXLBs26IjdL1fTmNfkY5fDvbFdw_PNygtZMA0CBaV4NADjYq21QSHlbKeHW0tz4_3et_QAv--Nt--W09pzHKHJ5n0sLZQZkeNmBZwEgCer6wcSrBULoUR8Xwc0krOk87looyOfJo6zobxgxetpfX0TwyaFHRafidP_mO6O7edMiOBz6kS7g8THmYmuD8VP2JRYmnlM8-VKEwr-Nwy30EhVD4q9IErSPMB-vvi-jgET2ErSRhnT1kafr4LEafiQvc2IbL--ohPiT1G3wHw8II3DmAbAKjBTJh0-KA78BkHsSSoc2ZFmmEtoaSV14r0LGRS2drRgro1HAoclupcbJM4X9iLf1Z0i9RpSeevrdKP1B3tJC0qHjKjh4S95zhz012TkS3EwkllQLKHrRLbFn-9AzINuHESDajt5Ltl6IGFZHtMQmLqQPklj616hwhumjNO_AdeV5goa80BKXYM8ucZEYwsmbGmj5OKxAESOksAWKdI0HzPG35Cln9589TPFQ5dEbKmLFHd0eB7aWQHNmG1fk289x_xOsEU-vbQL6YTEIp2_ml9Xaj4fsRft3Hix3nw2S6I3j0IigPQvybsFxTo3zaulGRgKzjbGZ_hG_YMDXYxdl5LFgPs1VIoqtMzI6PzP4GWI8eYeszusFnRXa5_q4ueuXSoIspWL4gYXOcqofa5FFiJvdY--G-w8AGOgB1ovdErt5IQdW5ZEQuNoFLwD6brQtJriIpqObsgOYcrM64RwJkgbUFvAUupzeOz1O39CCq6j-6Bj5pU1zOBw-pkbELZ1bylmMVd1QdH_SxzR1cJ4URKYmS6A9mz4Ggw6NU__JvO852z8aT8gASoJdXMtd2VzdC0yMIEI.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 #EXTINF:-1 tvg-chno="821" tvg-id="CNNenEspanol.us" tvg-name="CNNEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Mundo", CNN En Español
 https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:464172bbc422938df76633bf3a8a2b54
-#EXTINF:-1 tvg-chno="3822.1" tvg-id="" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" group-title="Mundo", DNews
-https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
@@ -187,19 +179,20 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb
-#EXTINF:-1 tvg-chno="3001" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports 2
-https://1063-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
-#EXTINF:-1 tvg-chno="3002.1" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports +
+#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports +
 https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=86531a9305d65cb78b18b2c14024320e:0070dbc490f3b5edfe1f68503fb6402c
-#EXTINF:-1 tvg-chno="3003.1" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports Motor
+#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Deportes", DSports Motor
 https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36b2c6b7736a5901bf408916a454abf9:f0d2254f85b73717f4c2cd81bda71889
+#EXTINF:-1 tvg-chno="3002.17" tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="Deportes", DSports Fight (TEST)
+https://1259-abc-da-bpk.dtvott.com/dash_live_1259/manifest.mpd
+
 
 
 _________________________________________________________________________________________________________________________________________________________________
