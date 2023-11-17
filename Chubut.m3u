@@ -1,6 +1,11 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+#EXTINF:-1 tvg-chno="3000" tvg-id="TyCSports2.ar" tvg-name="TyCS2"tvg-logo="" tvg-group="Noticias", EVENTOS - TyC Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-name="AME24"tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
@@ -41,7 +46,7 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="10"tvg-name="NGFED" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true" tvg-group="Noticias", Norte Grande Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10"tvg-name="EXTRA4" tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s900-c-k-c0x00ffffff-no-rj" tvg-group="Noticias", Canal 4 EXTRA!
+#EXTINF:-1 tvg-chno="11"tvg-name="EXTRA4" tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s900-c-k-c0x00ffffff-no-rj" tvg-group="Noticias", Canal 4 EXTRA!
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cq8FnbjErEHhoardlZ8C2HJVVhLLTEzgAVaZxNPWws3ZpZ6kgygBtAl7VTpLx-f0NIMxVTWjk-x0VHu4uZ7lek5-YF9t7giXLBs26IjdL1fTmNfkY5fDvbFdw_PNygtZMA0CBaV4NADjYq21QSHlbKeHW0tz4_3et_QAv--Nt--W09pzHKHJ5n0sLZQZkeNmBZwEgCer6wcSrBULoUR8Xwc0krOk87looyOfJo6zobxgxetpfX0TwyaFHRafidP_mO6O7edMiOBz6kS7g8THmYmuD8VP2JRYmnlM8-VKEwr-Nwy30EhVD4q9IErSPMB-vvi-jgET2ErSRhnT1kafr4LEafiQvc2IbL--ohPiT1G3wHw8II3DmAbAKjBTJh0-KA78BkHsSSoc2ZFmmEtoaSV14r0LGRS2drRgro1HAoclupcbJM4X9iLf1Z0i9RpSeevrdKP1B3tJC0qHjKjh4S95zhz012TkS3EwkllQLKHrRLbFn-9AzINuHESDajt5Ltl6IGFZHtMQmLqQPklj616hwhumjNO_AdeV5goa80BKXYM8ucZEYwsmbGmj5OKxAESOksAWKdI0HzPG35Cln9589TPFQ5dEbKmLFHd0eB7aWQHNmG1fk289x_xOsEU-vbQL6YTEIp2_ml9Xaj4fsRft3Hix3nw2S6I3j0IigPQvybsFxTo3zaulGRgKzjbGZ_hG_YMDXYxdl5LFgPs1VIoqtMzI6PzP4GWI8eYeszusFnRXa5_q4ueuXSoIspWL4gYXOcqofa5FFiJvdY--G-w8AGOgB1ovdErt5IQdW5ZEQuNoFLwD6brQtJriIpqObsgOYcrM64RwJkgbUFvAUupzeOz1O39CCq6j-6Bj5pU1zOBw-pkbELZ1bylmMVd1QdH_SxzR1cJ4URKYmS6A9mz4Ggw6NU__JvO852z8aT8gASoJdXMtd2VzdC0yMIEI.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
