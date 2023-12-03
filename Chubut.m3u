@@ -912,7 +912,7 @@ https://mega.stweb.tv/mega983/live/playlist.m3u8
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 
 #EXTINF:-1 tvg-chno="1227" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Radios y Música", La 100 (FM 99.9)
-https://26493.live.streamtheworld.com/FM999_56AAC.aac
+https://musicsrc.cvattv.com.ar/L100
 
 #EXTINF:-1 tvg-chno="1231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Radios y Música", Los 40 (FM 105.5)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
