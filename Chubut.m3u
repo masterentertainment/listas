@@ -270,6 +270,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncas
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" tvg-group="Infantiles y Familiares", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
 
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BTME.png?raw=true" tvg-group="Infantiles y Familiares", Bitme
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BITME)/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 #EXTINF:-1 tvg-chno="401" tvg-id="CineAR.ar" tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Variedades", Cine.AR
@@ -407,7 +410,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Cana
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://www.atriummusic.com/wp-content/uploads/2017/04/USA-reverse-white2.png" tvg-group="Variedades", USA
-https://comodoro.cdn.rcs.net.ar/mnp/syfy/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 #EXTINF:-1 tvg-chno="511" tvg-id="truTVLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Variedades", [adult swim]
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TRUTVHD)/index.m3u8
@@ -549,16 +552,16 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-chno="823" tvg-id="BBCWorldNewsLatinAmerica.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_04/small.1218602217_BBCNews.png.520cbf976530d489820a72cb7240cfb0.png" group-title="Mundo", BBC News
 https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
 
-#EXTINF:-1 tvg-chno="824" tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
+#EXTINF:-1 tvg-chno="822" tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
-#EXTINF:-1 tvg-chno="825" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="Mundo", FOX News
+#EXTINF:-1 tvg-chno="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="Mundo", FOX News
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd
 
-#EXTINF:-1 tvg-chno="826" tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" tvg-group="Mundo", TRT World
+#EXTINF:-1 tvg-chno="825" tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" tvg-group="Mundo", TRT World
 https://tv-trtworld.live.trt.com.tr:443/master_720.m3u8
 
 #EXTINF:-1 tvg-chno="804" tvg-id="GaliciaTVAmerica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Mundo", Galicia TV America
@@ -598,12 +601,14 @@ https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mp
 #EXTINF:-1 tvg-chno="816" tvg-id="TVCiudad.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_03/sketch-1585656321913.png.ecdbc41cab8e2ede597def2b1e68337b.png" group-title="Mundo", TV Ciudad (Uruguay)
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
-#EXTINF:-1 tvg-chno="817" tvg-id="TVPeruInternacionalHD.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" tvg-group="Mundo", TV Perú Internacional
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index.m3u8
+#EXTINF:-1 tvg-chno="817" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-group="Mundo", Azteca Internacional
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AZMUNDOHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="819" tvg-id="TVPeruNoticiasHD.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" tvg-group="Mundo", TV Perú Noticias
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
+#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_06/large.rcntv-blanco-footer-19.png.8b77128a459a25b774a6b667845fc46a.png" tvg-group="Mundo", Nuestra Tele Internacional
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NUESTRATELE)/index.m3u8
 
+#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_03/small.CaracolInternacional-2023lephq.png.5a5b4e4e875158ce737312c9b5c2d811.png" tvg-group="Mundo", Caracol Internacional
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARACOL)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
@@ -935,13 +940,12 @@ https://s8.stweb.tv/observador/live/playlist.m3u8
 https://musicsrc.cvattv.com.ar/RRFI
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1 tvg-chno="451" tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO 
-https://comodoro.cdn.rcs.net.ar/mnp/hbo/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
 #EXTINF:-1 tvg-chno="452" tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png" group-title="HBO Pack", HBO 2
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
