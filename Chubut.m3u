@@ -270,8 +270,10 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncas
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" tvg-group="Infantiles y Familiares", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="313" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BTME.png?raw=true" tvg-group="Infantiles y Familiares", Bitme
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BITME)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e2f2528cd43b536d88c6298602003192":"98fae428dc7045b0373c3b546d712427","9c7eca7ab88454f0b35c4d42a5d85ad0":"a0a99bc41453558dff52fa15f78d8a67","7a5d7577346c5af8b5cb4786e5a32c50":"a92e960047b29e6925b44d6527ae4f95"}
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.518587-8c.png.8cfbdeb74b64973138477719aedddafa.png" group-title="Infantiles y Familiares",Teen Nick
+https://tvup-ccs-live.secure2.footprint.net/teennick/teennick.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
@@ -391,7 +393,7 @@ https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
 #EXTINF:-1 tvg-chno="414" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPLS.png?raw=true" group-title="Variedades", Golden Plus
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENPLUSHD)/index.m3u8
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_webvtt.m3u8
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" tvg-group="Variedades", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
@@ -413,7 +415,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 #EXTINF:-1 tvg-chno="511" tvg-id="truTVLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Variedades", [adult swim]
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TRUTVHD)/index.m3u8
+https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
@@ -602,13 +604,13 @@ https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mp
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
 #EXTINF:-1 tvg-chno="817" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-group="Mundo", Azteca Internacional
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AZMUNDOHD)/index.m3u8
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_06/large.rcntv-blanco-footer-19.png.8b77128a459a25b774a6b667845fc46a.png" tvg-group="Mundo", Nuestra Tele Internacional
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NUESTRATELE)/index.m3u8
+#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_10574.png.dbc433a095f0fb2da544ff5651e90389.png" tvg-group="Mundo", Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
 
-#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_03/small.CaracolInternacional-2023lephq.png.5a5b4e4e875158ce737312c9b5c2d811.png" tvg-group="Mundo", Caracol Internacional
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARACOL)/index.m3u8
+#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/1_0_1_1B64_3FC_1_C00000_0_0_0-2.png?fit=440%2C264&ssl=1" tvg-group="Mundo", Arirang Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
@@ -716,8 +718,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 #EXTINF:-1 tvg-chno="1105" tvg-id="MTVHitsEurope.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/small.705468994_MTVHITS.png.96a3f11860854bd70a1bbb0f28ef59de.png" group-title="Radios y Música", MTV Hits
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
-#EXTINF:-1 tvg-chno="1106" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/large.1512458622_MTVLIVE.png.4e567d8949e9f51dc5fe54fcde824f08.png" group-title="Radios y Música", MTV Live
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
+#EXTINF:-1 tvg-chno="1106" tvg-id="" tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Radios y Música", Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
@@ -749,7 +751,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
 #EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.61515f3d0cdd16a1424ab87d5e804841.png" group-title="Radios y Música", Music TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 #EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Radios y Música", Stingray Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
@@ -981,21 +983,6 @@ https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
 #EXTINF:-1 tvg-chno="458" tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.Wz3WemY.png.7f7f04d0997f5786c1d032467b6a4140.png" group-title="HBO Pack", HBO Xtreme
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png" group-title="Pack Universal Plus", Universal Premieres
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALPREMIERHD)/index.m3u8
-
-#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.f8100fdabf507329fd0443a1c5725d08.png" group-title="Pack Universal Plus", Universal Cinema
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCINEMAHD)/index.m3u8
-
-#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.6187403ad73ed4ac7cc015ca9c8def58.png" group-title="Pack Universal Plus", Universal Comedy
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCOMEDYHD)/index.m3u8
-
-#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.701883225_UniversalCrime-Claro.png.91b1f56f7e281fe87a2a77b78c12bb41.png" group-title="Pack Universal Plus", Universal Crime
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCRIMEHD)/index.m3u8
-
-#EXTINF:-1 tvg-chno="465" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1365450986_UniversalReality-Claro.png.9f05e38c7d704b3d7b0d86134e0f433f.png" group-title="Pack Universal Plus", Universal Reality
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALREALITYHD)/index.m3u8
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1 tvg-chno="2004" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
