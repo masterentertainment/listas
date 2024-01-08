@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml" 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -609,8 +609,10 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_10574.png.dbc433a095f0fb2da544ff5651e90389.png" tvg-group="Mundo", Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
 
-#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/1_0_1_1B64_3FC_1_C00000_0_0_0-2.png?fit=440%2C264&ssl=1" tvg-group="Mundo", Arirang Korea
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:12f97786894be0ff0ab9899261935a82
+#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" tvg-group="Mundo", DNews
+https://1264-test-midroll-abc-da-bpk.dtvott.com/f9028faec74be6eca4ebe89713844c93/dtv-tv/dash_live_1264/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
