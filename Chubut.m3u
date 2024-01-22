@@ -280,11 +280,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncas
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" tvg-group="Infantiles y Familiares", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e2f2528cd43b536d88c6298602003192":"98fae428dc7045b0373c3b546d712427","9c7eca7ab88454f0b35c4d42a5d85ad0":"a0a99bc41453558dff52fa15f78d8a67","7a5d7577346c5af8b5cb4786e5a32c50":"a92e960047b29e6925b44d6527ae4f95"}
-#EXTINF:-1 tvg-chno="313" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.518587-8c.png.8cfbdeb74b64973138477719aedddafa.png" group-title="Infantiles y Familiares",Teen Nick
-https://tvup-ccs-live.secure2.footprint.net/teennick/teennick.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 #EXTINF:-1 tvg-chno="401" tvg-id="CineAR.ar" tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Variedades", Cine.AR
@@ -424,7 +419,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Cana
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://www.atriummusic.com/wp-content/uploads/2017/04/USA-reverse-white2.png" tvg-group="Variedades", USA
-https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
+https://f2play.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 #EXTINF:-1 tvg-chno="511" tvg-id="truTVLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Variedades", [adult swim]
 https://f2play.cdn.rcs.net.ar/mnp/adultswim/output.mpd
