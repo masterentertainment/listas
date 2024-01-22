@@ -179,14 +179,24 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
+#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports 2
+https://1063-vos-da-mt.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
-#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports +
+#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports +
 https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=86531a9305d65cb78b18b2c14024320e:0070dbc490f3b5edfe1f68503fb6402c
-#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Deportes", DSports Motor
+#EXTINF:-1 tvg-chno="217" tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Deportes", DSports Motor
 https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36b2c6b7736a5901bf408916a454abf9:9bd7ec1ba802a7164edacaa493c2347c
+#EXTINF:-1 tvg-chno="218" tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="Deportes", DSports Fight
+https://1259-abc-da-bpk.dtvott.com/dash_live_1259/manifest.mpd
 
 
 _________________________________________________________________________________________________________________________________________________________________
@@ -392,8 +402,10 @@ https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 #EXTINF:-1 tvg-chno="413" tvg-id="ISatSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_09/large.1695388399384.png.f9be3f1a6789b78245644c756d9f4acb.png" group-title="Variedades", I Sat
 https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d6a86311c21a2c0f6e90d58fd7e590:b5607e3891e8fb4c0cc82d8f82abe569
 #EXTINF:-1 tvg-chno="414" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPLS.png?raw=true" group-title="Variedades", Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_webvtt.m3u8
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" tvg-group="Variedades", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
@@ -415,7 +427,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 #EXTINF:-1 tvg-chno="511" tvg-id="truTVLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Variedades", [adult swim]
-https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
+https://f2play.cdn.rcs.net.ar/mnp/adultswim/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
@@ -944,7 +956,7 @@ https://s8.stweb.tv/observador/live/playlist.m3u8
 https://musicsrc.cvattv.com.ar/RRFI
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1 tvg-chno="451" tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO Pack", HBO 
-https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
+https://f2play.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
@@ -986,6 +998,32 @@ https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.
 #EXTINF:-1 tvg-chno="458" tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.Wz3WemY.png.7f7f04d0997f5786c1d032467b6a4140.png" group-title="HBO Pack", HBO Xtreme
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
+#EXTINF:-1 tvg-chno="460" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png" group-title="Universal+ Pack", Universal Premiere
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
+#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.f8100fdabf507329fd0443a1c5725d08.png" group-title="Universal+ Pack", Universal Cinema
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
+#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.6187403ad73ed4ac7cc015ca9c8def58.png" group-title="Universal+ Pack", Universal Comedy
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
+#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.701883225_UniversalCrime-Claro.png.91b1f56f7e281fe87a2a77b78c12bb41.png" group-title="Universal+ Pack", Universal Crime
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
+#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1365450986_UniversalReality-Claro.png.9f05e38c7d704b3d7b0d86134e0f433f.png" group-title="Universal+ Pack", Universal Reality
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 #EXTINF:-1 tvg-chno="2004" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
