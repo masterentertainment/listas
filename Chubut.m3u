@@ -32,7 +32,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-chno="8" tvg-id="CronicaTV.ar" tvg-name="CRNHD" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" tvg-group="Noticias", Cronica
+#EXTINF:-1 tvg-chno="8" tvg-id="CronicaTV.ar" tvg-name="CRNHD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.CrnicaTV(Recreacin).png.7871999d5544935954992af8692d67af.png" tvg-group="Noticias", Cronica
 https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
 #EXTINF:-1 tvg-chno="9" tvg-program="Programación Canal E" tvg-name="CEPRF" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" tvg-group="Noticias", Canal E
