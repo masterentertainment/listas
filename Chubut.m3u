@@ -883,7 +883,7 @@ https://musicsrc.cvattv.com.ar/RM25
 https://musicsrc.cvattv.com.ar/RM27
 
 #EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Radios y Música", Continental (AM 590)
-https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
+https://alpha.radioplayer.com.ar/stream/continental
 
 #EXTINF:-1 tvg-chno="1202" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Radios y Música", Rivadavia 630
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
