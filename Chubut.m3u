@@ -180,12 +180,12 @@ https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Gol
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
-#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports 2
+#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSP2.png?raw=true" group-title="Deportes", DSports 2
 https://1063-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
-#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png" group-title="Deportes", DSports +
+#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSP+.png?raw=true" group-title="Deportes", DSports +
 https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -442,7 +442,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/Co
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
-#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_04/small.1280px-Investigation_Discovery_2020_svg.png.a6d13845b41d5005fd60818ddf6892f4.png" group-title="Variedades", ID
+#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="Variedades", Discovery ID
 https://chromecast.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
