@@ -246,7 +246,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nick
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
-#EXTINF:-1 tvg-chno="306" tvg-id="NickJrSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantiles y Familiares", Nick JR.
+#EXTINF:-1 tvg-chno="306" tvg-id="NickJrSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.NickJr.(2024).png.92c296cca2f91fbbb3c75c0310c6f542.png" group-title="Infantiles y Familiares", Nick JR.
 https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
 
 
