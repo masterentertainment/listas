@@ -101,7 +101,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-#EXTINF:-1 tvg-chno="215" tvg-id="TyCSports2.ar" tvg-name="TyCS2" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.eventosflow.png.e9110df03265172668113ed092ed9216.png" tvg-group="Noticias", Eventos / TyC Sports 2
+#EXTINF:-1 tvg-chno="215" tvg-id="TyCSports2.ar" tvg-name="TyCS2" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.eventosflow.png.e9110df03265172668113ed092ed9216.png" tvg-group="Deportes", Eventos / TyC Sports 2
 https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -205,7 +205,7 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-chno="250" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
-https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
