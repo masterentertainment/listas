@@ -205,7 +205,7 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-chno="250" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
-https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -380,10 +380,9 @@ https://chromecast.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc_2A/Warner
 #EXTINF:-1 tvg-chno="507" tvg-id="UniversalTVSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Variedades", Universal TV
 https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
-#EXTINF:-1 tvg-chno="508" tvg-id="AXNSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.853f2eb2570a78079b67faf4dab7886c.png" group-title="Variedades", AXN
+#EXTINF:-1 tvg-chno="508" tvg-id="AXNSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.CbSpRQ2WEAEErTn-removebg-preview.png.607a6abbd41708566f441bcfed08d439.png" group-title="Variedades", AXN
 https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
@@ -392,10 +391,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 #EXTINF:-1 tvg-chno="509" tvg-id="AESouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="Variedades", A&E 
 https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db764164934a48749a7a01bd015694f3:512f3c8869af45e6e5dd1525b6a77867
-#EXTINF:-1 tvg-chno="413" tvg-id="ISatSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_09/large.1695388399384.png.f9be3f1a6789b78245644c756d9f4acb.png" group-title="Variedades", I Sat
-https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
+#EXTINF:-1 tvg-chno="413" tvg-id="" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="Variedades", Cinema+
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-id="GoldenPanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GLDN.png?raw=true" group-title="Variedades", Golden
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
@@ -653,9 +650,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_2A/Hola_TV.
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f812ef81d6ce425a8db4012a1ef8b0c1:5c2b9791b1074727eb349588e32bdc0a
-#EXTINF:-1 tvg-chno="906" tvg-id="GlitzPanregional.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Estilos de Vida", Glitz*
-https://chromecast.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc_2A/Glitz.mpd
+#KODIPROP:inputstream.adaptive.license_key=e78391deb5706f9311d952d6be6a6139:6f18f24433288d9462597aed58138336
+#EXTINF:-1 tvg-chno="906" tvg-id="TlnovelasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Estilos de Vida", tlnovelas
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -696,6 +693,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_2A/Lifetim
 #EXTINF:-1 tvg-chno="913" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Estilos de Vida", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="913" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLIC.png?raw=true" group-title="Estilos de Vida", Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
 #EXTINF:-1 tvg-chno="1001" tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religión", EWTN
@@ -703,7 +703,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
-#EXTINF:-1 tvg-chno="1002" tvg-id="CanalOrbe21.ar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/12/Canal-Orbe-21-en-vivo-Online.png" group-title="Religión", Orbe 21
+#EXTINF:-1 tvg-chno="1002" tvg-id="CanalOrbe21.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.ID-2024-Orbe21-500x168-1.png.a1b7798c54338af954ed002d09d9700a.png" group-title="Religión", Orbe 21
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -738,12 +738,6 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 #EXTINF:-1 tvg-chno="1107" tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Radios y Música", Quiero Musica
 https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb0558f9ddd4820bc9982ce483e5888:c2845f4c554fcaf96a13da4a373868c4
-#EXTINF:-1 tvg-chno="1108" tvg-id="MuchArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" group-title="Radios y Música", Much Music
-https://chromecast.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
