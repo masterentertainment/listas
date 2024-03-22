@@ -332,7 +332,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
-#EXTINF:-1 tvg-chno="408" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_05/small.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.cc287efb911e1d7501e2d1f6cfd5bf12.png" group-title="Variedades", Paramount Network
+#EXTINF:-1 tvg-chno="408" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PRMT.png?raw=true" group-title="Variedades", Paramount Network
 https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -693,7 +693,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_2A/Lifetim
 #EXTINF:-1 tvg-chno="913" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Estilos de Vida", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="913" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLIC.png?raw=true" group-title="Estilos de Vida", Clic
+#EXTINF:-1 tvg-chno="914" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLIC.png?raw=true" group-title="Estilos de Vida", Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
