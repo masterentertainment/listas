@@ -96,7 +96,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 #EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
-https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1020,13 +1020,10 @@ ________________________________________________________________________________
 #EXTINF:-1 tvg-chno="2004" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2007" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/547px-Canal_Siete_Rawson_%28Logo_2019%29.png" tvg-group="Locales", Canal 7 Rawson
-https://vivo.solumedia.com:19360/puntoweb/puntoweb.m3u8
-
 #EXTINF:-1 tvg-chno="2009" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/9AZM.png?raw=true" tvg-group="Locales", AZM TV Comodoro
 https://live.canalnueve.tv/index.m3u8
 
-#EXTINF:-1 tvg-chno="2012" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/12PM.png?raw=true" tvg-group="Locales", Canal 12 Madryn
+#EXTINF:-1 tvg-chno="2012" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/12PM.png?raw=true" tvg-group="Locales", Canal 12 Trelew
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 #EXTINF:-1  tvg-chno="1250" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LU17.png?raw=true" group-title="Radios Locales", LU17 Radio Golfo Nuevo (AM 540)
