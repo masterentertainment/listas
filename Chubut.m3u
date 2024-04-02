@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml" 
 
+
+#EXTINF:-1 tvg-chno="5011" tvg-id="" tvg-logo="https://www.eldestapeweb.com/img/estructura/logo-EDR-blanco.png" tvg-group="Noticias", TEST - El Destape TV
+https://m.youtube.com/@ElDestapeTV/live
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-name="AME24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/large.82678180073458.png.bfdb4be9e4742dc6b7503c6805a61414.png" tvg-group="Noticias", A24
