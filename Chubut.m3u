@@ -3,7 +3,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-name="AME24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_02/1550442810653.png.36a9c714f121b216133d810e568e02d7.png" tvg-group="Noticias", A24
+#EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-name="AME24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/large.82678180073458.png.6b7c9b2e38163acd9feec981d568cdde.png" tvg-group="Noticias", A24
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -18,7 +18,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 tvg-chno="5" tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.150ffea72f12c551a8a5f54fa0e71d8e.png" tvg-group="Noticias", C5N
+#EXTINF:-1 tvg-chno="5" tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/large.2980387507709.png.ec827a24279ba575521066af2efab936.png" tvg-group="Noticias", C5N
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -601,33 +601,36 @@ https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 #EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
-#EXTINF:-1 tvg-chno="813" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
+#EXTINF:-1 tvg-chno="813" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_09/small.24Horas2023white.png.3509cdc6cbd444f0b1a2140676dc1c03.png" group-title="Mundo", Canal 24 Horas (Chile)
+https://ythls-v2.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+
+#EXTINF:-1 tvg-chno="814" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
-#EXTINF:-1 tvg-chno="814" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="Mundo", Paraguay TV
+#EXTINF:-1 tvg-chno="815" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="Mundo", Paraguay TV
 https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
-#EXTINF:-1 tvg-chno="815" tvg-id="VTV.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/small.373_1.png.0031b70cbfe9dbde9dacb0b4d4e08466.png" group-title="Deportes", VTV (Uruguay)
+#EXTINF:-1 tvg-chno="816" tvg-id="VTV.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_03/small.373_1.png.0031b70cbfe9dbde9dacb0b4d4e08466.png" group-title="Deportes", VTV (Uruguay)
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-chno="816" tvg-id="TVCiudad.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_03/sketch-1585656321913.png.ecdbc41cab8e2ede597def2b1e68337b.png" group-title="Mundo", TV Ciudad (Uruguay)
+#EXTINF:-1 tvg-chno="817" tvg-id="TVCiudad.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_03/sketch-1585656321913.png.ecdbc41cab8e2ede597def2b1e68337b.png" group-title="Mundo", TV Ciudad (Uruguay)
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
-#EXTINF:-1 tvg-chno="817" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-group="Mundo", Azteca Internacional
+#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-group="Mundo", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_10574.png.dbc433a095f0fb2da544ff5651e90389.png" tvg-group="Mundo", Cablenoticias
+#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_10574.png.dbc433a095f0fb2da544ff5651e90389.png" tvg-group="Mundo", Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:12f97786894be0ff0ab9899261935a82
-#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" tvg-group="Mundo", DNews
+#EXTINF:-1 tvg-chno="820" tvg-id="" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" tvg-group="Mundo", DNews
 https://1264-test-midroll-abc-da-bpk.dtvott.com/f9028faec74be6eca4ebe89713844c93/dtv-tv/dash_live_1264/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
