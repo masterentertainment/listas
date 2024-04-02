@@ -3,7 +3,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-name="AME24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/large.82678180073458.png.bfdb4be9e4742dc6b7503c6805a61414.png" tvg-group="Noticias", A24
+#EXTINF:-1 tvg-chno="2" tvg-id="A24.ar" tvg-name="AME24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_02/1550442810653.png.36a9c714f121b216133d810e568e02d7.png" tvg-group="Noticias", A24
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -23,7 +23,7 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-#EXTINF:-1 tvg-chno="6" tvg-id="LaNacionPlus.ar" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", LN+
+#EXTINF:-1 tvg-chno="6" tvg-id="LaNacionPlus.ar" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
 https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
