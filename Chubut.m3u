@@ -905,7 +905,7 @@ http://radio10.stweb.tv/radio10/live/playlist.m3u8
 https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
 
 #EXTINF:-1 tvg-chno="1206" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Radios y Música", Mitre (AM 790)
-https://musicsrc.cvattv.com.ar/RMIT
+https://18373.live.streamtheworld.com/AM790_56AAC.aac
 
 #EXTINF:-1 tvg-chno="1207" tvg-logo="https://git.io/JOTLY" group-title="Radios y Música", Nacional (AM 860)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
