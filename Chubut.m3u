@@ -919,47 +919,50 @@ https://redirector.dps.live/cnn-ar/aac/icecast.audio
 #EXTINF:-1 tvg-chno="1210" tvg-logo="http://amdelplata.com/wp-content/uploads/2021/02/Radio-del-plata-logo-wp.png" group-title="Audio y Streaming", Del Plata (AM 1030)
 https://musicsrc.cvattv.com.ar/RDPL
 
-#EXTINF:-1 tvg-chno="1220" tvg-logo="https://git.io/JOTtt" group-title="Audio y Streaming", Nacional Rock (FM 93.7)
+#EXTINF:-1 tvg-chno="1220" tvg-logo="https://static.radioconvos.com.ar/uploads/2024/04/Logo-2.png" group-title="Audio y Streaming", Radio Con Vos (FM 89.9)
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1221" tvg-logo="https://git.io/JOTtt" group-title="Audio y Streaming", Nacional Rock (FM 93.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 
-#EXTINF:-1 tvg-chno="1221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_Radio_Disney_%282023%29.png" group-title="Audio y Streaming", Radio Disney (FM 94.3)
+#EXTINF:-1 tvg-chno="1222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_Radio_Disney_%282023%29.png" group-title="Audio y Streaming", Radio Disney (FM 94.3)
 https://musicsrc.cvattv.com.ar/RDIS
 
-#EXTINF:-1 tvg-chno="1222" tvg-logo="https://www.metro951.com/vivo/img/player.png" group-title="Audio y Streaming", Metro 95.1
+#EXTINF:-1 tvg-chno="1223" tvg-logo="https://www.metro951.com/vivo/img/player.png" group-title="Audio y Streaming", Metro 95.1
 http://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC_SC
 
-#EXTINF:-1 tvg-chno="1223" tvg-logo="https://git.io/JOTtR" group-title="Audio y Streaming", Nacional Clásica (FM 96.7)
+#EXTINF:-1 tvg-chno="1224" tvg-logo="https://git.io/JOTtR" group-title="Audio y Streaming", Nacional Clásica (FM 96.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 
-#EXTINF:-1 tvg-chno="1224" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Audio y Streaming", Vale 97.5
+#EXTINF:-1 tvg-chno="1225" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Audio y Streaming", Vale 97.5
 https://vale.stweb.tv/vale/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1225" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Audio y Streaming", MEGA 98.3
+#EXTINF:-1 tvg-chno="1226" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Audio y Streaming", MEGA 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1226" tvg-logo="https://git.io/JOTtG" group-title="Audio y Streaming", Nacional Folklórica (FM 98.7)
+#EXTINF:-1 tvg-chno="1227" tvg-logo="https://git.io/JOTtG" group-title="Audio y Streaming", Nacional Folklórica (FM 98.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 
-#EXTINF:-1 tvg-chno="1227" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Audio y Streaming", La 100 (FM 99.9)
+#EXTINF:-1 tvg-chno="1228" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Audio y Streaming", La 100 (FM 99.9)
 https://musicsrc.cvattv.com.ar/L100
 
 #EXTINF:-1 tvg-chno="1231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Audio y Streaming", Los 40 (FM 105.5)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
 
-#EXTINF:-1 tvg-chno="1228" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Audio y Streaming", POP 101.5
+#EXTINF:-1 tvg-chno="1229" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Audio y Streaming", POP 101.5
 https://ny2.stweb.tv/popradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1229" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Audio y Streaming", Aspen (FM 102.3)
+#EXTINF:-1 tvg-chno="1230" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Audio y Streaming", Aspen (FM 102.3)
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 
-#EXTINF:-1 tvg-chno="1230" tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Audio y Streaming", DSports Radio (FM 103.1)
+#EXTINF:-1 tvg-chno="1232" tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Audio y Streaming", DSports Radio (FM 103.1)
 http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 
-#EXTINF:-1 tvg-chno="1232" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Audio y Streaming", El Observador (FM 107.9)
+#EXTINF:-1 tvg-chno="1233" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Audio y Streaming", El Observador 107.9
 https://s8.stweb.tv/observador/live/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1240" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="Audio y Streaming", RFI
-https://musicsrc.cvattv.com.ar/RRFI
+#EXTINF:-1  tvg-chno="1244" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Audio y Streaming", Urbana Play
+https://ythls-v2.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
 
 #EXTINF:-1  tvg-chno="1245" tvg-logo="https://www.estoesblender.com/assets/img/logoBig.png" group-title="Audio y Streaming", Blender
 https://ythls-v2.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
@@ -967,7 +970,7 @@ https://ythls-v2.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 #EXTINF:-1  tvg-chno="1246" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Audio y Streaming", LUZU TV
 https://ythls-v2.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
-#EXTINF:-1  tvg-chno="1247" tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s160-c-k-c0x00ffffff-no-rj" group-title="Audio y Streaming", Olga
+#EXTINF:-1  tvg-chno="1247" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Audio y Streaming", Olga
 https://ythls-v2.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 
 #EXTINF:-1  tvg-chno="1248" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Audio y Streaming", Gelatina
