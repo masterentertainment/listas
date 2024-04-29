@@ -767,7 +767,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
-#EXTINF:-1 tvg-chno="1112" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Audio y Streaming", Vorterix
+#EXTINF:-1 tvg-chno="1265" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Audio y Streaming", Vorterix
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
 #EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.61515f3d0cdd16a1424ab87d5e804841.png" group-title="Audio y Streaming", Music TOP
@@ -961,25 +961,61 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 #EXTINF:-1 tvg-chno="1234" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Audio y Streaming", El Observador 107.9
 https://s8.stweb.tv/observador/live/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1244" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Audio y Streaming", Urbana Play (Streaming)
+#EXTINF:-1  tvg-chno="1242" tvg-logo="https://www.continental.com.ar/img/logo-night.png" group-title="Audio y Streaming", Continental (Streaming)
+https://ythls-v2.onrender.com/channel/UC7fedBVCaVPhMNI_axwg69w.m3u8
+
+#EXTINF:-1  tvg-chno="1243" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Audio y Streaming", Rivadavia 630 (Streaming)
+https://ythls-v2.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
+
+#EXTINF:-1  tvg-chno="1244" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAD3.png?raw=true" group-title="Audio y Streaming", Cadena 3 (Streaming)
+https://ythls-v2.onrender.com/channel/UCNxohbqfDp8YxW_Mji2XMHA.m3u8
+
+#EXTINF:-1  tvg-chno="1245" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R710.png?raw=true" group-title="Audio y Streaming", Radio 10 (Streaming)
+https://ythls-v2.onrender.com/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
+
+#EXTINF:-1  tvg-chno="1246" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Audio y Streaming", Mitre (Streaming)
+https://ythls-v2.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
+
+#EXTINF:-1  tvg-chno="1247" tvg-logo="https://git.io/JOTLY" group-title="Audio y Streaming", Nacional (Streaming)
+https://ythls-v2.onrender.com/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
+
+#EXTINF:-1  tvg-chno="1248" tvg-logo="http://amdelplata.com/wp-content/uploads/2021/02/Radio-del-plata-logo-wp.png" group-title="Audio y Streaming", Radio Del Plata (Streaming)
+https://ythls-v2.onrender.com/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
+
+#EXTINF:-1  tvg-chno="1250" tvg-logo="https://static.radioconvos.com.ar/uploads/2024/04/Logo-2.png" group-title="Audio y Streaming", Radio Con Vos (Streaming)
+https://ythls-v2.onrender.com/channel/UCxDteokWBemJvLI_I0VUGdA.m3u8
+
+#EXTINF:-1  tvg-chno="1251" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Audio y Streaming", Mega 98.3 (Streaming)
+https://ythls-v2.onrender.com/channel/UCtloZ7xFNO9O114pkoV9a5g.m3u8
+
+#EXTINF:-1  tvg-chno="1252" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Audio y Streaming", Vale 97.5 (Streaming)
+https://ythls-v2.onrender.com/channel/UC1Oa7gHuqzGHB90FPb0ssPA.m3u8
+
+#EXTINF:-1  tvg-chno="1253" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Audio y Streaming", La 100 (Streaming)
+https://ythls-v2.onrender.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ.m3u8
+
+#EXTINF:-1  tvg-chno="1254" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Audio y Streaming", POP 101.5 (Streaming)
+https://ythls-v2.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
+
+#EXTINF:-1  tvg-chno="1255" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Audio y Streaming", Urbana Play (Streaming)
 https://ythls-v2.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
 
 #EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Audio y Streaming", Urbana Play (FM 104.3)
 https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
 
-#EXTINF:-1  tvg-chno="1245" tvg-logo="https://www.estoesblender.com/assets/img/logoBig.png" group-title="Audio y Streaming", Blender
+#EXTINF:-1  tvg-chno="1261" tvg-logo="https://www.estoesblender.com/assets/img/logoBig.png" group-title="Audio y Streaming", Blender
 https://ythls-v2.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 
-#EXTINF:-1  tvg-chno="1246" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Audio y Streaming", LUZU TV
+#EXTINF:-1  tvg-chno="1262" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Audio y Streaming", LUZU TV
 https://ythls-v2.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
-#EXTINF:-1  tvg-chno="1247" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Audio y Streaming", Olga
+#EXTINF:-1  tvg-chno="1263" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Audio y Streaming", Olga
 https://ythls-v2.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 
-#EXTINF:-1  tvg-chno="1248" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Audio y Streaming", Gelatina
+#EXTINF:-1  tvg-chno="1264" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Audio y Streaming", Gelatina
 https://ythls-v2.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 
-#EXTINF:-1  tvg-chno="1249" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Audio y Streaming", El Observador (Streaming)
+#EXTINF:-1  tvg-chno="1256" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Audio y Streaming", El Observador (Streaming)
 https://ythls-v2.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
