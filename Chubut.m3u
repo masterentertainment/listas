@@ -726,296 +726,296 @@ https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Sena
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
-#EXTINF:-1 tvg-chno="1101" tvg-id="MTVSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Audio y Streaming", MTV
+#EXTINF:-1 tvg-chno="1101" tvg-id="MTVSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Canales de Audio", MTV
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
-#EXTINF:-1 tvg-chno="1102" tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Audio y Streaming", MTV Yo!
+#EXTINF:-1 tvg-chno="1102" tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Canales de Audio", MTV Yo!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
-#EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.image.png.1802ef44a7a984cec0d426b4c370b5a9.png.303c05ab59eeeac3b476c2d6242dd344.png" group-title="Audio y Streaming", MTV 00s
+#EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.image.png.1802ef44a7a984cec0d426b4c370b5a9.png.303c05ab59eeeac3b476c2d6242dd344.png" group-title="Canales de Audio", MTV 00s
 https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
-#EXTINF:-1 tvg-chno="1105" tvg-id="MTVHitsEurope.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/small.705468994_MTVHITS.png.96a3f11860854bd70a1bbb0f28ef59de.png" group-title="Audio y Streaming", MTV Hits
+#EXTINF:-1 tvg-chno="1105" tvg-id="MTVHitsEurope.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/small.705468994_MTVHITS.png.96a3f11860854bd70a1bbb0f28ef59de.png" group-title="Canales de Audio", MTV Hits
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
-#EXTINF:-1 tvg-chno="1106" tvg-id="" tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Audio y Streaming", Latina TV
+#EXTINF:-1 tvg-chno="1106" tvg-id="" tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Canales de Audio", Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
-#EXTINF:-1 tvg-chno="1107" tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Audio y Streaming", Quiero Musica
+#EXTINF:-1 tvg-chno="1107" tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Canales de Audio", Quiero Musica
 https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
-#EXTINF:-1 tvg-chno="1109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Audio y Streaming", CM
+#EXTINF:-1 tvg-chno="1109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Canales de Audio", CM
 https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
-#EXTINF:-1 tvg-chno="1111" tvg-id="HTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/HTV_2009.png/revision/latest/scale-to-width-down/340?cb=20190125010658&path-prefix=es" group-title="Audio y Streaming", HTV
+#EXTINF:-1 tvg-chno="1111" tvg-id="HTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/HTV_2009.png/revision/latest/scale-to-width-down/340?cb=20190125010658&path-prefix=es" group-title="Canales de Audio", HTV
 https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
-#EXTINF:-1 tvg-chno="1265" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Audio y Streaming", Vorterix
+#EXTINF:-1 tvg-chno="1265" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/small.51804042_Vorterix(4).png.0d9bf37d04b9fe1f6ef08f06d18bdf82.png" group-title="Streaming", Vorterix
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
-#EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.61515f3d0cdd16a1424ab87d5e804841.png" group-title="Audio y Streaming", Music TOP
+#EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.61515f3d0cdd16a1424ab87d5e804841.png" group-title="Canales de Audio", Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
-#EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Audio y Streaming", Stingray Karaoke
+#EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Canales de Audio", Stingray Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
-#EXTINF:-1 tvg-chno="1121" tvg-logo="https://www.pngkit.com/png/full/212-2128483_amazon-fire-stick-logo-png-stingray-qello.png" group-title="Audio y Streaming", Stingray Qello
+#EXTINF:-1 tvg-chno="1121" tvg-logo="https://www.pngkit.com/png/full/212-2128483_amazon-fire-stick-logo-png-stingray-qello.png" group-title="Canales de Audio", Stingray Qello
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
-#EXTINF:-1 tvg-chno="1122" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Audio y Streaming", Stingray Djazz
+#EXTINF:-1 tvg-chno="1122" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Canales de Audio", Stingray Djazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 
-#EXTINF:-1 tvg-chno="1123" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SGNE.png?raw=true" group-title="Audio y Streaming" , Stingray Naturescape
+#EXTINF:-1 tvg-chno="1123" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SGNE.png?raw=true" group-title="Canales de Audio" , Stingray Naturescape
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
 
-#EXTINF:-1 tvg-chno="1124" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Audio y Streaming" , Stingray Classica
+#EXTINF:-1 tvg-chno="1124" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Canales de Audio" , Stingray Classica
 https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
 
-#EXTINF:-1 tvg-chno="1125" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Audio y Streaming" , Stingray Classica 2
+#EXTINF:-1 tvg-chno="1125" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Canales de Audio" , Stingray Classica 2
 https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
 
-#EXTINF:-1 tvg-chno="1126" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Audio y Streaming", Stingray Cmusic
+#EXTINF:-1 tvg-chno="1126" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Canales de Audio", Stingray Cmusic
 https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
 
-#EXTINF:-1 tvg-chno="1127" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Audio y Streaming", Stingray Cmusic 2
+#EXTINF:-1 tvg-chno="1127" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Canales de Audio", Stingray Cmusic 2
 https://watchtv-raw.ott-channels.stingray.com/cmusic01/index.m3u8
 
-#EXTINF:-1 tvg-chno="1128" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Grandes Éxitos
+#EXTINF:-1 tvg-chno="1128" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Grandes Éxitos
 https://ott-linear-channels.stingray.com/155/master.m3u8
 
-#EXTINF:-1 tvg-chno="1129" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Lista de Éxitos
+#EXTINF:-1 tvg-chno="1129" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Lista de Éxitos
 https://ott-linear-channels.stingray.com/107/master.m3u8
 
-#EXTINF:-1 tvg-chno="1130" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Éxitos del Momento
+#EXTINF:-1 tvg-chno="1130" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Éxitos del Momento
 https://ott-linear-channels.stingray.com/190/master.m3u8
 
-#EXTINF:-1 tvg-chno="1131" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Rock Clásico
+#EXTINF:-1 tvg-chno="1131" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Rock Clásico
 https://ott-linear-channels.stingray.com/101/master.m3u8
 
-#EXTINF:-1 tvg-chno="1132" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Rock Alternativo
+#EXTINF:-1 tvg-chno="1132" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Rock Alternativo
 https://ott-linear-channels.stingray.com/102/master.m3u8
 
-#EXTINF:-1 tvg-chno="1133" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Pop Adulto
+#EXTINF:-1 tvg-chno="1133" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Pop Adulto
 https://ott-linear-channels.stingray.com/104/master.m3u8
 
-#EXTINF:-1  tvg-chno="1134" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Hip Hop y R&B
+#EXTINF:-1  tvg-chno="1134" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Hip Hop y R&B
 https://ott-linear-channels.stingray.com/133/master.m3u8
 
-#EXTINF:-1  tvg-chno="1135" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Country
+#EXTINF:-1  tvg-chno="1135" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Country
 https://ott-linear-channels.stingray.com/108/master.m3u8
 
-#EXTINF:-1 tvg-chno="1136" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Flashback 70's
+#EXTINF:-1 tvg-chno="1136" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Flashback 70's
 https://ott-linear-channels.stingray.com/115/master.m3u8
 
-#EXTINF:-1 tvg-chno="1137" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Audio y Streaming" video-track="none", Stingray Remember The 80's
+#EXTINF:-1 tvg-chno="1137" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Remember The 80's
 https://ott-linear-channels.stingray.com/128/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-chno="1150" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Eventos
+#EXTINF:-1 tvg-chno="1150" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Eventos
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
-#EXTINF:-1 tvg-chno="1151" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Clásicos
+#EXTINF:-1 tvg-chno="1151" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Clásicos
 https://musicsrc.cvattv.com.ar/RM03
 
-#EXTINF:-1 tvg-chno="1152" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Electrónica
+#EXTINF:-1 tvg-chno="1152" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Electrónica
 https://musicsrc.cvattv.com.ar/RM41
 
-#EXTINF:-1 tvg-chno="1153" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Rock
+#EXTINF:-1 tvg-chno="1153" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Rock
 https://musicsrc.cvattv.com.ar/RM18
 
-#EXTINF:-1 tvg-chno="1154" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Reggaeton
+#EXTINF:-1 tvg-chno="1154" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Reggaeton
 https://musicsrc.cvattv.com.ar/RM30
 
-#EXTINF:-1 tvg-chno="1155" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Reggaeton 2
+#EXTINF:-1 tvg-chno="1155" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Reggaeton 2
 https://musicsrc.cvattv.com.ar/RM29
 
-#EXTINF:-1 tvg-chno="1156" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Latinos
+#EXTINF:-1 tvg-chno="1156" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Latinos
 https://musicsrc.cvattv.com.ar/RM31
 
-#EXTINF:-1 tvg-chno="1157" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Rock Nacional
+#EXTINF:-1 tvg-chno="1157" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Rock Nacional
 https://musicsrc.cvattv.com.ar/RM17
 
-#EXTINF:-1 tvg-chno="1158" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music 70's Hits
+#EXTINF:-1 tvg-chno="1158" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music 70's Hits
 https://musicsrc.cvattv.com.ar/RM07
 
-#EXTINF:-1 tvg-chno="1159" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music 80's Hits
+#EXTINF:-1 tvg-chno="1159" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music 80's Hits
 https://musicsrc.cvattv.com.ar/RM05
 
-#EXTINF:-1 tvg-chno="1160" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music 90's Hits
+#EXTINF:-1 tvg-chno="1160" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music 90's Hits
 https://musicsrc.cvattv.com.ar/RM04
 
-#EXTINF:-1 tvg-chno="1161" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Hits
+#EXTINF:-1 tvg-chno="1161" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Hits
 https://musicsrc.cvattv.com.ar/RM06
 
-#EXTINF:-1 tvg-chno="1162" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Tango
+#EXTINF:-1 tvg-chno="1162" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Tango
 https://musicsrc.cvattv.com.ar/RM46
 
-#EXTINF:-1 tvg-chno="1163" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Disco
+#EXTINF:-1 tvg-chno="1163" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Disco
 https://musicsrc.cvattv.com.ar/RM14
 
-#EXTINF:-1 tvg-chno="1164" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Jazz
+#EXTINF:-1 tvg-chno="1164" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Jazz
 https://musicsrc.cvattv.com.ar/RM37
 
-#EXTINF:-1 tvg-chno="1165" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Reggae
+#EXTINF:-1 tvg-chno="1165" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Reggae
 https://musicsrc.cvattv.com.ar/RM23
 
-#EXTINF:-1 tvg-chno="1166" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Retro
+#EXTINF:-1 tvg-chno="1166" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Retro
 https://musicsrc.cvattv.com.ar/RM16
 
-#EXTINF:-1 tvg-chno="1167" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Cine
+#EXTINF:-1 tvg-chno="1167" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Cine
 https://musicsrc.cvattv.com.ar/RM24
 
-#EXTINF:-1 tvg-chno="1168" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Cine Clásico
+#EXTINF:-1 tvg-chno="1168" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Cine Clásico
 https://musicsrc.cvattv.com.ar/RM25
 
-#EXTINF:-1 tvg-chno="1169" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Audio y Streaming", Flow Music Lentos
+#EXTINF:-1 tvg-chno="1169" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Lentos
 https://musicsrc.cvattv.com.ar/RM27
 
-#EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Audio y Streaming", Continental (AM 590)
+#EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Canales de Audio", Continental (AM 590)
 https://alpha.radioplayer.com.ar/stream/continental
 
-#EXTINF:-1 tvg-chno="1202" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Audio y Streaming", Rivadavia (AM 630)
+#EXTINF:-1 tvg-chno="1202" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Canales de Audio", Rivadavia (AM 630)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 
-#EXTINF:-1 tvg-chno="1203" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAD3.png?raw=true" group-title="Audio y Streaming", Cadena 3 (AM 700)
+#EXTINF:-1 tvg-chno="1203" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAD3.png?raw=true" group-title="Canales de Audio", Cadena 3 (AM 700)
 https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3
 
-#EXTINF:-1 tvg-chno="1204" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R710.png?raw=true" group-title="Audio y Streaming", Radio 10 (AM 710)
+#EXTINF:-1 tvg-chno="1204" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R710.png?raw=true" group-title="Canales de Audio", Radio 10 (AM 710)
 http://radio10.stweb.tv/radio10/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1205" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R750.png?raw=true" group-title="Audio y Streaming", AM 750
+#EXTINF:-1 tvg-chno="1205" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R750.png?raw=true" group-title="Canales de Audio", AM 750
 https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
 
-#EXTINF:-1 tvg-chno="1206" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Audio y Streaming", Mitre (AM 790)
+#EXTINF:-1 tvg-chno="1206" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Canales de Audio", Mitre (AM 790)
 https://18373.live.streamtheworld.com/AM790_56AAC.aac
 
-#EXTINF:-1 tvg-chno="1207" tvg-logo="https://git.io/JOTLY" group-title="Audio y Streaming", Nacional (AM 860)
+#EXTINF:-1 tvg-chno="1207" tvg-logo="https://git.io/JOTLY" group-title="Canales de Audio", Nacional (AM 860)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
-#EXTINF:-1 tvg-chno="1208" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRED.png?raw=true" group-title="Audio y Streaming", Radio La Red (AM 910)
+#EXTINF:-1 tvg-chno="1208" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRED.png?raw=true" group-title="Canales de Audio", Radio La Red (AM 910)
 https://20843.live.streamtheworld.com/LA_RED_AM910AAC.aac
 
-#EXTINF:-1 tvg-chno="1209" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RCNN.png?raw=true" group-title="Audio y Streaming", CNN Radio (AM 950)
+#EXTINF:-1 tvg-chno="1209" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RCNN.png?raw=true" group-title="Canales de Audio", CNN Radio (AM 950)
 https://redirector.dps.live/cnn-ar/aac/icecast.audio
 
-#EXTINF:-1 tvg-chno="1210" tvg-logo="https://amdelplata.com/wp-content/uploads/2021/08/Logo-VERTICAL-Naranja-RPD.png" group-title="Audio y Streaming", Del Plata (AM 1030)
+#EXTINF:-1 tvg-chno="1210" tvg-logo="https://amdelplata.com/wp-content/uploads/2021/08/Logo-VERTICAL-Naranja-RPD.png" group-title="Canales de Audio", Del Plata (AM 1030)
 https://musicsrc.cvattv.com.ar/RDPL
 
-#EXTINF:-1 tvg-chno="1220" tvg-logo="https://static.radioconvos.com.ar/uploads/2024/04/Logo-2.png" group-title="Audio y Streaming", Radio Con Vos (FM 89.9)
+#EXTINF:-1 tvg-chno="1220" tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2022/02/RCV_Logo-5.png" group-title="Canales de Audio", Radio Con Vos (FM 89.9)
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1221" tvg-logo="https://git.io/JOTtt" group-title="Audio y Streaming", Nacional Rock (FM 93.7)
+#EXTINF:-1 tvg-chno="1221" tvg-logo="https://git.io/JOTtt" group-title="Canales de Audio", Nacional Rock (FM 93.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 
-#EXTINF:-1 tvg-chno="1222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_Radio_Disney_%282023%29.png" group-title="Audio y Streaming", Radio Disney (FM 94.3)
+#EXTINF:-1 tvg-chno="1222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_Radio_Disney_%282023%29.png" group-title="Canales de Audio", Radio Disney (FM 94.3)
 https://musicsrc.cvattv.com.ar/RDIS
 
-#EXTINF:-1 tvg-chno="1223" tvg-logo="https://www.metro951.com/vivo/img/player.png" group-title="Audio y Streaming", Metro 95.1
+#EXTINF:-1 tvg-chno="1223" tvg-logo="https://www.metro951.com/vivo/img/player.png" group-title="Canales de Audio", Metro 95.1
 http://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC_SC
 
-#EXTINF:-1 tvg-chno="1224" tvg-logo="https://git.io/JOTtR" group-title="Audio y Streaming", Nacional Clásica (FM 96.7)
+#EXTINF:-1 tvg-chno="1224" tvg-logo="https://git.io/JOTtR" group-title="Canales de Audio", Nacional Clásica (FM 96.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 
-#EXTINF:-1 tvg-chno="1225" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Audio y Streaming", Vale 97.5
+#EXTINF:-1 tvg-chno="1225" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Canales de Audio", Vale 97.5
 https://vale.stweb.tv/vale/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1226" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Audio y Streaming", MEGA 98.3
+#EXTINF:-1 tvg-chno="1226" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Canales de Audio", MEGA 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1227" tvg-logo="https://git.io/JOTtG" group-title="Audio y Streaming", Nacional Folklórica (FM 98.7)
+#EXTINF:-1 tvg-chno="1227" tvg-logo="https://git.io/JOTtG" group-title="Canales de Audio", Nacional Folklórica (FM 98.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 
-#EXTINF:-1 tvg-chno="1228" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Audio y Streaming", La 100 (FM 99.9)
+#EXTINF:-1 tvg-chno="1228" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Canales de Audio", La 100 (FM 99.9)
 https://musicsrc.cvattv.com.ar/L100
 
-#EXTINF:-1 tvg-chno="1231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Audio y Streaming", Los 40 (FM 105.5)
+#EXTINF:-1 tvg-chno="1231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Canales de Audio", Los 40 (FM 105.5)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
 
-#EXTINF:-1 tvg-chno="1229" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Audio y Streaming", POP 101.5
+#EXTINF:-1 tvg-chno="1229" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Canales de Audio", POP 101.5
 https://ny2.stweb.tv/popradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1230" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Audio y Streaming", Aspen (FM 102.3)
+#EXTINF:-1 tvg-chno="1230" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Canales de Audio", Aspen (FM 102.3)
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 
-#EXTINF:-1 tvg-chno="1232" tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Audio y Streaming", DSports Radio (FM 103.1)
+#EXTINF:-1 tvg-chno="1232" tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Canales de Audio", DSports Radio (FM 103.1)
 http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 
-#EXTINF:-1 tvg-chno="1234" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Audio y Streaming", El Observador 107.9
+#EXTINF:-1 tvg-chno="1234" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Canales de Audio", El Observador 107.9
 https://s8.stweb.tv/observador/live/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1242" tvg-logo="https://www.continental.com.ar/img/logo-night.png" group-title="Audio y Streaming", Continental (Streaming)
+#EXTINF:-1  tvg-chno="1242" tvg-logo="https://www.continental.com.ar/img/logo-night.png" group-title="Streaming", Continental (Con Video)
 https://ythls-v2.onrender.com/channel/UC7fedBVCaVPhMNI_axwg69w.m3u8
 
-#EXTINF:-1  tvg-chno="1243" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Audio y Streaming", Rivadavia 630 (Streaming)
+#EXTINF:-1  tvg-chno="1243" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Streaming", Rivadavia 630 (Con Video)
 https://ythls-v2.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
-#EXTINF:-1  tvg-chno="1244" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAD3.png?raw=true" group-title="Audio y Streaming", Cadena 3 (Streaming)
+#EXTINF:-1  tvg-chno="1244" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAD3.png?raw=true" group-title="Streaming", Cadena 3 (Con Video)
 https://ythls-v2.onrender.com/channel/UCNxohbqfDp8YxW_Mji2XMHA.m3u8
 
-#EXTINF:-1  tvg-chno="1245" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R710.png?raw=true" group-title="Audio y Streaming", Radio 10 (Streaming)
+#EXTINF:-1  tvg-chno="1245" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R710.png?raw=true" group-title="Streaming", Radio 10 (Con Video)
 https://ythls-v2.onrender.com/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
 
-#EXTINF:-1  tvg-chno="1246" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Audio y Streaming", Mitre (Streaming)
+#EXTINF:-1  tvg-chno="1246" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png" group-title="Streaming", Mitre (Con Video)
 https://ythls-v2.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
 
-#EXTINF:-1  tvg-chno="1247" tvg-logo="https://git.io/JOTLY" group-title="Audio y Streaming", Nacional (Streaming)
+#EXTINF:-1  tvg-chno="1247" tvg-logo="https://git.io/JOTLY" group-title="Streaming", Nacional (Con Video)
 https://ythls-v2.onrender.com/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
 
-#EXTINF:-1  tvg-chno="1248" tvg-logo="https://amdelplata.com/wp-content/uploads/2021/08/Logo-VERTICAL-Naranja-RPD.png" group-title="Audio y Streaming", Radio Del Plata (Streaming)
+#EXTINF:-1  tvg-chno="1248" tvg-logo="https://amdelplata.com/wp-content/uploads/2021/08/Logo-VERTICAL-Naranja-RPD.png" group-title="Streaming", Radio Del Plata (Con Video)
 https://ythls-v2.onrender.com/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
 
-#EXTINF:-1  tvg-chno="1250" tvg-logo="https://static.radioconvos.com.ar/uploads/2024/04/Logo-2.png" group-title="Audio y Streaming", Radio Con Vos (Streaming)
+#EXTINF:-1  tvg-chno="1250" tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2022/02/RCV_Logo-5.png" group-title="Streaming", Radio Con Vos (Con Video)
 https://ythls-v2.onrender.com/channel/UCxDteokWBemJvLI_I0VUGdA.m3u8
 
-#EXTINF:-1  tvg-chno="1251" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Audio y Streaming", Mega 98.3 (Streaming)
+#EXTINF:-1  tvg-chno="1251" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Streaming", Mega 98.3 (Con Video)
 https://ythls-v2.onrender.com/channel/UCtloZ7xFNO9O114pkoV9a5g.m3u8
 
-#EXTINF:-1  tvg-chno="1252" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Audio y Streaming", Vale 97.5 (Streaming)
+#EXTINF:-1  tvg-chno="1252" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Streaming", Vale 97.5 (Con Video)
 https://ythls-v2.onrender.com/channel/UC1Oa7gHuqzGHB90FPb0ssPA.m3u8
 
-#EXTINF:-1  tvg-chno="1253" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Audio y Streaming", La 100 (Streaming)
+#EXTINF:-1  tvg-chno="1253" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Streaming", La 100 (Con Video)
 https://ythls-v2.onrender.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ.m3u8
 
-#EXTINF:-1  tvg-chno="1254" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Audio y Streaming", POP 101.5 (Streaming)
+#EXTINF:-1  tvg-chno="1254" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/01/Radio-POP-1.png" group-title="Streaming", POP 101.5 (Con Video)
 https://ythls-v2.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 
-#EXTINF:-1  tvg-chno="1255" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Audio y Streaming", Urbana Play (Streaming)
+#EXTINF:-1  tvg-chno="1255" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Streaming", Urbana Play (Con Video)
 https://ythls-v2.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
 
-#EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Audio y Streaming", Urbana Play (FM 104.3)
+#EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (FM 104.3)
 https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
 
-#EXTINF:-1  tvg-chno="1261" tvg-logo="https://www.estoesblender.com/assets/img/logoBig.png" group-title="Audio y Streaming", Blender
+#EXTINF:-1  tvg-chno="1261" tvg-logo="https://www.estoesblender.com/assets/img/logoBig.png" group-title="Streaming", Blender
 https://ythls-v2.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 
-#EXTINF:-1  tvg-chno="1262" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Audio y Streaming", LUZU TV
+#EXTINF:-1  tvg-chno="1262" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Streaming", LUZU TV
 https://ythls-v2.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
-#EXTINF:-1  tvg-chno="1263" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Audio y Streaming", Olga
+#EXTINF:-1  tvg-chno="1263" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Streaming", Olga
 https://ythls-v2.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 
-#EXTINF:-1  tvg-chno="1264" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Audio y Streaming", Gelatina
+#EXTINF:-1  tvg-chno="1264" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Streaming", Gelatina
 https://ythls-v2.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 
-#EXTINF:-1  tvg-chno="1256" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Audio y Streaming", El Observador (Streaming)
+#EXTINF:-1  tvg-chno="1256" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Streaming", El Observador (Con Video)
 https://ythls-v2.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -1102,10 +1102,10 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1  tvg-chno="1290" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LU17.png?raw=true" group-title="Radios Locales", #LA17 (AM 540)
 http://138.36.96.199:8001/lu17
 
-#EXTINF:-1  tvg-chno="1291" tvg-logo="https://git.io/JOTLg" group-title="Audio y Streaming", Nacional Esquel (AM 560)
+#EXTINF:-1  tvg-chno="1291" tvg-logo="https://git.io/JOTLg" group-title="Canales de Audio", Nacional Esquel (AM 560)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad9
 
-#EXTINF:-1  tvg-chno="1292" tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Audio y Streaming", LU20 Radio Chubut (AM 580)
+#EXTINF:-1  tvg-chno="1292" tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Canales de Audio", LU20 Radio Chubut (AM 580)
 https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream
 
 #EXTINF:-1 tvg-chno="1293" tvg-logo="https://git.io/J351K" group-title="Radios Locales", Nacional Patagonia Argentina (AM 630)
