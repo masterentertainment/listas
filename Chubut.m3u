@@ -916,7 +916,7 @@ https://20843.live.streamtheworld.com/LA_RED_AM910AAC.aac
 #EXTINF:-1 tvg-chno="1209" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RCNN.png?raw=true" group-title="Audio y Streaming", CNN Radio (AM 950)
 https://redirector.dps.live/cnn-ar/aac/icecast.audio
 
-#EXTINF:-1 tvg-chno="1210" tvg-logo="http://amdelplata.com/wp-content/uploads/2021/02/Radio-del-plata-logo-wp.png" group-title="Audio y Streaming", Del Plata (AM 1030)
+#EXTINF:-1 tvg-chno="1210" tvg-logo="https://amdelplata.com/wp-content/uploads/2021/08/Logo-VERTICAL-Naranja-RPD.png" group-title="Audio y Streaming", Del Plata (AM 1030)
 https://musicsrc.cvattv.com.ar/RDPL
 
 #EXTINF:-1 tvg-chno="1220" tvg-logo="https://static.radioconvos.com.ar/uploads/2024/04/Logo-2.png" group-title="Audio y Streaming", Radio Con Vos (FM 89.9)
@@ -979,7 +979,7 @@ https://ythls-v2.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
 #EXTINF:-1  tvg-chno="1247" tvg-logo="https://git.io/JOTLY" group-title="Audio y Streaming", Nacional (Streaming)
 https://ythls-v2.onrender.com/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
 
-#EXTINF:-1  tvg-chno="1248" tvg-logo="http://amdelplata.com/wp-content/uploads/2021/02/Radio-del-plata-logo-wp.png" group-title="Audio y Streaming", Radio Del Plata (Streaming)
+#EXTINF:-1  tvg-chno="1248" tvg-logo="https://amdelplata.com/wp-content/uploads/2021/08/Logo-VERTICAL-Naranja-RPD.png" group-title="Audio y Streaming", Radio Del Plata (Streaming)
 https://ythls-v2.onrender.com/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
 
 #EXTINF:-1  tvg-chno="1250" tvg-logo="https://static.radioconvos.com.ar/uploads/2024/04/Logo-2.png" group-title="Audio y Streaming", Radio Con Vos (Streaming)
