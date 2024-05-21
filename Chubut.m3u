@@ -415,7 +415,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
 #EXTINF:-1 tvg-chno="512" tvg-id="CiudadMagazineHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Variedades", Ciudad Magazine
 https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
 
-#EXTINF:-1 tvg-chno="513" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/2d/UNIFE2021.png" tvg-group="Variedades", Unife
+#EXTINF:-1 tvg-chno="513" tvg-id="CN23.ar" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/2d/UNIFE2021.png" tvg-group="Variedades", Unife
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -537,12 +537,11 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
-#EXTINF:-1 tvg-chno="808" tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://www.tvfestival.com/img/partenaires/logos/2022/media/tv5monde.png" group-title="Mundo", TV5 Monde Amerique Latine
+#EXTINF:-1 tvg-chno="808" tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2015/10/tv5monde-300x105.png" group-title="Mundo", TV5Monde Amerique Latine
 https://chromecast.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
 
-#EXTINF:-1 tvg-chno="809" tvg-id="NHKWorldJapan.jp" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Mundo", NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
+#EXTINF:-1 tvg-chno="809" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png" group-title="Mundo", NHK World Japan 
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
@@ -551,7 +550,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/B
 
 #EXTINF:-1 tvg-chno="822" tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/sml_gallery_11278_7_63.jpg" group-title="Mundo", CNN Internacional
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
