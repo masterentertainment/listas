@@ -42,12 +42,14 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="10"tvg-name="NGFED" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true" tvg-group="Noticias", Norte Grande Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-logo="https://www.eldestapeweb.com/img/estructura/logo-EDR-blanco.png" tvg-group="Noticias", El Destape TV
+#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-logo="https://multivision.tv/wp-content/uploads/2024/04/LOGO-MONEDA.png" tvg-group="Noticias", Multivisión Federal
+https://panel.host-live.com:443/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://www.eldestapeweb.com/img/estructura/logo-EDR-blanco.png" tvg-group="Noticias", El Destape TV
 https://ythls-v2.onrender.com/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_07/large.Extra.png.4583db566516d57fab4b3b5196a27f63.png" tvg-group="Noticias", EXTRA!
+#EXTINF:-1 tvg-chno="13" tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_07/large.Extra.png.4583db566516d57fab4b3b5196a27f63.png" tvg-group="Noticias", EXTRA!
 https://ythls-v2.onrender.com/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
@@ -413,16 +415,18 @@ https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
 #EXTINF:-1 tvg-chno="512" tvg-id="CiudadMagazineHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Variedades", Ciudad Magazine
 https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
 
+#EXTINF:-1 tvg-chno="513" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/2d/UNIFE2021.png" tvg-group="Variedades", Unife
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
-#EXTINF:-1 tvg-chno="513" tvg-id="ComedyCentralSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
+#EXTINF:-1 tvg-chno="514" tvg-id="ComedyCentralSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Variedades", Comedy Central
 https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
-#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="Variedades", Discovery ID
+#EXTINF:-1 tvg-chno="701" tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="Culturales", Discovery ID
 https://chromecast.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -638,7 +642,7 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
-#EXTINF:-1 tvg-chno="907" tvg-id="TBSSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png" group-title="Variedades", TNT Novelas
+#EXTINF:-1 tvg-chno="907" tvg-id="TBSSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png" group-title="Estilos de Vida", TNT Novelas
 https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
