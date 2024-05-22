@@ -217,7 +217,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
-#EXTINF:-1 tvg-chno="303" tvg-id="DisneyJuniorSouth.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es" group-title="Infantiles y Familiares", Disney Junior
+#EXTINF:-1 tvg-chno="303" tvg-id="DisneyJuniorSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSJR.png?raw=true" group-title="Infantiles y Familiares", Disney Junior
 https://chromecast.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
 
@@ -700,23 +700,24 @@ https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Sena
 #EXTINF:-1 tvg-chno="1101" tvg-id="MTVSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Canales de Audio", MTV
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
-#EXTINF:-1 tvg-chno="1102" tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Canales de Audio", MTV Yo!
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTINF:-1 tvg-chno="1102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" tvg-aspect-ratio=4:3 aspect-ratio=4:3 group-title="Canales de Audio", MTV 80s
+https://webtvstream.bhtelecom.ba/hls18/mtv_80s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
-#EXTINF:-1 tvg-chno="1103" tvg-id="MTV00s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.image.png.1802ef44a7a984cec0d426b4c370b5a9.png.303c05ab59eeeac3b476c2d6242dd344.png" group-title="Canales de Audio", MTV 00s
+#EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.image.png.1802ef44a7a984cec0d426b4c370b5a9.png.303c05ab59eeeac3b476c2d6242dd344.png" group-title="Canales de Audio", MTV 00s
 https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-chno="1105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Canales de Audio", MTV 90s
+#EXTINF:-1 tvg-chno="1103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Canales de Audio", MTV 90s
 https://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-chno="1106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/1200px-Club_MTV_2021_logo.svg.png" group-title="Canales de Audio", Club MTV
+#EXTINF:-1 tvg-chno="1105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/1200px-Club_MTV_2021_logo.svg.png" group-title="Canales de Audio", Club MTV
 https://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
