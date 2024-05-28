@@ -754,60 +754,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorteri
 #EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_10/large.2033856469_MusicTop(2020).png.61515f3d0cdd16a1424ab87d5e804841.png" group-title="Canales de Audio", Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
-#EXTINF:-1 tvg-chno="1120" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="Canales de Audio", Stingray Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-
-#EXTINF:-1 tvg-chno="1121" tvg-logo="https://www.pngkit.com/png/full/212-2128483_amazon-fire-stick-logo-png-stingray-qello.png" group-title="Canales de Audio", Stingray Qello
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-
-#EXTINF:-1 tvg-chno="1122" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Canales de Audio", Stingray Djazz
-https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-
-#EXTINF:-1 tvg-chno="1123" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SGNE.png?raw=true" group-title="Canales de Audio" , Stingray Naturescape
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
-
-#EXTINF:-1 tvg-chno="1124" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Canales de Audio" , Stingray Classica
-https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
-
-#EXTINF:-1 tvg-chno="1125" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Canales de Audio" , Stingray Classica 2
-https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
-
-#EXTINF:-1 tvg-chno="1126" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Canales de Audio", Stingray Cmusic
-https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
-
-#EXTINF:-1 tvg-chno="1127" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Canales de Audio", Stingray Cmusic 2
-https://watchtv-raw.ott-channels.stingray.com/cmusic01/index.m3u8
-
-#EXTINF:-1 tvg-chno="1128" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Grandes Éxitos
-https://ott-linear-channels.stingray.com/155/master.m3u8
-
-#EXTINF:-1 tvg-chno="1129" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Lista de Éxitos
-https://ott-linear-channels.stingray.com/107/master.m3u8
-
-#EXTINF:-1 tvg-chno="1130" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Éxitos del Momento
-https://ott-linear-channels.stingray.com/190/master.m3u8
-
-#EXTINF:-1 tvg-chno="1131" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Rock Clásico
-https://ott-linear-channels.stingray.com/101/master.m3u8
-
-#EXTINF:-1 tvg-chno="1132" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Rock Alternativo
-https://ott-linear-channels.stingray.com/102/master.m3u8
-
-#EXTINF:-1 tvg-chno="1133" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Pop Adulto
-https://ott-linear-channels.stingray.com/104/master.m3u8
-
-#EXTINF:-1  tvg-chno="1134" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Hip Hop y R&B
-https://ott-linear-channels.stingray.com/133/master.m3u8
-
-#EXTINF:-1  tvg-chno="1135" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Country
-https://ott-linear-channels.stingray.com/108/master.m3u8
-
-#EXTINF:-1 tvg-chno="1136" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Flashback 70's
-https://ott-linear-channels.stingray.com/115/master.m3u8
-
-#EXTINF:-1 tvg-chno="1137" tvg-id="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/stingray-logo-white-vertical.png" group-title="Canales de Audio" video-track="none", Stingray Remember The 80's
-https://ott-linear-channels.stingray.com/128/master.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
 #EXTINF:-1 tvg-chno="1150" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/small.1670355347_FlowMusic(1).png.edfaa3569b92427911efad9db3ee3e33.png" group-title="Canales de Audio", Flow Music Eventos
