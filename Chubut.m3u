@@ -888,22 +888,22 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 #EXTINF:-1 tvg-chno="1234" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Canales de Audio", El Observador 107.9
 https://s8.stweb.tv/observador/live/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1235" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NEURA.png?raw=true" group-title="Streaming", Neura
+#EXTINF:-1  tvg-chno="1266" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NEURA.png?raw=true" group-title="Streaming", Neura
 https://ythls-v2.onrender.com/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
 
 #EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (FM 104.3)
 https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
 
-#EXTINF:-1  tvg-chno="1236" tvg-logo="https://www.estoesblender.com/assets/img/logoBig.png" group-title="Streaming", Blender
+#EXTINF:-1  tvg-chno="1267" tvg-logo="https://www.estoesblender.com/assets/img/logoBig.png" group-title="Streaming", Blender
 https://ythls-v2.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 
-#EXTINF:-1  tvg-chno="1237" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Streaming", LUZU TV
+#EXTINF:-1  tvg-chno="1268" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Streaming", LUZU TV
 https://ythls-v2.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
-#EXTINF:-1  tvg-chno="1238" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Streaming", Olga
+#EXTINF:-1  tvg-chno="1269" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Streaming", Olga
 https://ythls-v2.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 
-#EXTINF:-1  tvg-chno="1239" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Streaming", Gelatina
+#EXTINF:-1  tvg-chno="1270" tvg-logo="https://gelatina.com.ar/wp-content/uploads/2022/05/GELATINA_LOGO_NEW-1.png" group-title="Streaming", Gelatina
 https://ythls-v2.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -981,31 +981,25 @@ ________________________________________________________________________________
 #EXTINF:-1 tvg-chno="2004" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2009" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/9AZM.png?raw=true" tvg-group="Locales", AZM TV Comodoro
-https://live.canalnueve.tv/index.m3u8
-
 #EXTINF:-1 tvg-chno="2012" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/12PM.png?raw=true" tvg-group="Locales", Canal 12 Trelew
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1290" tvg-logo="https://dainty-tarsier-5f55ba.netlify.app/assets/la17-30ae4e68.png" group-title="Radios Locales", #LA17 (AM 540)
+#EXTINF:-1  tvg-chno="1250" tvg-logo="https://dainty-tarsier-5f55ba.netlify.app/assets/la17-30ae4e68.png" group-title="Radios Locales", #LA17 (AM 540)
 http://138.36.96.199:8001/lu17
 
-#EXTINF:-1  tvg-chno="1291" tvg-logo="https://git.io/JOTLg" group-title="Canales de Audio", Nacional Esquel (AM 560)
+#EXTINF:-1  tvg-chno="1251" tvg-logo="https://git.io/JOTLg" group-title="Canales de Audio", Nacional Esquel (AM 560)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad9
 
-#EXTINF:-1  tvg-chno="1292" tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Canales de Audio", LU20 Radio Chubut (AM 580)
+#EXTINF:-1  tvg-chno="1252" tvg-logo="https://play-lh.googleusercontent.com/mYv3cF31mbU2zwOfO3mWssYf2S1WOHQydCFJpCJMzT-pvFASIKEUaU50QDtkpSiBzA=w1400-h720" group-title="Canales de Audio", LU20 Radio Chubut (AM 580)
 https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream
 
-#EXTINF:-1 tvg-chno="1293" tvg-logo="https://git.io/J351K" group-title="Radios Locales", Nacional Patagonia Argentina (AM 630)
+#EXTINF:-1 tvg-chno="1253" tvg-logo="https://git.io/J351K" group-title="Radios Locales", Nacional Patagonia Argentina (AM 630)
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
 
-#EXTINF:-1  tvg-chno="1294" tvg-logo="https://git.io/JOTLw" group-title="Radios Locales", Nacional Comodoro Rivadavia (AM 670)
+#EXTINF:-1  tvg-chno="1254" tvg-logo="https://git.io/JOTLw" group-title="Radios Locales", Nacional Comodoro Rivadavia (AM 670)
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad11
 
-#EXTINF:-1  tvg-chno="1295" tvg-logo="https://pbs.twimg.com/media/COAjNT_WcAEdXXr.png" group-title="Radios Locales", Radio 3 Cadena Patagonia (AM 780)
+#EXTINF:-1  tvg-chno="1255" tvg-logo="https://pbs.twimg.com/media/COAjNT_WcAEdXXr.png" group-title="Radios Locales", Radio 3 Cadena Patagonia (AM 780)
 https://cdn.instream.audio/:9085/stream
-
-#EXTINF:-1  tvg-chno="1296" tvg-logo="https://git.io/J3511" group-title="Radios Locales", Radio 3 Andina (AM 1200)
-https://cdn.instream.audio/:9073/stream
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
