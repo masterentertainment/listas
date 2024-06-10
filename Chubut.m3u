@@ -319,7 +319,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramo
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee
-#EXTINF:-1  tvg-chno="410" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="Variedades", Eurochannel
+#EXTINF:-1  tvg-chno="410" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" group-title="Variedades", Eurochannel
 https://chromecast.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -947,13 +947,13 @@ https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#EXTINF:-1 tvg-chno="2004" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C4EQS.png?raw=true" tvg-group="Locales", Canal 4 Esquel
+#EXTINF:-1 tvg-chno="2004" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" tvg-group="Locales", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2012" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/12PM.png?raw=true" tvg-group="Locales", Canal 12 Trelew
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1250" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/#LA17.png?raw=true" group-title="Radios Locales", #LA17 (AM 540)
+#EXTINF:-1  tvg-chno="1250" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/%23LA17.png?raw=true" group-title="Radios Locales", #LA17 (AM 540)
 http://138.36.96.199:8001/lu17
 
 #EXTINF:-1  tvg-chno="1251" tvg-logo="https://git.io/JOTLg" group-title="Canales de Audio", Nacional Esquel (AM 560)
