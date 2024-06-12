@@ -179,19 +179,29 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 #KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
 #EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" group-title="Deportes", Golf TV Latam
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
+_________________________________________________________________________________________________________________________________________________________________
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"12eb5a800ec25041b60137666d7d6161":"7142827a4dc2e8915960130eaa9a6570","a2cb88868ca15b69a0e7c9a74e183051":"52eea590c8ded2561f351073e66ec145","41cf57b52fa1515f8c75f754bf0563aa":"072b9ff7210362ddd2a572084aed3644"}
+#EXTINF:-1 tvg-chno="250" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSP2.png?raw=true" group-title="Deportes", DSports 2 | Copa América
+https://tvup-ccs-live.akamaized.net/directvsport2/directvsport2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d723222c1ba95ad28288dccd40a79766":"1ddd0bf1138578b1961597c50513c32d","f4df857dcc2f55e2b07857a7037b67ab":"211ff04a65e352a80e0f281e712d03d2","586d8f89ded65389a5e52d4463cb6020":"0b8b48632b38863bbcf23821f0e9bc40"}
+#EXTINF:-1 tvg-chno="255" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSP+.png?raw=true" group-title="Deportes", DSports + | Copa América
+https://tvup-ccs-live.akamaized.net/directvsportplus/directvsportplus.mpd
 _________________________________________________________________________________________________________________________________________________________________
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTINF:-1 tvg-chno="250" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
+#EXTINF:-1 tvg-chno="280" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 tvg-chno="251" tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports
+#EXTINF:-1 tvg-chno="281" tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports
 https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 _________________________________________________________________________________________________________________________________________________________________
 
