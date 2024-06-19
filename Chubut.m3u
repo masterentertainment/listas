@@ -184,7 +184,7 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"12eb5a800ec25041b60137666d7d6161":"7142827a4dc2e8915960130eaa9a6570","a2cb88868ca15b69a0e7c9a74e183051":"52eea590c8ded2561f351073e66ec145","41cf57b52fa1515f8c75f754bf0563aa":"072b9ff7210362ddd2a572084aed3644"}
 #EXTINF:-1 tvg-chno="250" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSP2.png?raw=true" group-title="Deportes", DSports 2 | Copa América
-https://tvup-ccs-live.akamaized.net/directvsport2/directvsport2.mpd
+https://lens.pricesaskeloadsc.com:443/dsports_2/index.m3u8?token=28a257f20725266f3839662f44ec555d886d0ecd-73-1718772597-1718761797
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d723222c1ba95ad28288dccd40a79766":"1ddd0bf1138578b1961597c50513c32d","f4df857dcc2f55e2b07857a7037b67ab":"211ff04a65e352a80e0f281e712d03d2","586d8f89ded65389a5e52d4463cb6020":"0b8b48632b38863bbcf23821f0e9bc40"}
