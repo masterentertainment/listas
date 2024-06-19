@@ -181,8 +181,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 _________________________________________________________________________________________________________________________________________________________________
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"12eb5a800ec25041b60137666d7d6161":"7142827a4dc2e8915960130eaa9a6570","a2cb88868ca15b69a0e7c9a74e183051":"52eea590c8ded2561f351073e66ec145","41cf57b52fa1515f8c75f754bf0563aa":"072b9ff7210362ddd2a572084aed3644"}
 #EXTINF:-1 tvg-chno="250" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSP2.png?raw=true" group-title="Deportes", DSports 2 | Copa América
 https://lens.pricesaskeloadsc.com:443/dsports_2/index.m3u8?token=28a257f20725266f3839662f44ec555d886d0ecd-73-1718772597-1718761797
 
