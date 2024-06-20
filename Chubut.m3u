@@ -519,7 +519,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2
 #EXTINF:-1 tvg-chno="715" tvg-id="SunChannel.ve" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SUNCH.png?raw=true" group-title="Culturales", Sun Channel
 https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
 
-#EXTINF:-1 tvg-chno="716" tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="Culturales", INTI
+#EXTINF:-1 tvg-chno="716" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INTI.png?raw=true" group-title="Culturales", INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist.m3u8
 
 
