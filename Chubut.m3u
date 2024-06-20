@@ -182,7 +182,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Gol
 _________________________________________________________________________________________________________________________________________________________________
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="1563586185955731899c517fca4229a8":"5e987516e20522093d5ffee9a84d71b0","e6d067c9fc4e5b14b2d199307a4d4c6e":"488991a152e05377cb46e6704a28eafc","11aa98b988db5b1d9dd85142d1314cf9":"86d6fc031da6cca8fcf364b1655843e3"
+#KODIPROP:inputstream.adaptive.license_key={"1563586185955731899c517fca4229a8":"5e987516e20522093d5ffee9a84d71b0","e6d067c9fc4e5b14b2d199307a4d4c6e":"488991a152e05377cb46e6704a28eafc","11aa98b988db5b1d9dd85142d1314cf9":"86d6fc031da6cca8fcf364b1655843e3"}
 #EXTINF:-1 tvg-chno="250" tvg-id=" " tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSPRT.png?raw=true" group-title="COPA AMÉRICA", DSports | Copa América
 https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd
 
