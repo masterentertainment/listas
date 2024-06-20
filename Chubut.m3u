@@ -388,13 +388,20 @@ https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 #EXTINF:-1 tvg-chno="413" tvg-id="" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="Variedades", Cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d6a86311c21a2c0f6e90d58fd7e590:b5607e3891e8fb4c0cc82d8f82abe569
 #EXTINF:-1 tvg-chno="414" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPLS.png?raw=true" group-title="Variedades", Golden Plus
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_HD)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90e294719f2fff6d7e9e965f4a555d66:fa230329e8ca3ae084cd1fb3b701421e
-#EXTINF:-1 tvg-chno="415" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="Variedades", Golden Edge
+#EXTINF:-1 tvg-chno="415" tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="Variedades", Golden Edge
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_EDGE_HD)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+#EXTINF:-1 tvg-chno="409" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="Variedades", Sony Movies
+https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd
 
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVEST.png?raw=true" tvg-group="Variedades", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
