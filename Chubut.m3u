@@ -182,6 +182,12 @@ https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Gol
 
 _________________________________________________________________________________________________________________________________________________________________
 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-chno="250" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSPRT.png?raw=true" group-title="Deportes", DSports | Copa América
+https://lens.pricesaskeloadsc.com:443/dsports/index.m3u8?token=eab6319e33b4d4ea797ea2d9f1a61b58f23a6f56-e3-1719191676-1719180876
+
+_________________________________________________________________________________________________________________________________________________________________
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
