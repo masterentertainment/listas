@@ -847,7 +847,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
 
 #EXTINF:-1 tvg-chno="1205" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R750.png?raw=true" group-title="Canales de Audio", AM 750
-https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM750AAC.aac
 
 #EXTINF:-1 tvg-chno="1206" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MITRE.png?raw=true" group-title="Canales de Audio", Mitre (AM 790)
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
@@ -856,7 +856,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
 #EXTINF:-1 tvg-chno="1208" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRED.png?raw=true" group-title="Canales de Audio", Radio La Red (AM 910)
-https://20843.live.streamtheworld.com/LA_RED_AM910AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
 
 #EXTINF:-1 tvg-chno="1209" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RCNN.png?raw=true" group-title="Canales de Audio", CNN Radio (AM 950)
 https://redirector.dps.live/cnn-ar/aac/icecast.audio
