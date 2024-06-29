@@ -898,7 +898,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA
 https://ny2.stweb.tv/popradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1230" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Canales de Audio", Aspen (FM 102.3)
-https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 
 #EXTINF:-1 tvg-chno="1232" tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Canales de Audio", DSports Radio (FM 103.1)
 http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
@@ -909,7 +909,8 @@ https://s8.stweb.tv/observador/live/playlist.m3u8
 #EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (FM 104.3)
 https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
 
-
+#EXTINF:-1  tvg-chno="1233.5" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (Streaming)
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
