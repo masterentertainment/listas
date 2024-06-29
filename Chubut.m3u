@@ -909,7 +909,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 #EXTINF:-1 tvg-chno="1234" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Canales de Audio", El Observador 107.9
 https://s8.stweb.tv/observador/live/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (Streaming)
+#EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (FM 104.3)
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
