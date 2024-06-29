@@ -835,22 +835,22 @@ https://musicsrc.cvattv.com.ar/RM25
 https://musicsrc.cvattv.com.ar/RM27
 
 #EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Canales de Audio", Continental (AM 590)
-https://alpha.radioplayer.com.ar/stream/continental
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
 
 #EXTINF:-1 tvg-chno="1202" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Canales de Audio", Rivadavia (AM 630)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
 
 #EXTINF:-1 tvg-chno="1203" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAD3.png?raw=true" group-title="Canales de Audio", Cadena 3 (AM 700)
 https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3
 
 #EXTINF:-1 tvg-chno="1204" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R710.png?raw=true" group-title="Canales de Audio", Radio 10 (AM 710)
-http://radio10.stweb.tv/radio10/live/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
 
 #EXTINF:-1 tvg-chno="1205" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R750.png?raw=true" group-title="Canales de Audio", AM 750
 https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
 
 #EXTINF:-1 tvg-chno="1206" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MITRE.png?raw=true" group-title="Canales de Audio", Mitre (AM 790)
-https://18373.live.streamtheworld.com/AM790_56AAC.aac
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
 
 #EXTINF:-1 tvg-chno="1207" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RDNAC.png?raw=true" group-title="Canales de Audio", Nacional (AM 860)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
@@ -862,10 +862,13 @@ https://20843.live.streamtheworld.com/LA_RED_AM910AAC.aac
 https://redirector.dps.live/cnn-ar/aac/icecast.audio
 
 #EXTINF:-1 tvg-chno="1210" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RDPLT.png?raw=true" group-title="Canales de Audio", Del Plata (AM 1030)
-https://musicsrc.cvattv.com.ar/RDPL
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
+
+#EXTINF:-1 tvg-chno="1211" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LA990.png?raw=true" group-title="Canales de Audio", Splendid 990
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
 
 #EXTINF:-1 tvg-chno="1220" tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2022/02/RCV_Logo-5.png" group-title="Canales de Audio", Radio Con Vos (FM 89.9)
-https://server1.stweb.tv/rcvos/live/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0012
 
 #EXTINF:-1 tvg-chno="1221" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NROCK.png?raw=true" group-title="Canales de Audio", Nacional Rock (FM 93.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
@@ -880,22 +883,22 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC_SC
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 
 #EXTINF:-1 tvg-chno="1225" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R975.png?raw=true" group-title="Canales de Audio", Vale 97.5
-https://vale.stweb.tv/vale/live/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
 
 #EXTINF:-1 tvg-chno="1226" tvg-logo="https://media.cdnandroid.com/31/e9/ed/56/imagen-mega-98-3-0big.jpg" group-title="Canales de Audio", MEGA 98.3
-https://mega.stweb.tv/mega983/live/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0017
 
 #EXTINF:-1 tvg-chno="1227" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NFOLK.png?raw=true" group-title="Canales de Audio", Nacional Folklórica (FM 98.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 
 #EXTINF:-1 tvg-chno="1228" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Canales de Audio", La 100 (FM 99.9)
-https://musicsrc.cvattv.com.ar/L100
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0018
 
 #EXTINF:-1 tvg-chno="1231" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LOS40.png?raw=true" group-title="Canales de Audio", Los 40 (FM 105.5)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
 
 #EXTINF:-1 tvg-chno="1229" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R1015.png?raw=true" group-title="Canales de Audio", POP 101.5
-https://ny2.stweb.tv/popradio/live/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0020
 
 #EXTINF:-1 tvg-chno="1230" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Canales de Audio", Aspen (FM 102.3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
@@ -906,10 +909,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 #EXTINF:-1 tvg-chno="1234" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" group-title="Canales de Audio", El Observador 107.9
 https://s8.stweb.tv/observador/live/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (FM 104.3)
-https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
-
-#EXTINF:-1  tvg-chno="1233.5" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (Streaming)
+#EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Canales de Audio", Urbana Play (Streaming)
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
