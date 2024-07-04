@@ -43,6 +43,7 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-logo="https://multivision.tv/wp-content/uploads/2024/04/LOGO-MONEDA.png" tvg-group="Noticias", Multivisión Federal
 https://panel.host-live.com:443/8250/8250/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 #EXTINF:-1 tvg-chno="821" tvg-id="CNNenEspanol.us" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo", CNN En Español
@@ -180,6 +181,19 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 #EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" group-title="Deportes", Golf TV Latam
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
+#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="Deportes", Claro Sports
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="222" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS2.png?raw=true" group-title="Deportes", Claro Sports 2
+https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8
+
+#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS3.png?raw=true" group-title="Deportes", Claro Sports 3
+https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8
+
+#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS4.png?raw=true" group-title="Deportes", Claro Sports 4
+https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8
 _________________________________________________________________________________________________________________________________________________________________
 
 
@@ -400,12 +414,12 @@ https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
 #EXTINF:-1 tvg-chno="409" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="Variedades", Sony Movies
 https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd
 
-#EXTINF:-1 tvg-chno="515" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVEST.png?raw=true" tvg-group="Variedades", Star TVE
+#EXTINF:-1 tvg-chno="516" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVEST.png?raw=true" tvg-group="Variedades", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1 tvg-chno="516" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Variedades", Argentinísima Satelital
+#EXTINF:-1 tvg-chno="517" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Variedades", Argentinísima Satelital
 https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -431,11 +445,13 @@ https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazin
 #EXTINF:-1 tvg-chno="513" tvg-id="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" tvg-group="Variedades", METRO
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
 
+#EXTINF:-1 tvg-chno="514" tvg-id="CanalU.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="Variedades", UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
-#EXTINF:-1 tvg-chno="514" tvg-id="ComedyCentralSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="Variedades", Comedy Central
+#EXTINF:-1 tvg-chno="515" tvg-id="ComedyCentralSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="Variedades", Comedy Central
 https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
@@ -703,10 +719,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
 #EXTINF:-1 tvg-chno="1002" tvg-id="CanalOrbe21.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN21.png?raw=true" group-title="Religión", Orbe 21
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
-#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://static.flow.com.ar/images/963/CH_LOGO/350/500/0/0/90186340072381.png" group-title="Religión", Santa María
-https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Senal_Maria.mpd
+#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ENLCE.png?raw=true" group-title="Religión", Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CALUZ.png?raw=true" group-title="Religión", Canal Luz
+https://g4.proy-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
