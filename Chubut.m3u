@@ -188,15 +188,15 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(C
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-chno="222" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS2.png?raw=true" group-title="Deportes", Claro Sports 2
-https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8
+https://dai.google.com/linear/hls/pa/event/NJWUAFmXSz691nhm2fwjhw/stream/76c4c37c-d0da-462d-a945-cdeb90e916d4:SCL/master.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-chno="223" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS3.png?raw=true" group-title="Deportes", Claro Sports 3
-https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8
+https://dai.google.com/linear/hls/pa/event/waSJNqdnQ-O7oN5y2A4NGA/stream/9191158c-14b0-40b5-9a06-ed6d6d3b87ac:SCL/master.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-chno="224" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS4.png?raw=true" group-title="Deportes", Claro Sports 4
-https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8
+https://dai.google.com/linear/hls/pa/event/iEXSIQsvRn6HP2Ckpuah1A/stream/dfc9a82b-c2de-4a55-b15a-3dc5a7271803:SCL/master.m3u8
 _________________________________________________________________________________________________________________________________________________________________
 
 
