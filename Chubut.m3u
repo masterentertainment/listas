@@ -186,12 +186,15 @@ https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Gol
 #EXTINF:-1 tvg-chno="221" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="Deportes", Claro Sports
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-chno="222" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS2.png?raw=true" group-title="Deportes", Claro Sports 2
 https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-chno="223" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS3.png?raw=true" group-title="Deportes", Claro Sports 3
 https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-chno="224" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLAS4.png?raw=true" group-title="Deportes", Claro Sports 4
 https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8
 _________________________________________________________________________________________________________________________________________________________________
