@@ -862,7 +862,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AM750AAC.aac
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
 
 #EXTINF:-1 tvg-chno="1207" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RDNAC.png?raw=true" group-title="Canales de Audio", Nacional (AM 860)
-#EXTVLCOPT:logo-file="https://pbs.twimg.com/profile_images/1799993061562363904/taj1hRqI_400x400.jpg"
+#EXTIMG:"https://pbs.twimg.com/profile_images/1799993061562363904/taj1hRqI_400x400.jpg"
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
 #EXTINF:-1 tvg-chno="1208" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRED.png?raw=true" group-title="Canales de Audio", Radio La Red (AM 910)
