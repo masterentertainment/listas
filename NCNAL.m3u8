@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.0,
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
-#EXT-X-IMAGE:TYPE=STATIC,URI="https://m.media-amazon.com/images/M/MV5BOTc4OWI4YzctMzc2Ni00MTYxLTgyNDEtMWUxYTQ2MmE0OGRiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg"
