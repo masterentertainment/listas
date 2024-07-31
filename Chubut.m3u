@@ -345,44 +345,49 @@ https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A
 #EXTINF:-1  tvg-chno="503" tvg-id="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="Variedades", Volver
 https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=842c048746a377c8bbfe73a5379457cc:c18b4b542ec42d1434141518c62d5966
+#EXTINF:-1  tvg-chno="504" tvg-id="Atreseries.es" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A3SER.png?raw=true" group-title="Variedades", Atreseries
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(A3SERIESHD)/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
-#EXTINF:-1 tvg-chno="504" tvg-id="TNTSeriesSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" group-title="Variedades", TNT Series
+#EXTINF:-1 tvg-chno="505" tvg-id="TNTSeriesSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" group-title="Variedades", TNT Series
 https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
-#EXTINF:-1 tvg-chno="505" tvg-id="SonyChannelSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="Variedades", Sony Channel
+#EXTINF:-1 tvg-chno="506" tvg-id="SonyChannelSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="Variedades", Sony Channel
 https://chromecast.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
-#EXTINF:-1 tvg-chno="506" tvg-id="WarnerChannelSouth.us" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Variedades", Warner
+#EXTINF:-1 tvg-chno="507" tvg-id="WarnerChannelSouth.us" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Variedades", Warner
 https://chromecast.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
-#EXTINF:-1 tvg-chno="507" tvg-id="UniversalTVSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" group-title="Variedades", Universal TV
+#EXTINF:-1 tvg-chno="508" tvg-id="UniversalTVSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" group-title="Variedades", Universal TV
 https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
-#EXTINF:-1 tvg-chno="508" tvg-id="AXNSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="Variedades", AXN
+#EXTINF:-1 tvg-chno="509" tvg-id="AXNSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="Variedades", AXN
 https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
-#EXTINF:-1 tvg-chno="509" tvg-id="AESouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="Variedades", A&E 
+#EXTINF:-1 tvg-chno="510" tvg-id="AESouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="Variedades", A&E 
 https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
-#EXTINF:-1 tvg-chno="510" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SYFY.png?raw=true" group-title="Variedades", USA
+#EXTINF:-1 tvg-chno="511" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SYFY.png?raw=true" group-title="Variedades", USA
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd
 
 #EXTINF:-1 tvg-chno="413" tvg-id="" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="Variedades", Cinema+
@@ -413,12 +418,12 @@ https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
 #EXTINF:-1 tvg-chno="409" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="Variedades", Sony Movies
 https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd
 
-#EXTINF:-1 tvg-chno="516" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVEST.png?raw=true" tvg-group="Variedades", Star TVE
+#EXTINF:-1 tvg-chno="517" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVEST.png?raw=true" tvg-group="Variedades", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1 tvg-chno="517" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Variedades", Argentinísima Satelital
+#EXTINF:-1 tvg-chno="518" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Variedades", Argentinísima Satelital
 https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -431,25 +436,25 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
-#EXTINF:-1 tvg-chno="511" tvg-id="truTVLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Variedades", [adult swim]
+#EXTINF:-1 tvg-chno="512" tvg-id="truTVLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Variedades", [adult swim]
 https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-#EXTINF:-1 tvg-chno="512" tvg-id="CiudadMagazineHD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="Variedades", Ciudad Magazine
+#EXTINF:-1 tvg-chno="513" tvg-id="CiudadMagazineHD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="Variedades", Ciudad Magazine
 https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-#EXTINF:-1 tvg-chno="513" tvg-id="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" tvg-group="Variedades", METRO
+#EXTINF:-1 tvg-chno="514" tvg-id="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" tvg-group="Variedades", METRO
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
 
-#EXTINF:-1 tvg-chno="514" tvg-id="CanalU.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="Variedades", UCL
+#EXTINF:-1 tvg-chno="515" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="Variedades", UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
-#EXTINF:-1 tvg-chno="515" tvg-id="ComedyCentralSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="Variedades", Comedy Central
+#EXTINF:-1 tvg-chno="516" tvg-id="ComedyCentralSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="Variedades", Comedy Central
 https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
