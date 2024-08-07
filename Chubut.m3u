@@ -214,7 +214,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
-#EXTINF:-1 tvg-chno="303" tvg-id="DisneyJuniorSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSJR.png?raw=true" group-title="Infantiles y Familiares", Disney Junior
+#EXTINF:-1 tvg-chno="303" tvg-id="DisneyJuniorSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true" group-title="Infantiles y Familiares", Disney Junior
 https://chromecast.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
 
