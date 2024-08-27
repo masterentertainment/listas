@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+    // URL del canal principal
+    const urlPrincipal = 'http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007';
+
+    // URL del canal de respaldo
+    const urlRespuesta = 'https://github.com/masterentertainment/listas/blob/main/images/RDPLT.png?raw=true';
+
+    // Realizar solicitud HTTP al canal principal
+    fetch(urlPrincipal)
+      .then(response => {
+        // Si la respuesta es exitosa, no hacer nada
+        if (response.ok) return;
+      })
+      .catch(error => {
+        // Si se produce un error, redirigir al canal de respaldo
+        window.location.href = urlRespuesta;
+      });
+  </script>
+</head>
+</html>
