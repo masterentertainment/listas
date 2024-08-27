@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Stream principal
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104
+#EXTINF:-1, Stream alternativo
+https://raw.githubusercontent.com/masterentertainment/listas/main/images/LUZU.png
