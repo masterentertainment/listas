@@ -41,8 +41,11 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="10"tvg-name="NGFED" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NGFE.png?raw=true" tvg-group="Noticias", Norte Grande Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-logo="https://multivision.tv/wp-content/uploads/2024/04/LOGO-MONEDA.png" tvg-group="Noticias", Multivisión Federal
-https://panel.host-live.com:443/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVSN.png?raw=true" tvg-group="Noticias", Multivisión Federal
+https://panel.host-live.com/825000/825000/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true" tvg-group="Noticias", T5 Satelital
+http://181.209.117.35/hls/t5satelital.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
@@ -898,10 +901,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 https://redirector.dps.live/cnn-ar/aac/icecast.audio
 
 #EXTINF:-1 tvg-chno="1210" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RDPLT.png?raw=true" group-title="Música y Radios", Del Plata (AM 1030)
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
+https://github.com/masterentertainment/listas/blob/main/streams/RDPLT.html?raw=true
 
 #EXTINF:-1 tvg-chno="1211" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSTPE.png?raw=true" group-title="Música y Radios", El Destape (AM 1070)
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
 
 #EXTINF:-1 tvg-chno="1212" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LA990.png?raw=true" group-title="Música y Radios", Splendid 990
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
@@ -950,6 +953,13 @@ https://s8.stweb.tv/observador/live/playlist.m3u8
 
 #EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Música y Radios", Urbana Play (FM 104.3)
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+#EXTINF:-1  tvg-chno="1241" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NEURA.png?raw=true" group-title="Música y Radios", Neura
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0011
+
+#EXTINF:-1  tvg-chno="1242" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LUZU!.png?raw=true" group-title="Música y Radios", Blender
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104
+
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
