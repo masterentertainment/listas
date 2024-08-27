@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirigir a canal IPTV</title>
+  <script>
+    // URL del canal principal
+    const urlPrincipal = 'http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104';
+
+    // URL del canal de respaldo
+    const urlRespuesta = 'https://raw.githubusercontent.com/masterentertainment/listas/main/images/LUZU.png';
+
+    // Realizar solicitud HTTP al canal principal
+    fetch(urlPrincipal)
+      .then(response => {
+        // Si la respuesta es exitosa, no hacer nada
+        if (response.ok) return;
+      })
+      .catch(error => {
+        // Si se produce un error, redirigir al canal de respaldo
+        window.location.href = urlRespuesta;
+      });
+  </script>
+</head>
+<body>
+  <!-- Contenido opcional -->
+</body>
+</html>
