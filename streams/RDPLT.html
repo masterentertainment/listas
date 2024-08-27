@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script>
-    // URL del canal principal
-    const urlPrincipal = 'http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007';
+  <script>
+    const audioUrl = 'http://181.119.157.98:8800/amdelplata.mp3';
+    const imageUrl = 'https://github.com/masterentertainment/listas/blob/main/images/static/NEURA.png?raw=true'';
 
-    // URL del canal de respaldo
-    const urlRespuesta = 'https://github.com/masterentertainment/listas/blob/main/images/RDPLT.png?raw=true';
+    const m3uContent = `#EXTM3U
+#EXTINF:-1, Radio Nacional
+${audioUrl}
+#EXTINF:-1, Imagen estática
+${imageUrl}`;
 
-    // Realizar solicitud HTTP al canal principal
-    fetch(urlPrincipal)
-      .then(response => {
-        // Si la respuesta es exitosa, no hacer nada
-        if (response.ok) return;
-      })
-      .catch(error => {
-        // Si se produce un error, redirigir al canal de respaldo
-        window.location.href = urlRespuesta;
-      });
+    const blob = new Blob([m3uContent], { type: 'audio/m3u' });
+    const urlM3U = URL.createObjectURL(blob);
+
+    window.location.href = urlM3U;
   </script>
-</head>
-</html>
+ </head>
+</html>
