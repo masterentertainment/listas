@@ -791,6 +791,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 #EXTINF:-1 tvg-chno="1115" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VTRIX.png?raw=true" group-title="Música y Radios", Vorterix
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 
+#EXTINF:-1 tvg-chno="1113" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TRMIA.png?raw=true" group-title="Música y Radios", Tierramia TV
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
 #EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MSTOP.png?raw=true" group-title="Música y Radios", Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
