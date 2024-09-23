@@ -615,7 +615,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 #EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
-#EXTINF:-1 tvg-chno="813" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", Canal 24 Horas (Chile)
+#EXTINF:-1 tvg-chno="813" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/24TVN.png" tvg-group="Mundo", Canal 24 Horas (Chile)
 https://ythls-v3.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 #EXTINF:-1 tvg-chno="814" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
@@ -726,7 +726,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
-#EXTINF:-1 tvg-chno="1002" tvg-id="CanalOrbe21.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN21.png?raw=true" group-title="Religión", Orbe 21
+#EXTINF:-1 tvg-chno="1002" tvg-id="CanalOrbe21.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/CAN21.png" group-title="Religión", Orbe 21
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 
 #EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ENLCE.png?raw=true" group-title="Religión", Enlace
@@ -939,7 +939,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA
 #EXTINF:-1 tvg-chno="1229" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R1015.png?raw=true" group-title="Música y Radios", POP 101.5
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0020
 
-#EXTINF:-1 tvg-chno="1230" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Música y Radios", Aspen (FM 102.3)
+#EXTINF:-1 tvg-chno="1230" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ASPEN.png?raw=true" group-title="Música y Radios", Aspen (FM 102.3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN
 
 #EXTINF:-1 tvg-chno="1232" tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Música y Radios", DSports Radio (FM 103.1)
