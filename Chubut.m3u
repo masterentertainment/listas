@@ -473,9 +473,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuen
 #EXTINF:-1 tvg-chno="703" tvg-id="TECTV.ar" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="Culturales", TEC
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 
-#EXTINF:-1 tvg-chno="702" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AUNAR.png?raw=true" group-title="Culturales", Aunar
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
 #EXTINF:-1 tvg-chno="704" tvg-id="HistorySouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HSTRY.png?raw=true" group-title="Culturales", History
@@ -592,9 +589,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd
 
 #EXTINF:-1 tvg-chno="825" tvg-id="TRTWorld.tr" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TRTWR.png?raw=true" tvg-group="Mundo", TRT World
-https://tv-trtworld.live.trt.com.tr:443/master_720.m3u8
-
-#EXTINF:-1 tvg-chno="825.5" tvg-id="TRTWorld.tr" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TRTWR.png?raw=true" tvg-group="Mundo", TRT World-Op2
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -602,7 +596,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-chno="826" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EURON.png?raw=true" group-title="Mundo", Euronews
 https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd
 
-#EXTINF:-1 tvg-chno="827.5" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARRNG.png?raw=true" group-title="Mundo", Arirang World
+#EXTINF:-1 tvg-chno="827" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARRNG.png?raw=true" group-title="Mundo", Arirang World
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="804" tvg-id="GaliciaTVAmerica.es" tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/350/500/0/0/778293230765.png" group-title="Mundo", Galicia TV America
@@ -616,21 +610,12 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-chno="810" tvg-id="RaiItaliaAmerica.it" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
 https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
-#EXTINF:-1 tvg-chno="811" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RTPIN.png?raw=true" tvg-group="Mundo", RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 #EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
-#EXTINF:-1 tvg-chno="813.1" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN-OP1
-https://www.youtube.com/@24Horas_TVNChile/live
-
-#EXTINF:-1 tvg-chno="813.3" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN-OP2
-https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live
-
-#EXTINF:-1 tvg-chno="813.5" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN-OP3
+#EXTINF:-1 tvg-chno="813" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", Canal 24 Horas (Chile)
 https://ythls-v3.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 #EXTINF:-1 tvg-chno="814" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
@@ -882,7 +867,7 @@ https://musicsrc.cvattv.com.ar/RM25
 https://musicsrc.cvattv.com.ar/RM27
 
 #EXTINF:-1 tvg-chno="1201" tvg-logo="https://www.continental.com.ar/img/logo-night.png" tvg-logo-fallback="https://github.com/masterentertainment/listas/blob/main/Fondos/RLS4.jpg?raw=true" group-title="Música y Radios", Continental (AM 590)
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
+https://edge01.radiohdvivo.com/stream/continental
 
 #EXTINF:-1 tvg-chno="1202" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RRIV.png?raw=true" group-title="Música y Radios", Rivadavia (AM 630)
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
@@ -910,16 +895,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 https://redirector.dps.live/cnn-ar/aac/icecast.audio
 
 #EXTINF:-1 tvg-chno="1210" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RDPLT.png?raw=true" group-title="Música y Radios", Del Plata (AM 1030)
-https://github.com/masterentertainment/listas/blob/main/streams/RDPLT.html?raw=true
+https://streaming01.shockmedia.com.ar:10217/stream
 
-#EXTINF:-1 tvg-chno="1211" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSTPE.png?raw=true" group-title="Música y Radios", El Destape (AM 1070)
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
+#EXTINF:-1 tvg-chno="1211" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/DSTPE.png" group-title="Música y Radios", El Destape (AM 1070)
+https://ipanel.instream.audio:7001/stream
 
 #EXTINF:-1 tvg-chno="1212" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LA990.png?raw=true" group-title="Música y Radios", Splendid 990
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
+http://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC
 
 #EXTINF:-1 tvg-chno="1220" tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2022/02/RCV_Logo-5.png" group-title="Música y Radios", Radio Con Vos (FM 89.9)
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0012
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1221" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NROCK.png?raw=true" group-title="Música y Radios", Nacional Rock (FM 93.7)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
@@ -952,7 +937,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0020
 
 #EXTINF:-1 tvg-chno="1230" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Música y Radios", Aspen (FM 102.3)
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN
 
 #EXTINF:-1 tvg-chno="1232" tvg-logo="https://www.dsportsradio.com/img/logo-night.png" group-title="Música y Radios", DSports Radio (FM 103.1)
 http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
@@ -967,7 +952,19 @@ ________________________________________________________________________________
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0011
 
 #EXTINF:-1  tvg-chno="1242" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LUZU!.png?raw=true" group-title="Música y Radios", LUZU TV
-https://github.com/masterentertainment/listas/blob/main/streams/LUZU.m3u8?raw=true
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104
+
+#EXTINF:-1  tvg-chno="1243" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Música y Radios", Olga
+https://ythls-v3.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
+
+#EXTINF:-1  tvg-chno="1244" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LACA.png?raw=true" group-title="Música y Radios", LaCa Stream
+https://ythls-v3.onrender.com/channel/UCPIgqTAeWOgNvrjsGY68JSw.m3u8
+
+#EXTINF:-1  tvg-chno="1245" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GLTNA.png?raw=true" group-title="Música y Radios", Gelatina
+https://ythls-v3.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
+
+#EXTINF:-1  tvg-chno="1246" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BONDI.png?raw=true" group-title="Música y Radios", Bondi Live
+https://ythls-v3.onrender.com/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1063,6 +1060,6 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad11
 
 #EXTINF:-1  tvg-chno="1255" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/R3780.png?raw=true" group-title="Radios Locales", Radio 3 Cadena Patagonia (AM 780)
-https://cdn.instream.audio/:9085/stream
+http://radio01.ferozo.com:9474/stream
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
