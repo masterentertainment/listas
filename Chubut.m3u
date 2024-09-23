@@ -571,12 +571,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4812da5449a13158a603eac611dfe5da:76a8360ce811e5451fb4d3f69d0e48dd
-#EXTINF:-1 tvg-chno="820" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DNEWS.png?raw=true" group-title="Mundo", D News
-https://1264-vos-da-mt.dtvott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1264/DASH/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
 #EXTINF:-1 tvg-chno="808" tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TV5AL.png?raw=true" group-title="Mundo", TV5Monde Amerique Latine
 https://chromecast.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
@@ -600,10 +594,16 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_Ne
 #EXTINF:-1 tvg-chno="825" tvg-id="TRTWorld.tr" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TRTWR.png?raw=true" tvg-group="Mundo", TRT World
 https://tv-trtworld.live.trt.com.tr:443/master_720.m3u8
 
+#EXTINF:-1 tvg-chno="825.5" tvg-id="TRTWorld.tr" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TRTWR.png?raw=true" tvg-group="Mundo", TRT World-Op2
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d86b0f56d32f45adb0a6b4e488c8f0c2:e4f180b0e61be3e80ab602df5e56ff3f
 #EXTINF:-1 tvg-chno="826" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EURON.png?raw=true" group-title="Mundo", Euronews
 https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd
+
+#EXTINF:-1 tvg-chno="827.5" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARRNG.png?raw=true" group-title="Mundo", Arirang World
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="804" tvg-id="GaliciaTVAmerica.es" tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/350/500/0/0/778293230765.png" group-title="Mundo", Galicia TV America
 https://crtvg-america.flumotion.cloud/playlist.m3u8
@@ -617,15 +617,21 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
 #EXTINF:-1 tvg-chno="811" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/RTPIN.png?raw=true" tvg-group="Mundo", RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 #EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
 
-#EXTINF:-1 tvg-chno="812.5" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN
+#EXTINF:-1 tvg-chno="813.1" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN-OP1
 https://www.youtube.com/@24Horas_TVNChile/live
+
+#EXTINF:-1 tvg-chno="813.3" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN-OP2
+https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live
+
+#EXTINF:-1 tvg-chno="813.5" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN-OP3
+https://ythls-v3.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 #EXTINF:-1 tvg-chno="814" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
