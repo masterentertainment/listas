@@ -408,7 +408,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(G
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebd48bea6741b6b575709d46122d045c:2c76b5c7d47d63bf0c3d01187af9cb2f
-#EXTINF:-1 tvg-chno="415" tvg-id="CineLatino.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNELA.png?raw=true" group-title="Variedades", Cine Latino
+#EXTINF:-1 tvg-chno="416" tvg-id="CineLatino.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNELA.png?raw=true" group-title="Variedades", Cine Latino
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINELATINO)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -623,6 +623,9 @@ https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 #EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
+
+#EXTINF:-1 tvg-chno="812.5" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/24TVN.png?raw=true" tvg-group="Mundo", 24 Horas TVN
+https://www.youtube.com/@24Horas_TVNChile/live
 
 #EXTINF:-1 tvg-chno="814" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
