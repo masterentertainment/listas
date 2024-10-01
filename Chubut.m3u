@@ -951,24 +951,26 @@ https://s8.stweb.tv/observador/live/playlist.m3u8
 #EXTINF:-1  tvg-chno="1233" tvg-logo="https://urbanaplayfm.com/file/2023/09/logo-web-blanco.png" group-title="Música y Radios", Urbana Play (FM 104.3)
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-#EXTINF:-1  tvg-chno="1241" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NEURA.png?raw=true" group-title="Música y Radios", Neura
+#EXTINF:-1 tvg-chno="1241" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NEURA.png?raw=true" group-title="Música y Radios", Neura
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0011
 
-#EXTINF:-1  tvg-chno="1242" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LUZU!.png?raw=true" group-title="Música y Radios", LUZU TV
+#EXTINF:-1 tvg-chno="1242" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LUZU!.png?raw=true" group-title="Streaming", LUZU TV
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104
 
-#EXTINF:-1  tvg-chno="1243" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Música y Radios", Olga
+#EXTINF:-1 tvg-chno="1243" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/OLGA.png?raw=true" group-title="Streaming", Olga
 https://ythls-v3.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 
-#EXTINF:-1  tvg-chno="1244" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LACA.png?raw=true" group-title="Música y Radios", LaCa Stream
+#EXTINF:-1 tvg-chno="1244" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LACA.png?raw=true" group-title="Streaming", LaCa Stream
 https://ythls-v3.onrender.com/channel/UCPIgqTAeWOgNvrjsGY68JSw.m3u8
 
-#EXTINF:-1  tvg-chno="1245" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GLTNA.png?raw=true" group-title="Música y Radios", Gelatina
+#EXTINF:-1 tvg-chno="1245" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GLTNA.png?raw=true" group-title="Streaming", Gelatina
 https://ythls-v3.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 
-#EXTINF:-1  tvg-chno="1246" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BONDI.png?raw=true" group-title="Música y Radios", Bondi Live
+#EXTINF:-1 tvg-chno="1246" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BONDI.png?raw=true" group-title="Streaming", Bondi Live
 https://ythls-v3.onrender.com/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
 
+#EXTINF:-1 tvg-chno="1247" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNTAL.png?raw=true" group-title="Streaming", Cenital
+https://ythls-v3.onrender.com/channel/UCxHSIJgKZ8xVXwLGaGZEmKg.m3u8
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
