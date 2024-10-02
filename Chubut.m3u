@@ -183,6 +183,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mp
 #EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" group-title="Deportes", Golf TV Latam
 https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
+#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ITVDP.png?raw=true" group-title="Deportes", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
 #EXTINF:-1 tvg-chno="221" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="Deportes", Claro Sports
@@ -598,6 +601,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd
 
 #EXTINF:-1 tvg-chno="827" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARRNG.png?raw=true" group-title="Mundo", Arirang World
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="828" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/F24EN.png?raw=true" group-title="Mundo", Framce 24 English
+https://ythls.kekikakademi.org/youtube/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1 tvg-chno="829" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/F24ES.png?raw=true" group-title="Mundo", France 24 Español
+https://ythls.kekikakademi.org/youtube/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-chno="804" tvg-id="GaliciaTVAmerica.es" tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/350/500/0/0/778293230765.png" group-title="Mundo", Galicia TV America
 https://crtvg-america.flumotion.cloud/playlist.m3u8
